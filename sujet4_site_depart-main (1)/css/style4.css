@@ -1,0 +1,177 @@
+main{
+    display: none;
+  
+}
+
+
+body {
+  
+ /* définit le curseur personnalisé avec une image et une alternative */
+
+
+
+    background-image: url('../vachef.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* couvre toute la fenêtre */
+   background-position: center 65%;
+    background-attachment: fixed;
+
+    /*background-size: 100vw 100vh*/
+
+
+  width: 900px;
+  display: grid;
+  grid-template-columns: repeat(23, 100px); /*nbr + taille collones */
+  gap: 100px; /*gouttières */
+  grid-auto-rows: 100px; /*hauteurs des lignes */
+
+
+}
+body::before {
+  content: '';
+  position: fixed;   /* couvre tout le fond */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(0px); /* pas de flou par défaut */
+  transition: backdrop-filter 0.3s ease;
+  pointer-events: none; /* ne bloque pas la souris */
+}
+
+/* .grand
+{
+
+
+} */
+
+
+.grand{
+ 
+  font-size: 30px;
+  font-family: "GiloxLight-MAxDv.otf";
+  color: blue;
+     display: inline-block;       /* ou block si tu veux que chaque ligne soit séparée */
+  line-height: 1.5;            /* espace vertical entre les lignes */
+  white-space: normal;          /* permet au texte de se mettre à la ligne */
+  position: relative;
+  z-index: 10;
+ position: relative;        /* nécessaire pour margin-top */
+  animation: defilement 5s linear infinite alternate;
+}
+
+
+@keyframes defilement{
+
+0%{
+margin-top : -50px;
+  }
+  100%{
+    margin-top :300px;
+  }
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 9999;
+    
+  
+  padding:10px;
+}
+
+header a {
+
+  color: rgb(255, 255, 255);
+  margin-right: 100px;
+  text-decoration: none;
+  font-size: 16px;
+}
+header a:hover {
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 25px ;
+}
+
+
+.grand:hover{
+    color: rgb(255, 255, 255);
+   transform: scale(2);
+ 
+  z-index: 1;
+
+ height: max-content;
+  
+}
+body:has(.grand:hover)::before {
+  backdrop-filter: blur(20px);
+}
+
+
+/* .flash {
+  animation: flashColor 0.2s infinite alternate;
+} */
+
+@keyframes flashColor {
+  from {
+    color: rgb(0, 0, 255);
+  }
+  to {
+    color: rgb(255, 255, 255);
+  }
+}
+
+.moyen{   
+  
+  /* grid-auto-rows:auto;   */
+  
+
+  color: rgb(255, 0, 0);
+   font-size: 30px; 
+  font-family: "Fungal-Grow400Thickness500.ttf";
+          padding: 10px;  
+           overflow: hidden;
+       border-radius: 10px; /* arrondit les coins */
+        filter: drop-shadow(-8px, -10px ,46px, rgb(0, 0, 0)); /* ajoute une ombre portée bleue */
+   box-shadow:  12px 12px 38px #9e9e9e,
+             -12px -12px 38px #ffffff;
+
+   backdrop-filter: invert(80%) blur(1px); /* ajoute un flou de fond */
+          
+        /* coupe les mots longs */
+
+
+
+}
+.moyen:hover{
+
+    color: rgb(255, 255, 255);
+   transform: scale(1.5);
+ 
+  z-index: 1;
+
+ height: max-content;
+
+}
+  
+
+@font-face {
+  font-family: "Fungal-Grow400Thickness500.ttf"; /*choix du mot clef */
+  src: url("../Fungal-Grow400Thickness500.ttf");  /*attention il faut bien ajouter '../' si besoin */
+}
+
+
+
+@font-face {
+  font-family: "HyperScrypt.otf"; /*choix du mot clef */
+  src: url("../HyperScrypt.otf");  /*attention il faut bien ajouter '../' si besoin */
+}
+
+
+
+@font-face {
+  font-family: "GiloxLight-MAxDv.otf"; /*choix du mot clef */
+  src: url("../GiloxLight-MAxDv.otf");  /*attention il faut bien ajouter '../' si besoin */
+}

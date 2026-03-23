@@ -1,0 +1,6334 @@
+{
+	"corpus": {
+		"sms": [
+			{
+				"date": "15 sept. 2011 07:28:55",
+				"tel_id": "477",
+				"cont": "Hey ca va?Alors cette rentree?Va falloir se trouver un p'tit creneau pour se voir!Dis moi, est-ce que tu sais quand commence les cours de langue non specialiste?Bisoux",
+				"_id": "1"
+			},
+			{
+				"date": "15 sept. 2011 08:02:08",
+				"tel_id": "477",
+				"cont": "Ok super merci! Oui j'y comprends rien du tout moi a cette fac :pJ'irai me renseigner aussi ( si j'trouve le batiment :) )Merci encore!Bonne soiree bisoux!",
+				"_id": "2"
+			},
+			{
+				"date": "15 sept. 2011 08:03:01",
+				"tel_id": "477",
+				"cont": {
+					"Location": "Nimes",
+					"__text": "Coucou !C'est quand la feria de \n?J'suis pas bien sure de la faire mais pourquoi pas!Sinon oui, j'profite de ma derniere semaine de vacance!Bon courage!Bisoux"
+				},
+				"_id": "3"
+			},
+			{
+				"date": "15 sept. 2011 08:03:35",
+				"tel_id": "477",
+				"cont": {
+					"Location": "Montpel",
+					"__text": "Coucou :)Oui ca c'est bien passe!Alors je sais pas du tout pour jeudi soir... Non pas que je veuille pas mais je suis pas sure d'etre sur \n. J'y serai de sur qu'a partir de lundi prochain car je commence les cours..."
+				},
+				"_id": "4"
+			},
+			{
+				"date": "15 sept. 2011 09:05:28",
+				"tel_id": "477",
+				"cont": "On peut se rejoindre quelque part? Tu as cours ou ?",
+				"_id": "5"
+			},
+			{
+				"date": "15 sept. 2011 09:06:26",
+				"tel_id": "477",
+				"cont": "Encore moi... J'te harcele, oui oui et j'assume :)Juste j'te tiens au courant.On sera 4. Toi, ***, *** et moi a participer. On t'avance?",
+				"_id": "6"
+			},
+			{
+				"date": "15 sept. 2011 09:07:10",
+				"tel_id": "477",
+				"cont": "Dis, pour le premier midi on s'fait a manger de nous comme on avait fait y'a deux ans? Ou vous allez acheter des trucs pour le samedi midi?Biisoux",
+				"_id": "7"
+			},
+			{
+				"date": "15 sept. 2011 09:07:27",
+				"tel_id": "477",
+				"cont": "Hey hey !J'te souhaite un tres joyeux n'anniversaire! Profite bien de ta journee !Le *** te souhaite aussi un tres joyeux anniv' !Bisoux",
+				"_id": "8"
+			},
+			{
+				"date": "15 sept. 2011 09:08:09",
+				"tel_id": "477",
+				"cont": "Je suis desolee... J'avais pas vu l'heure et pas de portable sur moi...Encore desolee...Bisoux",
+				"_id": "9"
+			},
+			{
+				"date": "15 sept. 2011 09:08:35",
+				"tel_id": "477",
+				"cont": "Ah d'accord.Ca me fait vraiment plaisir. Merci d'avoir pense a moi!Je vous fait des Bisous a vous tous!",
+				"_id": "10"
+			},
+			{
+				"date": "15 sept. 2011 09:09:37",
+				"tel_id": "477",
+				"cont": "Histoire d'etre sure certaine !Demain je commence a 7h30 c'est ca?Bisoux",
+				"_id": "11"
+			},
+			{
+				"date": "15 sept. 2011 09:20:11",
+				"tel_id": "254",
+				"cont": "Ca y est le truc d'sms commence mdr mon ***",
+				"_id": "12"
+			},
+			{
+				"date": "15 sept. 2011 09:30:38",
+				"tel_id": "290",
+				"cont": "Coucou! T'es pas la alors ce weekend? Et es-ce que tu sais si tes parents font quelque chose ce weekend? Parce qu'il y a la journée du patrimoine et plein de monument gratuit, et comme je suis seule, je me serai bien greffée ! Lol",
+				"_id": "13"
+			},
+			{
+				"date": "15 sept. 2011 09:34:06",
+				"tel_id": "254",
+				"cont": "Ca y est ca y est! J'ai rempli tout un truc ce matin pour pouvoir avoir le numero etc",
+				"_id": "14"
+			},
+			{
+				"date": "15 sept. 2011 09:35:28",
+				"tel_id": "254",
+				"cont": "Ha oui et au fait j'ai mis un bulletin a ton nom et num pour gagner une paire de chaussures lol jtexpliquerai !",
+				"_id": "15"
+			},
+			{
+				"date": "15 sept. 2011 09:38:44",
+				"tel_id": "254",
+				"cont": "Haha merci beaucoup :). Tout se passe bien dans..ma chambre u! Lol. il fait une chaleur pas possible ici! J'espere que tout va bien toi <3",
+				"_id": "16"
+			},
+			{
+				"date": "15 sept. 2011 09:54:53",
+				"tel_id": "151",
+				"cont": "Oh trop mignon mon bbé<3 jsuis au travaiiiil la",
+				"_id": "17"
+			},
+			{
+				"date": "15 sept. 2011 09:55:01",
+				"tel_id": "151",
+				"cont": "Penseea moi aujourdhhui! Lec mec qui saime pas trop",
+				"_id": "18"
+			},
+			{
+				"date": "15 sept. 2011 09:55:29",
+				"tel_id": "151",
+				"cont": "Bon alors jvais etre serieuse  un ptit moment ..  On se connais pas depuis longtemps cest le moins quon puisse dire mais je taime déjà beaucoup et ca me touche enormement que tu me confit des choses comme ca , donc a lavenir jveux que tu sache que petetre que je ne suis pas la personne ideal pour ca , surment quil ya des gens beaucoup mieu placer que moi pour te comprendre et ben je peux essaye et pyis meme si je ny arriverai surment pas toujours .. Bah quand on est triste et qu'on se sent seule , c'est bon de savoir quune personne est la pour toi , juste pour toi <3. Bonne nuit dors bien choux je taime ( oui parce que en plus detre tactile je suis super affective avec les gens *quelle plait cette *** ;)* )",
+				"_id": "19"
+			},
+			{
+				"date": "15 sept. 2011 09:56:05",
+				"tel_id": "151",
+				"cont": "Héhé on va gagner lipad",
+				"_id": "20"
+			},
+			{
+				"date": "15 sept. 2011 09:56:30",
+				"tel_id": "151",
+				"cont": "Mon cher et tendre filleul... Je m'engage a etre a tes coté tt au long de ta vie... A te soutenir ds tes moments difficiles et a partager tes bons moments, je souhaite etre la pr toi qd tu en auras besoin... Un soutien, un avis,une Amie...Tu viens de rentrer ds ma famille et j'en suis fière, notre relation va s'epanouir quel bonheur!!!  <3 <3 <3 *** ta marraine ...",
+				"_id": "21"
+			},
+			{
+				"date": "15 sept. 2011 09:56:46",
+				"tel_id": "151",
+				"cont": "Se soir tu m'apelle hein chou?",
+				"_id": "22"
+			},
+			{
+				"date": "15 sept. 2011 09:59:08",
+				"tel_id": "151",
+				"cont": "Ohhhhhh non   ! Héhé j'te texto en mode scred mon bbé<3",
+				"_id": "23"
+			},
+			{
+				"date": "15 sept. 2011 10:10:44",
+				"tel_id": "151",
+				"cont": "Vasi lache moi :o Aller plus tard je taime gros zoubia toi !<3",
+				"_id": "24"
+			},
+			{
+				"date": "15 sept. 2011 10:54:44",
+				"tel_id": "88",
+				"cont": "Le plus svt possible je raterais peut etre 2 ou 3cours lol",
+				"_id": "26"
+			},
+			{
+				"date": "15 sept. 2011 10:56:06",
+				"tel_id": "88",
+				"cont": "Ben sa va arrivé alors l'année derniere on avait un decalage aussi",
+				"_id": "27"
+			},
+			{
+				"date": "15 sept. 2011 10:57:35",
+				"tel_id": "88",
+				"cont": "Coucou! Mon permis c'est bien passé sauf a un rond point ou j'ai un peu foiré :s donc on verra bien. Voila! Bisous a toute ta petite famille",
+				"_id": "29"
+			},
+			{
+				"date": "15 sept. 2011 10:58:44",
+				"tel_id": "136",
+				"cont": "Pas de reponse ? J'ai cours dans pas longtemps. Je viendrais a 16h. Jespere que vous ne m'en voulez pas ..",
+				"_id": "31"
+			},
+			{
+				"date": "15 sept. 2011 10:59:06",
+				"tel_id": "136",
+				"cont": "Je n'arrive pas à joindre ***, je n'ai pas vu l'heure, et je me suis rendormie. J'aimerais ne venir qu'a 16h si possible .. Je suis vraiment fatiguée et j'enchaine les cours non stop jusqu'a ***.ca vous derange ? Si oui j'arrive mais j'en ai pour au moins une demie heure ... Je suis vraiment desolee ...",
+				"_id": "32"
+			},
+			{
+				"date": "15 sept. 2011 10:59:17",
+				"tel_id": "136",
+				"cont": "*** texto *** vite vite pour le casting getwild !!!",
+				"_id": "33"
+			},
+			{
+				"date": "15 sept. 2011 11:00:07",
+				"tel_id": "353",
+				"cont": "Euh tu sais qd *** a prévu de revenir ? J'ai pas son numéro...",
+				"_id": "34"
+			},
+			{
+				"date": "15 sept. 2011 11:00:30",
+				"tel_id": "353",
+				"cont": "Non ça s'est bien passé ;-) . Moi je serai là vendredi t'inquiétes. Bisous",
+				"_id": "35"
+			},
+			{
+				"date": "15 sept. 2011 11:00:40",
+				"tel_id": "353",
+				"cont": "Bonne nuit!",
+				"_id": "36"
+			},
+			{
+				"date": "15 sept. 2011 11:01:16",
+				"tel_id": "353",
+				"cont": "Coucou! T'es tentée ce soir par une promenade? Bisous",
+				"_id": "37"
+			},
+			{
+				"date": "15 sept. 2011 11:01:28",
+				"tel_id": "136",
+				"cont": "Normalement c'est ok pour le weekend prochaine chez ***, je peux etre la :)",
+				"_id": "38"
+			},
+			{
+				"date": "15 sept. 2011 11:01:29",
+				"tel_id": "353",
+				"cont": "Coucou! ça va? Balade vers 5h?",
+				"_id": "39"
+			},
+			{
+				"date": "15 sept. 2011 11:01:50",
+				"tel_id": "353",
+				"cont": "Vers 6h30. Liste recopiee sur reseauetudiant...",
+				"_id": "40"
+			},
+			{
+				"date": "15 sept. 2011 11:02:14",
+				"tel_id": "353",
+				"cont": {
+					"Location": [
+						"la fac timone",
+						"Marseille"
+					],
+					"__text": "C'est sur \n la liste a ete recopiee direct à"
+				},
+				"_id": "41"
+			},
+			{
+				"date": "15 sept. 2011 11:02:33",
+				"tel_id": "353",
+				"cont": "C foutu oui",
+				"_id": "42"
+			},
+			{
+				"date": "15 sept. 2011 11:02:36",
+				"tel_id": "88",
+				"cont": "En plus tt fait maison avec les legumes du jardin!",
+				"_id": "43"
+			},
+			{
+				"date": "15 sept. 2011 11:03:40",
+				"tel_id": "88",
+				"cont": "Non chez mon arriere grand mere juste a coté de chez mes grands parents ;)",
+				"_id": "44"
+			},
+			{
+				"date": "15 sept. 2011 11:03:40",
+				"tel_id": "136",
+				"cont": "Ok ca marche, il va avoir quel age ? :)",
+				"_id": "45"
+			},
+			{
+				"date": "15 sept. 2011 11:04:44",
+				"tel_id": "88",
+				"cont": "Ben voui! Mais tu viens quand meme hein?",
+				"_id": "46"
+			},
+			{
+				"date": "15 sept. 2011 11:46:14",
+				"tel_id": "136",
+				"cont": "Je suis a la maison ! Je commence qu'a 13h donc je me repose , fin je dois partir a 12h30 il faut que je prenne une douche avant ! Je ne rentrerais que ce soir je pense ensuite",
+				"_id": "47"
+			},
+			{
+				"date": "15 sept. 2011 11:49:02",
+				"tel_id": "398",
+				"cont": "Coucou mon coeur je vais appeler le banquier. *** m'a appelé et mis un cours là où je dois être a la fac... Génial ^^ j'ai appelé pour changer et elle me rappelle pas. Marre de ***... Tes confs se passent bien? Gros bisous je t'aime fort :-))",
+				"_id": "48"
+			},
+			{
+				"date": "15 sept. 2011 11:52:19",
+				"tel_id": "136",
+				"cont": "Ouf merci beaucoup vraiment car j'étais trop trop trop crevée ! Dur dur le rythme la ! Sinon deux potes a moi sont motives , ils vont essayer de se liberer pour ce soir !",
+				"_id": "49"
+			},
+			{
+				"date": "15 sept. 2011 11:52:49",
+				"tel_id": "136",
+				"cont": {
+					"Location": "moulin",
+					"__text": "C'est au \n a 16h ?"
+				},
+				"_id": "50"
+			},
+			{
+				"date": "15 sept. 2011 12:04:16",
+				"tel_id": "254",
+				"cont": "Je t'aiiiime...",
+				"_id": "51"
+			},
+			{
+				"date": "15 sept. 2011 12:06:48",
+				"tel_id": "228",
+				"cont": "Demain jai deux heures de pause si tu veux on peut manger ensemble ? De 11h45 a 13h45 ? Bisous ma biche ;)",
+				"_id": "52"
+			},
+			{
+				"date": "15 sept. 2011 12:07:25",
+				"tel_id": "228",
+				"cont": "Allez debout !!! Yen a ki chaume pas",
+				"_id": "53"
+			},
+			{
+				"date": "15 sept. 2011 12:24:00",
+				"tel_id": "228",
+				"cont": "Fou :( oui comme tu dis on ne va jamais y arriver mais samedi ! <3",
+				"_id": "55"
+			},
+			{
+				"date": "15 sept. 2011 12:27:17",
+				"tel_id": "228",
+				"cont": "Mardi pause de 1h entre 12 et 13h et mercredi entre 13h15 et 14h15 ça te va?",
+				"_id": "56"
+			},
+			{
+				"date": "15 sept. 2011 12:30:14",
+				"tel_id": "228",
+				"cont": "Ok pa de pblm ma belle !",
+				"_id": "57"
+			},
+			{
+				"date": "15 sept. 2011 12:42:09",
+				"tel_id": "254",
+				"cont": "Petit resto bio mdr dans une rue trop tranquille au frais :)",
+				"_id": "58"
+			},
+			{
+				"date": "15 sept. 2011 13:00:49",
+				"tel_id": "136",
+				"cont": "A 19h on est au bar pour promouvoir la soirée aupres des comités d'entreprise ! Donc pas trop dispo ce soir ! Cependant si y'en a qui veulent aider au bar (max 2 persS et qui n'ont pas de soucis de bus c'est sans pb ! Fais passer le mess",
+				"_id": "59"
+			},
+			{
+				"date": "15 sept. 2011 13:05:08",
+				"tel_id": "136",
+				"cont": "Je pense pas pvoir je suis en cours puis direct a *** 'jenchaine tt, d'ou mon sommeil prolonge",
+				"_id": "60"
+			},
+			{
+				"date": "15 sept. 2011 13:06:49",
+				"tel_id": "136",
+				"cont": "No pb ! Je peux vs mailer, en attendant",
+				"_id": "61"
+			},
+			{
+				"date": "15 sept. 2011 13:11:17",
+				"tel_id": "136",
+				"cont": "Et lundi ?",
+				"_id": "62"
+			},
+			{
+				"date": "15 sept. 2011 13:21:09",
+				"tel_id": "398",
+				"cont": "Hello ! La rentrée est bien passée j'ai que 3 cours lol... Donc je cherche un boulot/*** pr passer le temps remplir les poches ! *** ça va mieux, il a été pris a l'Esma pr faire de l'animation 2D/3D ciné/animation (dessin anime etc.) donc il fait un BTS en trois ans je crois bref c'est une bonne nouvelle Parce que la theSe ne mène a rien, et je pense que des tensions venaient de la aussi... Et puis ils devaient faire Manaa (je crois ça s'appelle comme ça) mais la directrice a vu ses travaux et le fait rentrer en première année directos. Er toi, comment va?? Tu as trouvé une entreprise qui te prend pas en stage mais en vrai alternance? Quelle genre d'entreprise? Et ac *** vs avez pu vous voir récemment? Punaise de distance... Bon j'espère qu'on se verra bientôt quand même :-) gros bisous !",
+				"_id": "63"
+			},
+			{
+				"date": "15 sept. 2011 13:21:37",
+				"tel_id": "398",
+				"cont": "Tu m'appelles pas? T'as eu mon texto? Tu finis à quelle heure? Je reprends a 16h45 :-) bisous",
+				"_id": "64"
+			},
+			{
+				"date": "15 sept. 2011 13:30:56",
+				"tel_id": "398",
+				"cont": "C'est pas grave pour les schoumi-Gateau une autre fois ^^ a toute. J'ai pas envie d'y aller lol. Il fallait rien faire?",
+				"_id": "65"
+			},
+			{
+				"date": "15 sept. 2011 13:33:26",
+				"tel_id": "398",
+				"cont": "Ok keep cool pr l'entreprise et tiens moi au jus quand tu l'as trouvée ^^ et bon séjour toulousain :P bisous ;-)",
+				"_id": "66"
+			},
+			{
+				"date": "15 sept. 2011 13:34:35",
+				"tel_id": "398",
+				"cont": "Punaise. Me souviens plus :-(",
+				"_id": "67"
+			},
+			{
+				"date": "15 sept. 2011 13:38:26",
+				"tel_id": "228",
+				"cont": "Nn j'ai cours ka 15h15",
+				"_id": "68"
+			},
+			{
+				"date": "15 sept. 2011 13:41:05",
+				"tel_id": "398",
+				"cont": "De rien ^^ c'est vrai que c'était tard hier jetais crevé aussi. Bisous ;-)",
+				"_id": "69"
+			},
+			{
+				"date": "15 sept. 2011 13:52:37",
+				"tel_id": "136",
+				"cont": "Ca marche !",
+				"_id": "70"
+			},
+			{
+				"date": "15 sept. 2011 13:56:30",
+				"tel_id": "398",
+				"cont": "Pour les inscriptions on passe au Secretariat ou on attend...?",
+				"_id": "71"
+			},
+			{
+				"date": "15 sept. 2011 13:57:43",
+				"tel_id": "136",
+				"cont": "Tkt tu ne me deranges pas ! Je sais pas du tout, je suis en robe mais bon j'met jamais de pantalon :/ jean tshirt assez joli ca le fait je pense ! C:est pas un pyjama hahaha",
+				"_id": "72"
+			},
+			{
+				"date": "15 sept. 2011 13:58:31",
+				"tel_id": "228",
+				"cont": "Cc ma chérie ça va ? Dis moi kes ki c passe avc le taf ? Un pblm ? Gros bisous <3",
+				"_id": "74"
+			},
+			{
+				"date": "15 sept. 2011 14:04:20",
+				"tel_id": "228",
+				"cont": "Ya ma trousse de maquillage chez toi ?",
+				"_id": "75"
+			},
+			{
+				"date": "15 sept. 2011 14:07:45",
+				"tel_id": "156",
+				"cont": "*** est pas la ! *** non plus ! Tanpis ! Lol J'irai aux journée du patrimoine ! *** m'a dit que tu venais cette semaine peut etre ! Bisous ! !",
+				"_id": "76"
+			},
+			{
+				"date": "15 sept. 2011 14:17:44",
+				"tel_id": "151",
+				"cont": "<3 savvva alors<3",
+				"_id": "77"
+			},
+			{
+				"date": "15 sept. 2011 14:21:03",
+				"tel_id": "151",
+				"cont": "17h 3o je viens de te chercher?",
+				"_id": "78"
+			},
+			{
+				"date": "15 sept. 2011 14:30:32",
+				"tel_id": "477",
+				"cont": "Coucou mon *** !J'espere que tu vas bien et que j'te derange pas.C'etait juste pour te prevenir que ma maman etait v'nu posee mon cachet dans ta voiture, comme ils avaient des trucs a faire et que je savais pas si tu irais ou pas.Voilà!Tu m'tiens au courant de quand vous venez!Biiisoux <3",
+				"_id": "80"
+			},
+			{
+				"date": "15 sept. 2011 14:34:42",
+				"tel_id": "398",
+				"cont": "Non je viens de voir l'heure qu'il etait et j'y serai pas moi je suis pas prêt encore j'aurai pas le temps. Si jamais tu peux y aller? Sinon jai envoyé un mail mais ac tous les mails qu'elle doit avoir en rentrée... Ça me fait peur j'espère que c'est pas que sur cette semaine... Ils Me gonflent :-( bisous",
+				"_id": "81"
+			},
+			{
+				"date": "15 sept. 2011 14:45:06",
+				"tel_id": "437",
+				"cont": "vois ac eux ms oui j pense",
+				"_id": "84"
+			},
+			{
+				"date": "15 sept. 2011 14:50:09",
+				"tel_id": "437",
+				"cont": "genre et *** alors y compte pas pour toi.? =D",
+				"_id": "86"
+			},
+			{
+				"date": "15 sept. 2011 14:56:11",
+				"tel_id": "437",
+				"cont": "Alors pour demain vous faites quoi??",
+				"_id": "87"
+			},
+			{
+				"date": "15 sept. 2011 15:06:15",
+				"tel_id": "204",
+				"cont": "Dis moi demain si les horaires te conviennent",
+				"_id": "89"
+			},
+			{
+				"date": "15 sept. 2011 15:06:17",
+				"tel_id": "437",
+				"cont": "Tkt tu sera juste moins bien accompagné !",
+				"_id": "90"
+			},
+			{
+				"date": "15 sept. 2011 15:06:38",
+				"tel_id": "437",
+				"cont": "Tu viens au truc de litterature generale ?",
+				"_id": "91"
+			},
+			{
+				"date": "15 sept. 2011 15:07:25",
+				"tel_id": "437",
+				"cont": {
+					"Location": "odyseum",
+					"__text": "Ya *** qui vient chez nous vers 14h15. Rentre, on ira a \n en voiture"
+				},
+				"_id": "92"
+			},
+			{
+				"date": "15 sept. 2011 15:46:15",
+				"tel_id": "156",
+				"cont": "Par hasard la grande carte monoprix serait pas avec toi ? Trouve pu ! Lol",
+				"_id": "94"
+			},
+			{
+				"date": "15 sept. 2011 15:52:10",
+				"tel_id": "156",
+				"cont": "Moi aussi ! Roo c'est chiant lol Tanpis merci quand meme",
+				"_id": "96"
+			},
+			{
+				"date": "15 sept. 2011 15:59:28",
+				"tel_id": "437",
+				"cont": "Bonne chance =/",
+				"_id": "97"
+			},
+			{
+				"date": "15 sept. 2011 16:03:15",
+				"tel_id": "136",
+				"cont": "Working woman tu connais ? Double cursus, benevolat au festival, boulot de tutrice, preparation du court metrage. Traduction de 10 p en russe + poeme de pouchkine, stage arts, ...",
+				"_id": "99"
+			},
+			{
+				"date": "15 sept. 2011 16:03:23",
+				"tel_id": "197",
+				"cont": "J'ai rien dit car j'ai cru qu'elle était là vu que c'était le weekend ... désolé bsx",
+				"_id": "100"
+			},
+			{
+				"date": "15 sept. 2011 16:03:41",
+				"tel_id": "136",
+				"cont": "Je pars juste de la fac, a tte",
+				"_id": "101"
+			},
+			{
+				"date": "15 sept. 2011 16:03:47",
+				"tel_id": "197",
+				"cont": "Hey ça va ? L'allemand c'est en G001 ! À 9h15 Bisous",
+				"_id": "103"
+			},
+			{
+				"date": "15 sept. 2011 16:04:03",
+				"tel_id": "162",
+				"cont": "Parce que je viens de te réveiller oui^^ ne mens pas comme ça ¤.¤",
+				"_id": "104"
+			},
+			{
+				"date": "15 sept. 2011 16:04:18",
+				"tel_id": "162",
+				"cont": "Debout jeune fille^^",
+				"_id": "105"
+			},
+			{
+				"date": "15 sept. 2011 16:04:47",
+				"tel_id": "162",
+				"cont": "Sniff bon ben tant pi!travaille bien ;-) bisous!",
+				"_id": "106"
+			},
+			{
+				"date": "15 sept. 2011 16:05:00",
+				"tel_id": "197",
+				"cont": "Fais moi signe quand tu es debout stp bsx",
+				"_id": "107"
+			},
+			{
+				"date": "15 sept. 2011 16:05:03",
+				"tel_id": "162",
+				"cont": "Ok ça marche!a tt a l'h j'espère!sinon jviendrais te dire bjr en allant au burger!bisou",
+				"_id": "108"
+			},
+			{
+				"date": "15 sept. 2011 16:05:19",
+				"tel_id": "162",
+				"cont": "Oui,on va aller au ciné le soir!bon ben a demain alors =) bisous!",
+				"_id": "109"
+			},
+			{
+				"date": "15 sept. 2011 16:05:34",
+				"tel_id": "162",
+				"cont": "G pas encore de rep de ***!tinkiet,on a prévu d'aller a burger and co demain soir =P on est drogués!pas de soucis pr ta grasse mat,je t'envoie un message demain midi pr savoir ou t'en es!bisous!",
+				"_id": "110"
+			},
+			{
+				"date": "15 sept. 2011 16:05:52",
+				"tel_id": "162",
+				"cont": "Ben ns on arrive vers 11h normalement.g donné rdv aux autres a 14h mais si tu veux manger avc ns a midi ya pas de soucis!*** doit me confirmer qu'elle vient et a priori *** vient aussi.",
+				"_id": "111"
+			},
+			{
+				"date": "15 sept. 2011 16:06:01",
+				"tel_id": "136",
+				"cont": "Elle bavaroise, moi poupée russe ! Why  ? :)",
+				"_id": "112"
+			},
+			{
+				"date": "15 sept. 2011 16:06:12",
+				"tel_id": "136",
+				"cont": "Ouais ca va je dors normalement ce matin j'ai planté le festival car trop crevée mais ca va ! La j'y suis de 16h30 a 21h au moins ! Heureusement le court metrage et ca s'arretent en oct",
+				"_id": "113"
+			},
+			{
+				"date": "15 sept. 2011 16:06:28",
+				"tel_id": "197",
+				"cont": "Pas de pb ! On arrivera à se voir un jour ! ;) bon séjour alors",
+				"_id": "114"
+			},
+			{
+				"date": "15 sept. 2011 16:06:12",
+				"tel_id": "162",
+				"cont": {
+					"Location": [
+						"montpel",
+						"bretagne"
+					],
+					"__text": "Hé madmoizelle!tu vas bien ou bien?demain je suis sur \n avc *** et un pote a lui,et jme disais qu'on pourrait se faire une aprem ***!*** est ok,il va ptet amener ***,et jpropose aussi a *** et ***. *** est en \n dc L viendra pas(et *** non plus...lol)ça te dis?bisous!"
+				},
+				"_id": "115"
+			},
+			{
+				"date": "15 sept. 2011 16:06:35",
+				"tel_id": "162",
+				"cont": "MDR pr l'aimant xD *** a pris pareil ke moi le copieur!on est bien rentrés mais on a du reprendre la voiture après pr amener la mère de *** aux urgences,elle c peté la gueule ds l'escalier a coz du chat et s'est foulé la cheville!dc bye bye le matage de dvd lol!oui ct cool de se voir,meme si ct court!jte regardais bosser ct drole =P gros bisous et a tt bientot!=)",
+				"_id": "116"
+			},
+			{
+				"date": "15 sept. 2011 16:06:50",
+				"tel_id": "162",
+				"cont": "G pris le personnel jesus supplément raclette =P ultra bourratif mais super bon!mais la prochaine fois je reprendrais l'unforgiven,il est trop bon!bon ben on rentre a bédarieux,bonne soirée et a tout bientot!",
+				"_id": "117"
+			},
+			{
+				"date": "15 sept. 2011 16:07:05",
+				"tel_id": "162",
+				"cont": "Je peux te voir de là où jsuis!",
+				"_id": "118"
+			},
+			{
+				"date": "15 sept. 2011 16:07:20",
+				"tel_id": "162",
+				"cont": "On est là!",
+				"_id": "119"
+			},
+			{
+				"date": "15 sept. 2011 16:07:32",
+				"tel_id": "162",
+				"cont": "Non on y est ds 10min!jte dis kan on arrive",
+				"_id": "120"
+			},
+			{
+				"date": "15 sept. 2011 16:08:04",
+				"tel_id": "162",
+				"cont": {
+					"Location": "montpel",
+					"__text": "Coucou!on est venu sur \n pr aller au box et on va aller manger un burger d'ici 15min avant de repartir,ça te tente?"
+				},
+				"_id": "122"
+			},
+			{
+				"date": "15 sept. 2011 16:08:35",
+				"tel_id": "162",
+				"cont": "Bah voui!t'en doutais encore? =P",
+				"_id": "124"
+			},
+			{
+				"date": "15 sept. 2011 16:08:50",
+				"tel_id": "162",
+				"cont": "Pr ceux qui ont eu une attention particulière,oui!",
+				"_id": "125"
+			},
+			{
+				"date": "15 sept. 2011 16:09:31",
+				"tel_id": "162",
+				"cont": "^^ j'aurais préféré maitresse mais honneur c'est pas mal. Pourquoi non? Trop de travail?",
+				"_id": "126"
+			},
+			{
+				"date": "15 sept. 2011 16:09:51",
+				"tel_id": "162",
+				"cont": "Je ne te laisse pas tranquille en fait. Alors oui ou non? ¤.¤ votre dernier mot?",
+				"_id": "127"
+			},
+			{
+				"date": "15 sept. 2011 16:09:45",
+				"tel_id": "197",
+				"cont": "Gut danke! Aber ich bin ein bischen műde, weil ich zum Hause zurűck gekommt bin.  la chaleur et le manque de sommeil se font sentir.. je me suis déjà couchée pour réussir à me lever demain. Et toi ça va ? Kűßchen",
+				"_id": "128"
+			},
+			{
+				"date": "15 sept. 2011 16:10:16",
+				"tel_id": "162",
+				"cont": "Si tu savais ce dont j'ai envie... -regard un peu fou- ai dit non au fait^^",
+				"_id": "129"
+			},
+			{
+				"date": "15 sept. 2011 16:10:36",
+				"tel_id": "136",
+				"cont": "Tahiti ca gère grave ! Poupée russe j'ai la coiffe et l'idée make up et tout mais il faut encore la tenue genre a fleurs et tout ! Puis je peux ramener vodka et plat russe !",
+				"_id": "130"
+			},
+			{
+				"date": "15 sept. 2011 16:11:02",
+				"tel_id": "136",
+				"cont": {
+					"Location": "espagne",
+					"__text": "Le court métrage j'ai pas vraiment commencé a part tri des costumes et recherches car ils ont pas choisi les gros roles et fini d'auditionner. Puis le cinemed la on demarre la diffusion dans le centre ville ( bof ca) puis organisation de soirées et selection de courts metrages ( tout doit etre fait et organisé avant le 21 oct donc c'est chaud chaud chaud) ! Heureusement on va avoir un pass :) sinon ce weekend autant je rentre demain soir, mais pas plus, on va a collioure avec *** ce weekend et un peu en \n :)"
+				},
+				"_id": "131"
+			},
+			{
+				"date": "15 sept. 2011 16:10:35",
+				"tel_id": "162",
+				"cont": "Et c'est comme ça que tu me réconfortes?! Ah ben ok d'accord -te fait la tete-",
+				"_id": "132"
+			},
+			{
+				"date": "15 sept. 2011 16:10:53",
+				"tel_id": "162",
+				"cont": "Et je ne suis pas la seule à etre une girouette... -sifflote-",
+				"_id": "133"
+			},
+			{
+				"date": "15 sept. 2011 16:11:08",
+				"tel_id": "162",
+				"cont": "Tu sais bien que je suis une girouette qui n'a meme pas besoin de vent pour tourner^^",
+				"_id": "134"
+			},
+			{
+				"date": "15 sept. 2011 16:11:24",
+				"tel_id": "162",
+				"cont": "Ah tu en sais plus que moi^^ j'étais restée sur la bande^^",
+				"_id": "135"
+			},
+			{
+				"date": "15 sept. 2011 16:11:52",
+				"tel_id": "162",
+				"cont": "Non pas encore confirmé et plus je réfléchis plus je penche sur un non puisque de toute façon ils vont etre dans leur -truc-",
+				"_id": "136"
+			},
+			{
+				"date": "15 sept. 2011 16:11:55",
+				"tel_id": "136",
+				"cont": {
+					"Location": "montpellier",
+					"__text": "Fin c'est pas sur car collioure c'est plus pres de \n :) t'es deja allée la bas ?"
+				},
+				"_id": "137"
+			},
+			{
+				"date": "15 sept. 2011 16:12:59",
+				"tel_id": "162",
+				"cont": "?Jusqu'à 15h, après g essayé de m'avancer ms g pas trouver la motiv ^^'",
+				"_id": "138"
+			},
+			{
+				"date": "15 sept. 2011 16:14:10",
+				"tel_id": "162",
+				"cont": "Tsss tu vas faire quoi toi alors?",
+				"_id": "139"
+			},
+			{
+				"date": "15 sept. 2011 16:17:20",
+				"tel_id": "162",
+				"cont": "Bon j'ai eu des nouvelles de *** et ca se passe pas bien la bas, ils mangent très mal, ils vont pas etre payé du tout finalement, la partie \"personnel\" dans l'hotel est vraiment crade et en+ de ca ils font pas du tout de service, seulement la plonge et le ménage! Donc la il va aller parler a son responsable de stage et si il leur dit qu'ils feront pas du tout de service *** a dit qu'il rentrerait, mais j'espère que ca va s'arranger quand meme...:s",
+				"_id": "140"
+			},
+			{
+				"date": "15 sept. 2011 16:18:15",
+				"tel_id": "162",
+				"cont": "Et ta fait quoi cet aprem alors?? Et oui g fini ce que j'avais a faire par contre^^",
+				"_id": "141"
+			},
+			{
+				"date": "15 sept. 2011 16:19:19",
+				"tel_id": "162",
+				"cont": "Ok^^ burger ce soir?;)",
+				"_id": "142"
+			},
+			{
+				"date": "15 sept. 2011 16:21:17",
+				"tel_id": "162",
+				"cont": "C'est pas mal déjà^^ et j'ai travaillé sur mon bécherelle, petite pause et rebecherelle.",
+				"_id": "143"
+			},
+			{
+				"date": "15 sept. 2011 16:21:36",
+				"tel_id": "162",
+				"cont": "Quelle bosseuse!:o",
+				"_id": "144"
+			},
+			{
+				"date": "15 sept. 2011 16:27:13",
+				"tel_id": "162",
+				"cont": "Lol tu verra peut etre *** alors^^",
+				"_id": "146"
+			},
+			{
+				"date": "15 sept. 2011 16:31:27",
+				"tel_id": "162",
+				"cont": "Parce qu'elle va y manger aussi^^",
+				"_id": "147"
+			},
+			{
+				"date": "15 sept. 2011 16:36:42",
+				"tel_id": "162",
+				"cont": "Non elle va juste y manger ce soir",
+				"_id": "148"
+			},
+			{
+				"date": "15 sept. 2011 16:37:43",
+				"tel_id": "162",
+				"cont": "A ok",
+				"_id": "149"
+			},
+			{
+				"date": "15 sept. 2011 16:38:16",
+				"tel_id": "290",
+				"cont": "C'est bon, j'ai envoyé la lettre lol",
+				"_id": "150"
+			},
+			{
+				"date": "15 sept. 2011 16:40:10",
+				"tel_id": "290",
+				"cont": "Coucou! Dis moi, tu vas faire la fete médiévale de la rose d'or cette année? :)",
+				"_id": "151"
+			},
+			{
+				"date": "15 sept. 2011 16:40:39",
+				"tel_id": "162",
+				"cont": "Arf-_-' essaie de voir si ya de la place ailleurs... Ou sinon tape les:p",
+				"_id": "152"
+			},
+			{
+				"date": "15 sept. 2011 16:41:03",
+				"tel_id": "162",
+				"cont": "Putain j'ai dès gamin casse couilles a coté de moi ...",
+				"_id": "153"
+			},
+			{
+				"date": "15 sept. 2011 16:58:30",
+				"tel_id": "162",
+				"cont": "Tsss ca dépend de leur age ^^'",
+				"_id": "154"
+			},
+			{
+				"date": "15 sept. 2011 16:59:53",
+				"tel_id": "475",
+				"cont": {
+					"Location": "montpellier",
+					"__text": "Coucou !! T partie à quelle heure de \n?"
+				},
+				"_id": "155"
+			},
+			{
+				"date": "15 sept. 2011 17:02:48",
+				"tel_id": "475",
+				"cont": "Tu as de l'attente ??",
+				"_id": "156"
+			},
+			{
+				"date": "15 sept. 2011 17:05:22",
+				"tel_id": "290",
+				"cont": "Géniale, on la fera ensemble? :d",
+				"_id": "157"
+			},
+			{
+				"date": "15 sept. 2011 17:06:13",
+				"tel_id": "475",
+				"cont": "Tu aurais pu me le dire avant:(",
+				"_id": "158"
+			},
+			{
+				"date": "15 sept. 2011 17:13:09",
+				"tel_id": "290",
+				"cont": "Berk, j'aime pas la musique, j'ai été traumatisée pas le film!",
+				"_id": "159"
+			},
+			{
+				"date": "15 sept. 2011 17:18:33",
+				"tel_id": "156",
+				"cont": "Tu viens ce soir ? C'est bon j'ai trouvé mes cartes de fidélité lol !",
+				"_id": "160"
+			},
+			{
+				"date": "15 sept. 2011 17:19:15",
+				"tel_id": "290",
+				"cont": "J'en sais fichtre rien! XD",
+				"_id": "161"
+			},
+			{
+				"date": "15 sept. 2011 17:19:41",
+				"tel_id": "228",
+				"cont": "Eh oh !!!",
+				"_id": "162"
+			},
+			{
+				"date": "15 sept. 2011 17:21:22",
+				"tel_id": "228",
+				"cont": "Ok Doudou moi je rentre en cours la le cours du multiculturalisme ct cool je te diré ... Miss u",
+				"_id": "163"
+			},
+			{
+				"date": "15 sept. 2011 17:29:11",
+				"tel_id": "254",
+				"cont": "Lol. Ca va chauffer les fesses aux abdos fessiers !!",
+				"_id": "164"
+			},
+			{
+				"date": "15 sept. 2011 17:32:43",
+				"tel_id": "254",
+				"cont": "Mais je t'aime trop moi...",
+				"_id": "165"
+			},
+			{
+				"date": "15 sept. 2011 18:03:42",
+				"tel_id": "254",
+				"cont": "T'es mon cheri",
+				"_id": "166"
+			},
+			{
+				"date": "15 sept. 2011 18:11:27",
+				"tel_id": "156",
+				"cont": "Y'a le marrakech du rire ce soir sur m6 ! Tu veux venir regarder ça à la maison ? ?",
+				"_id": "169"
+			},
+			{
+				"date": "15 sept. 2011 18:14:05",
+				"tel_id": "254",
+				"cont": "Moi aussiiiiii",
+				"_id": "170"
+			},
+			{
+				"date": "15 sept. 2011 18:18:53",
+				"tel_id": "228",
+				"cont": "Ok merci le défile ça sera a quelle heure ?",
+				"_id": "171"
+			},
+			{
+				"date": "15 sept. 2011 18:19:10",
+				"tel_id": "228",
+				"cont": "Ok pour moi alors",
+				"_id": "173"
+			},
+			{
+				"date": "15 sept. 2011 18:19:22",
+				"tel_id": "228",
+				"cont": "Mercredi matin pour moi",
+				"_id": "174"
+			},
+			{
+				"date": "15 sept. 2011 18:21:53",
+				"tel_id": "123",
+				"cont": ":-) bonne nuit",
+				"_id": "176"
+			},
+			{
+				"date": "15 sept. 2011 18:22:09",
+				"tel_id": "123",
+				"cont": "Salut, ca va bien ? J'espere que ca t'a pas deranger le msg sur fb.Tu vas passer a la fac cette aprem ?",
+				"_id": "177"
+			},
+			{
+				"date": "15 sept. 2011 18:22:29",
+				"tel_id": "123",
+				"cont": "Salut, ca va ? Alors t'as reussi a demenagé ? :-)",
+				"_id": "178"
+			},
+			{
+				"date": "15 sept. 2011 18:22:54",
+				"tel_id": "123",
+				"cont": "T'as bcq de trucs a faire cette aprem? Sinon jte propose une plage qd tt est fait. On pourra parler de l'asso et autre.",
+				"_id": "179"
+			},
+			{
+				"date": "15 sept. 2011 18:22:56",
+				"tel_id": "254",
+				"cont": "Haha! :)",
+				"_id": "180"
+			},
+			{
+				"date": "15 sept. 2011 18:24:01",
+				"tel_id": "123",
+				"cont": "Ok jvai voir ca. Mais la meteo annonce un mauvais temps pour ce we.",
+				"_id": "183"
+			},
+			{
+				"date": "15 sept. 2011 18:24:31",
+				"tel_id": "123",
+				"cont": "Ok, oui la boxe c'est demain.",
+				"_id": "186"
+			},
+			{
+				"date": "15 sept. 2011 18:24:54",
+				"tel_id": "123",
+				"cont": "Jpensait y aller vers 15h-16h. Jpeux t'attendre un peu s'il faut.",
+				"_id": "188"
+			},
+			{
+				"date": "15 sept. 2011 18:25:35",
+				"tel_id": "123",
+				"cont": "Coucou , j'ai aussi mangé ton gateau. C'est peut etre mieu qu'il ai ete 'raté', encore une fois il est tres bon.J'espere que t'es pas cuite ;-)A bientot",
+				"_id": "190"
+			},
+			{
+				"date": "15 sept. 2011 18:26:02",
+				"tel_id": "123",
+				"cont": {
+					"Location": "st eloi",
+					"__text": "L'ideal c'est la fac, ou le tram \n. Ca va ?"
+				},
+				"_id": "193"
+			},
+			{
+				"date": "15 sept. 2011 18:26:37",
+				"tel_id": "290",
+				"cont": "Non Non, celui qu'il y a à Marguerittes en face du collège",
+				"_id": "194"
+			},
+			{
+				"date": "15 sept. 2011 18:26:44",
+				"tel_id": "123",
+				"cont": "Tu peux m'appeler quand tu veux :-)",
+				"_id": "195"
+			},
+			{
+				"date": "15 sept. 2011 18:26:54",
+				"tel_id": "290",
+				"cont": "Ca dépend, je sais pas J'ai pas les prix en tete",
+				"_id": "196"
+			},
+			{
+				"date": "15 sept. 2011 18:27:23",
+				"tel_id": "290",
+				"cont": "Désolée je suis à l'ouest",
+				"_id": "198"
+			},
+			{
+				"date": "15 sept. 2011 18:27:49",
+				"tel_id": "290",
+				"cont": "Non explique j'aime pas ne pas comprendreOuais, tu me diras!",
+				"_id": "199"
+			},
+			{
+				"date": "15 sept. 2011 18:27:59",
+				"tel_id": "290",
+				"cont": "Mais tu paye pas l'arc de toute facon ils le prètentMais c'est quoi ***?",
+				"_id": "200"
+			},
+			{
+				"date": "15 sept. 2011 18:28:15",
+				"tel_id": "290",
+				"cont": "Bon. Explique, au moins !",
+				"_id": "201"
+			},
+			{
+				"date": "15 sept. 2011 18:29:03",
+				"tel_id": "123",
+				"cont": "Oui, c'est tellement le bordel que ca passe de toute facon.",
+				"_id": "202"
+			},
+			{
+				"date": "15 sept. 2011 18:29:20",
+				"tel_id": "123",
+				"cont": "Si, *** el loco",
+				"_id": "203"
+			},
+			{
+				"date": "15 sept. 2011 18:29:34",
+				"tel_id": "123",
+				"cont": {
+					"Location": "la plage",
+					"__text": "C'est cool, j'espere que tu pourras vite t'ìnstaller ! Moi ca va, hier j'etais a \n, et je recherche encore un stage."
+				},
+				"_id": "204"
+			},
+			{
+				"date": "15 sept. 2011 18:29:48",
+				"tel_id": "123",
+				"cont": "Tu vas passer a l'asso ? J'y suis.",
+				"_id": "205"
+			},
+			{
+				"date": "15 sept. 2011 18:30:04",
+				"tel_id": "123",
+				"cont": "Alors tu viens a la boxe ?",
+				"_id": "206"
+			},
+			{
+				"date": "15 sept. 2011 18:30:20",
+				"tel_id": "123",
+				"cont": "Au gymnase avec tapis du csu",
+				"_id": "207"
+			},
+			{
+				"date": "15 sept. 2011 18:38:14",
+				"tel_id": "254",
+				"cont": "Coucou m'man! J'ai recu un email du compte de papa sur laredoute et il semblerait que ton colis soit arrive au bon jardinier (soutif beige + cadeau)",
+				"_id": "208"
+			},
+			{
+				"date": "15 sept. 2011 18:45:03",
+				"tel_id": "271",
+				"cont": "Nan d'***",
+				"_id": "211"
+			},
+			{
+				"date": "15 sept. 2011 18:45:22",
+				"tel_id": "271",
+				"cont": "Rien ^^ dsl du retard ^^",
+				"_id": "213"
+			},
+			{
+				"date": "15 sept. 2011 18:45:30",
+				"tel_id": "271",
+				"cont": "Quoi de neuf ?",
+				"_id": "214"
+			},
+			{
+				"date": "15 sept. 2011 18:45:46",
+				"tel_id": "271",
+				"cont": "Ouaii ^^ tfk?",
+				"_id": "216"
+			},
+			{
+				"date": "15 sept. 2011 18:45:54",
+				"tel_id": "271",
+				"cont": "Sa va ?",
+				"_id": "217"
+			},
+			{
+				"date": "15 sept. 2011 18:46:01",
+				"tel_id": "271",
+				"cont": "Heyy !",
+				"_id": "218"
+			},
+			{
+				"date": "15 sept. 2011 18:46:11",
+				"tel_id": "271",
+				"cont": "Ok bye je t'aime et moi je commence a 9h :p",
+				"_id": "219"
+			},
+			{
+				"date": "15 sept. 2011 18:46:19",
+				"tel_id": "271",
+				"cont": "Ouai , tfk ?",
+				"_id": "220"
+			},
+			{
+				"date": "15 sept. 2011 18:46:42",
+				"tel_id": "271",
+				"cont": "Bonne nuit <3",
+				"_id": "223"
+			},
+			{
+				"date": "15 sept. 2011 18:46:54",
+				"tel_id": "271",
+				"cont": "Arrete avec ses chaines de mes deux !",
+				"_id": "224"
+			},
+			{
+				"date": "15 sept. 2011 18:47:15",
+				"tel_id": "271",
+				"cont": "Mouai bon jlaisse ^^",
+				"_id": "225"
+			},
+			{
+				"date": "15 sept. 2011 18:47:28",
+				"tel_id": "271",
+				"cont": "Meme pas ppour *** ?",
+				"_id": "226"
+			},
+			{
+				"date": "15 sept. 2011 18:47:43",
+				"tel_id": "271",
+				"cont": "Moi nn plus ^^",
+				"_id": "227"
+			},
+			{
+				"date": "15 sept. 2011 18:47:52",
+				"tel_id": "271",
+				"cont": "A cote de la plaque ? Nan je pense pas ^^",
+				"_id": "228"
+			},
+			{
+				"date": "15 sept. 2011 18:48:00",
+				"tel_id": "271",
+				"cont": "Qqn de la classe",
+				"_id": "229"
+			},
+			{
+				"date": "15 sept. 2011 18:48:10",
+				"tel_id": "271",
+				"cont": "Ah bah voila ! :) mais jpense que tu as menti j'ai un presentiment",
+				"_id": "230"
+			},
+			{
+				"date": "15 sept. 2011 18:49:17",
+				"tel_id": "271",
+				"cont": "Il sapelle comment alors ?",
+				"_id": "231"
+			},
+			{
+				"date": "15 sept. 2011 18:49:25",
+				"tel_id": "271",
+				"cont": "Ouai :)",
+				"_id": "232"
+			},
+			{
+				"date": "15 sept. 2011 18:49:36",
+				"tel_id": "271",
+				"cont": "Pck ! Nan mais dit le tourne pas autour omoin c'est dit et je peut tarranger avec lui sil est au bahut",
+				"_id": "233"
+			},
+			{
+				"date": "15 sept. 2011 18:49:48",
+				"tel_id": "271",
+				"cont": "Nan mais tkt ! Et puis moi je peut pas ecrire 2 pages ! :/",
+				"_id": "234"
+			},
+			{
+				"date": "15 sept. 2011 18:50:05",
+				"tel_id": "271",
+				"cont": "Ouai j'ai lu sa",
+				"_id": "235"
+			},
+			{
+				"date": "15 sept. 2011 18:50:14",
+				"tel_id": "271",
+				"cont": "J'ai kiffé <3",
+				"_id": "236"
+			},
+			{
+				"date": "15 sept. 2011 18:50:27",
+				"tel_id": "271",
+				"cont": "Nan je veut savoir qui tu aime stp",
+				"_id": "237"
+			},
+			{
+				"date": "15 sept. 2011 18:50:36",
+				"tel_id": "271",
+				"cont": "Bah j'espere <3",
+				"_id": "238"
+			},
+			{
+				"date": "15 sept. 2011 18:50:43",
+				"tel_id": "271",
+				"cont": "J'taime <3",
+				"_id": "239"
+			},
+			{
+				"date": "15 sept. 2011 18:50:51",
+				"tel_id": "271",
+				"cont": "Allez ! Vazi stp",
+				"_id": "240"
+			},
+			{
+				"date": "15 sept. 2011 18:51:02",
+				"tel_id": "271",
+				"cont": "Sinon t'est immature :( mais dit le sa te fera rien !",
+				"_id": "241"
+			},
+			{
+				"date": "15 sept. 2011 18:51:12",
+				"tel_id": "271",
+				"cont": "Nan nan tu me le dit tu gere pas la ! :/",
+				"_id": "242"
+			},
+			{
+				"date": "15 sept. 2011 18:51:20",
+				"tel_id": "271",
+				"cont": "Allez vazi :)",
+				"_id": "243"
+			},
+			{
+				"date": "15 sept. 2011 18:51:30",
+				"tel_id": "271",
+				"cont": "Allez putain dis le !",
+				"_id": "244"
+			},
+			{
+				"date": "15 sept. 2011 18:51:40",
+				"tel_id": "271",
+				"cont": "Nan nan tu me le dit ! Sinon sa va pas ^^",
+				"_id": "245"
+			},
+			{
+				"date": "15 sept. 2011 18:51:53",
+				"tel_id": "271",
+				"cont": "Mais si ! Allez stp :)",
+				"_id": "246"
+			},
+			{
+				"date": "15 sept. 2011 18:52:01",
+				"tel_id": "271",
+				"cont": "Aller tkt ! Je dirai rien si tu vx",
+				"_id": "247"
+			},
+			{
+				"date": "15 sept. 2011 18:52:05",
+				"tel_id": "228",
+				"cont": "J'ai un annif samedi mais ça peut se faire après je sais pas ça dépend si j'y reste longtemps t'y vas avc ki ?",
+				"_id": "248"
+			},
+			{
+				"date": "15 sept. 2011 18:52:12",
+				"tel_id": "271",
+				"cont": "Je suis le vrai et l'unnique par contre dit moi qui tu aime !",
+				"_id": "249"
+			},
+			{
+				"date": "15 sept. 2011 18:52:21",
+				"tel_id": "271",
+				"cont": "Non mais tsais dit le au moin c'est fait , apres sa fait immature",
+				"_id": "250"
+			},
+			{
+				"date": "15 sept. 2011 18:52:30",
+				"tel_id": "271",
+				"cont": "Nan j'allais y revenir tkt pas ! Tu te sauvera pas comme sa",
+				"_id": "251"
+			},
+			{
+				"date": "15 sept. 2011 18:52:37",
+				"tel_id": "271",
+				"cont": "Rien et toi ?",
+				"_id": "252"
+			},
+			{
+				"date": "15 sept. 2011 18:52:44",
+				"tel_id": "271",
+				"cont": "Nan",
+				"_id": "253"
+			},
+			{
+				"date": "15 sept. 2011 18:52:51",
+				"tel_id": "271",
+				"cont": "Et sur qui ?",
+				"_id": "254"
+			},
+			{
+				"date": "15 sept. 2011 18:52:59",
+				"tel_id": "271",
+				"cont": "Bah ouai ^^",
+				"_id": "255"
+			},
+			{
+				"date": "15 sept. 2011 18:53:09",
+				"tel_id": "271",
+				"cont": "Bah ouai ^^ :) et toi ta pas trouve de mec ou t'est pas en kiff sur qqn ?",
+				"_id": "256"
+			},
+			{
+				"date": "15 sept. 2011 18:53:25",
+				"tel_id": "271",
+				"cont": "En meme temps c'est pas dur x)",
+				"_id": "258"
+			},
+			{
+				"date": "15 sept. 2011 18:53:35",
+				"tel_id": "228",
+				"cont": "Je te dirai mais je pense pa mais on peut se voir d l âprem ou koi",
+				"_id": "259"
+			},
+			{
+				"date": "15 sept. 2011 18:53:44",
+				"tel_id": "271",
+				"cont": "Nan mais on est deux moi et une autre fille qui sap *** , en 400m crono on leur met plus d'une minute",
+				"_id": "260"
+			},
+			{
+				"date": "15 sept. 2011 18:53:54",
+				"tel_id": "271",
+				"cont": "Ouaip :) avec ton joli *** d'amour",
+				"_id": "261"
+			},
+			{
+				"date": "15 sept. 2011 18:54:01",
+				"tel_id": "271",
+				"cont": "On a souffert !",
+				"_id": "262"
+			},
+			{
+				"date": "15 sept. 2011 18:54:09",
+				"tel_id": "271",
+				"cont": "X) avec qui ?",
+				"_id": "263"
+			},
+			{
+				"date": "15 sept. 2011 18:54:30",
+				"tel_id": "271",
+				"cont": "Moi j'attend 18:15 et *** et *** qui sont nominé",
+				"_id": "265"
+			},
+			{
+				"date": "15 sept. 2011 18:54:38",
+				"tel_id": "271",
+				"cont": "Les mariages la ?",
+				"_id": "266"
+			},
+			{
+				"date": "15 sept. 2011 18:54:53",
+				"tel_id": "271",
+				"cont": "Coucou :)",
+				"_id": "268"
+			},
+			{
+				"date": "15 sept. 2011 18:55:09",
+				"tel_id": "271",
+				"cont": "Par contre je sais pas quand jte repondrai peut etre se week end mais ya des canadiens qui viennent passé le week end",
+				"_id": "269"
+			},
+			{
+				"date": "15 sept. 2011 18:55:18",
+				"tel_id": "271",
+				"cont": "Nan mais pour t'envoyer avec la lettre ^^",
+				"_id": "270"
+			},
+			{
+				"date": "15 sept. 2011 18:55:27",
+				"tel_id": "271",
+				"cont": "Sinon j'ai une cle usb avec tte mes photos ^^",
+				"_id": "271"
+			},
+			{
+				"date": "15 sept. 2011 19:03:38",
+				"tel_id": "228",
+				"cont": "LOL",
+				"_id": "273"
+			},
+			{
+				"date": "15 sept. 2011 19:06:35",
+				"tel_id": "271",
+				"cont": "Quelle question debile biensur que oui",
+				"_id": "275"
+			},
+			{
+				"date": "15 sept. 2011 19:08:02",
+				"tel_id": "228",
+				"cont": "Ok *** pas de soucis je te tel kan j'ai finis ok ?<3",
+				"_id": "276"
+			},
+			{
+				"date": "15 sept. 2011 19:09:29",
+				"tel_id": "271",
+				"cont": "Mais nan !",
+				"_id": "277"
+			},
+			{
+				"date": "15 sept. 2011 19:10:39",
+				"tel_id": "228",
+				"cont": "Heureusement ke ça ça !",
+				"_id": "278"
+			},
+			{
+				"date": "15 sept. 2011 19:11:04",
+				"tel_id": "271",
+				"cont": "La meme",
+				"_id": "279"
+			},
+			{
+				"date": "15 sept. 2011 19:17:21",
+				"tel_id": "271",
+				"cont": "J'en connait pas bcp ^^",
+				"_id": "280"
+			},
+			{
+				"date": "15 sept. 2011 19:19:54",
+				"tel_id": "156",
+				"cont": "Hihihi ! Derien ! Bisous",
+				"_id": "281"
+			},
+			{
+				"date": "15 sept. 2011 19:21:07",
+				"tel_id": "341",
+				"cont": "Coucou toi. ***, ***, *** sont ok. *** pas sure. Les autres je ne les ai pas vu. A demain. Bisous",
+				"_id": "282"
+			},
+			{
+				"date": "15 sept. 2011 19:24:30",
+				"tel_id": "271",
+				"cont": "Tu le connait deja le peux que je connait en quebecois ^^",
+				"_id": "283"
+			},
+			{
+				"date": "15 sept. 2011 20:00:24",
+				"tel_id": "323",
+				"cont": "Yep! Tchek moi quand tu sors du taff histoire que je sache quand je peux débouler chez toi. A toute, besos!",
+				"_id": "284"
+			},
+			{
+				"date": "15 sept. 2011 20:04:23",
+				"tel_id": "197",
+				"cont": "Ah ok bn c'est pas gravemerci qd mm , sinn bne fin de vac !",
+				"_id": "285"
+			},
+			{
+				"date": "15 sept. 2011 20:04:40",
+				"tel_id": "228",
+				"cont": "Tu me tel Stp ?",
+				"_id": "286"
+			},
+			{
+				"date": "15 sept. 2011 20:04:24",
+				"tel_id": "162",
+				"cont": "Génial! Félicitations^^",
+				"_id": "287"
+			},
+			{
+				"date": "15 sept. 2011 20:04:49",
+				"tel_id": "162",
+				"cont": "Si tu pensais bien etre prise quand meme tu l'avais bien senti déjà au début^^ et t payé combien?^^",
+				"_id": "288"
+			},
+			{
+				"date": "15 sept. 2011 20:05:08",
+				"tel_id": "162",
+				"cont": "Parfait^^ jusqu'à décembre?",
+				"_id": "289"
+			},
+			{
+				"date": "15 sept. 2011 20:05:32",
+				"tel_id": "162",
+				"cont": "Et tu commence quand ton boulot?",
+				"_id": "290"
+			},
+			{
+				"date": "15 sept. 2011 20:06:11",
+				"tel_id": "162",
+				"cont": "Ok ok^^Et oui ca va ^^",
+				"_id": "291"
+			},
+			{
+				"date": "15 sept. 2011 20:06:23",
+				"tel_id": "162",
+				"cont": "Les cours?  :)",
+				"_id": "292"
+			},
+			{
+				"date": "15 sept. 2011 20:06:34",
+				"tel_id": "162",
+				"cont": "G repris vendredi et ouai c bien ms il va y avoir pas mal de boulot a mon avis!",
+				"_id": "293"
+			},
+			{
+				"date": "15 sept. 2011 20:06:45",
+				"tel_id": "162",
+				"cont": "Je suis pas sure des dates. Je suis en stage au festival de la guitare maintenant jusqu'au 15 octobre ;-) ils m'ont embauché Haha",
+				"_id": "294"
+			},
+			{
+				"date": "15 sept. 2011 20:07:07",
+				"tel_id": "162",
+				"cont": "Alors burger?",
+				"_id": "295"
+			},
+			{
+				"date": "15 sept. 2011 20:07:18",
+				"tel_id": "197",
+				"cont": "Non pas encore. Je suis à l'ombre au parking presque en face de la sortie du lycée",
+				"_id": "296"
+			},
+			{
+				"date": "15 sept. 2011 20:07:24",
+				"tel_id": "162",
+				"cont": "4ans lol non mais j'imagine la scène trop drole",
+				"_id": "297"
+			},
+			{
+				"date": "15 sept. 2011 20:07:54",
+				"tel_id": "162",
+				"cont": "Bon film! :d",
+				"_id": "298"
+			},
+			{
+				"date": "15 sept. 2011 20:08:50",
+				"tel_id": "162",
+				"cont": "Alors c bon?",
+				"_id": "299"
+			},
+			{
+				"date": "15 sept. 2011 20:09:20",
+				"tel_id": "197",
+				"cont": "Bah jviens 2 penser que tu me dis que jdonne jamais de nouvelles dont pour une fois jle fais ! ça va mrci. Quoi de nouveau pour toi ?",
+				"_id": "300"
+			},
+			{
+				"date": "15 sept. 2011 20:09:40",
+				"tel_id": "197",
+				"cont": "Ok pr moi c pareil. Étude l'année boulot l'ete.",
+				"_id": "301"
+			},
+			{
+				"date": "15 sept. 2011 20:09:20",
+				"tel_id": "162",
+				"cont": "On est au burger si tu veux ns faire coucou!",
+				"_id": "302"
+			},
+			{
+				"date": "15 sept. 2011 20:10:44",
+				"tel_id": "197",
+				"cont": "ah ok coucou je viens 2 finir mon année ca a été . et toi quoi 2 9? biz",
+				"_id": "303"
+			},
+			{
+				"date": "15 sept. 2011 20:11:43",
+				"tel_id": "197",
+				"cont": "Ok no souci",
+				"_id": "304"
+			},
+			{
+				"date": "15 sept. 2011 20:12:11",
+				"tel_id": "197",
+				"cont": "Oups Dsl je viens d'avoir le 1er sms ...",
+				"_id": "305"
+			},
+			{
+				"date": "15 sept. 2011 20:13:38",
+				"tel_id": "197",
+				"cont": "Bah ils sont déjà en retard mdr",
+				"_id": "306"
+			},
+			{
+				"date": "15 sept. 2011 20:16:42",
+				"tel_id": "197",
+				"cont": "Oh ma chérie merci beaucoup ! Love you so much! <3",
+				"_id": "307"
+			},
+			{
+				"date": "15 sept. 2011 20:19:20",
+				"tel_id": "401",
+				"cont": {
+					"Location": "parc",
+					"__text": "On est rentrée du"
+				},
+				"_id": "308"
+			},
+			{
+				"date": "15 sept. 2011 20:19:36",
+				"tel_id": "401",
+				"cont": "À quelle heure",
+				"_id": "309"
+			},
+			{
+				"date": "15 sept. 2011 20:20:00",
+				"tel_id": "401",
+				"cont": "Enregistre ce numéro",
+				"_id": "310"
+			},
+			{
+				"date": "15 sept. 2011 20:20:35",
+				"tel_id": "197",
+				"cont": {
+					"Location": [
+						"puerto",
+						"Tlse",
+						"Mtp"
+					],
+					"__text": "Coucou ma *** ça va ? Alors cette année? La famille les amours ? J'ai vu que tu allais tjs au \n ;)  J'ai un rdv sur \n le 1er mars et comme en plus c'est ton anniversaire je ne peux pas m'empêcher de t'envoyer un sms pour savoir si je peux venir te faire de gros bisous ^^ ou si tu seras chez tes parents .) Tu me manques si tu veux papoter bipe moi quand tu veux ! Gros bisous de \n où il fait bien chaud HDGDL <3"
+				},
+				"_id": "311"
+			},
+			{
+				"date": "15 sept. 2011 20:20:35",
+				"tel_id": "401",
+				"cont": "Slt c *** je viens d'avoir mon portable",
+				"_id": "312"
+			},
+			{
+				"date": "15 sept. 2011 20:21:08",
+				"tel_id": "401",
+				"cont": "Sonic il est trop bien !!!!!!!",
+				"_id": "313"
+			},
+			{
+				"date": "15 sept. 2011 20:21:18",
+				"tel_id": "197",
+				"cont": {
+					"Location": "st Rome",
+					"__text": "Je suis rue \n tkt pas ;)"
+				},
+				"_id": "314"
+			},
+			{
+				"date": "15 sept. 2011 20:21:29",
+				"tel_id": "401",
+				"cont": "J'ai eu un jeu",
+				"_id": "315"
+			},
+			{
+				"date": "15 sept. 2011 20:22:19",
+				"tel_id": "197",
+				"cont": "Oui on va faire ça se sera plus simple. Non manque de sommeil je ne sais plus où j'habite. Tu as du m'entendre vers 10h30 c'est le seul que j'ai eu à annoncer mdr. Si j'ai la 3G je t'envoie un mail sur Facebook ^^ bon app' à toi aussi bisous",
+				"_id": "316"
+			},
+			{
+				"date": "15 sept. 2011 20:24:35",
+				"tel_id": "197",
+				"cont": "D'accordPour l'instant je n'ai tjs rien qui monte",
+				"_id": "317"
+			},
+			{
+				"date": "15 sept. 2011 20:25:45",
+				"tel_id": "197",
+				"cont": "Je ne sais pas car pr le moment mon emploi du tps n'est pas définitif .. un peu galère leur système et j'ai déjà des cours à rattraper un samedi car j'ai des profs absents..",
+				"_id": "318"
+			},
+			{
+				"date": "15 sept. 2011 20:27:30",
+				"tel_id": "197",
+				"cont": "Ok c'est parfait vu que mon bassin est encore monté. Ils arrive je le passe au plus tôt",
+				"_id": "319"
+			},
+			{
+				"date": "15 sept. 2011 20:31:28",
+				"tel_id": "107",
+				"cont": "Je peux pas j'ai oublié mes souliers chez le prince charmant! Non sérieux le travail m'attend et je suis quelqu'un de sérieux!",
+				"_id": "320"
+			},
+			{
+				"date": "15 sept. 2011 20:43:10",
+				"tel_id": "271",
+				"cont": "Ouai grave",
+				"_id": "321"
+			},
+			{
+				"date": "15 sept. 2011 20:44:49",
+				"tel_id": "123",
+				"cont": "Salut, oui si tu veux, demain midi.Remet toi bien :-)Bonne soirée, a demain.",
+				"_id": "322"
+			},
+			{
+				"date": "15 sept. 2011 20:45:19",
+				"tel_id": "162",
+				"cont": "Une quinzaine d'heures environ ms bon le contenu est + costaud je dirai! Genre l'an dernier on avait 2 livres par semestre a lire en littérature et ce semestre c 8 livres!!! Enfin bon ca a l'air intéressant dc ca va^^",
+				"_id": "323"
+			},
+			{
+				"date": "15 sept. 2011 20:45:52",
+				"tel_id": "271",
+				"cont": "Ouai grave lo",
+				"_id": "325"
+			},
+			{
+				"date": "15 sept. 2011 20:46:21",
+				"tel_id": "271",
+				"cont": "Tkt c'est normal",
+				"_id": "326"
+			},
+			{
+				"date": "15 sept. 2011 20:47:45",
+				"tel_id": "162",
+				"cont": "Ms t avec qui?",
+				"_id": "327"
+			},
+			{
+				"date": "15 sept. 2011 20:49:49",
+				"tel_id": "475",
+				"cont": "Tu rentrer pas cette semaine ? T sensé etre chez ton père ou ta mère ?",
+				"_id": "328"
+			},
+			{
+				"date": "15 sept. 2011 20:52:30",
+				"tel_id": "197",
+				"cont": "Coucou pas de souci je suis là jusqu'à demain matin et cet aprèm on risque d'aller à l' œil doux. Pas grave pour la boucle ;) bisous et bon courage pour le taf",
+				"_id": "331"
+			},
+			{
+				"date": "15 sept. 2011 20:54:49",
+				"tel_id": "271",
+				"cont": "A ouai ! Ya quoi dessus ?",
+				"_id": "333"
+			},
+			{
+				"date": "15 sept. 2011 20:55:00",
+				"tel_id": "197",
+				"cont": "Oui je sais... moi aussi je vous aime bcp mais on pourra tjs se revoir quand je rentrerai et vous pourrez venir à l'appart quand vous voudrez !",
+				"_id": "334"
+			},
+			{
+				"date": "15 sept. 2011 20:56:32",
+				"tel_id": "197",
+				"cont": "Coucou je voulais juste te dire que ton coup de fil m'a vraiment fait très plaisir =D tu me manques beaucoup mon pti ***. Gros bisous et bonne journée <3",
+				"_id": "336"
+			},
+			{
+				"date": "15 sept. 2011 20:57:41",
+				"tel_id": "475",
+				"cont": "Il me fait rire tout simplment",
+				"_id": "337"
+			},
+			{
+				"date": "15 sept. 2011 20:57:57",
+				"tel_id": "197",
+				"cont": "Coucou c'est tjs ok pr ce soir ? Pck *** ne vient pas donc je préféré te prévenir. Bisous",
+				"_id": "338"
+			},
+			{
+				"date": "15 sept. 2011 20:59:35",
+				"tel_id": "475",
+				"cont": "Tu croyais quoi ?",
+				"_id": "339"
+			},
+			{
+				"date": "15 sept. 2011 20:59:55",
+				"tel_id": "271",
+				"cont": "^^ tu va pas pouvoir parler comme d'hab je suppose ?",
+				"_id": "340"
+			},
+			{
+				"date": "15 sept. 2011 21:00:58",
+				"tel_id": "197",
+				"cont": "Sinon je passe vite fait à l'appart pour récupérer et je te rejoins des que tu es â quai",
+				"_id": "342"
+			},
+			{
+				"date": "15 sept. 2011 21:01:21",
+				"tel_id": "271",
+				"cont": "Ouai ok :)",
+				"_id": "343"
+			},
+			{
+				"date": "15 sept. 2011 21:03:29",
+				"tel_id": "271",
+				"cont": "Alors sa va ? Tu tient le cout ? <3",
+				"_id": "344"
+			},
+			{
+				"date": "15 sept. 2011 21:04:08",
+				"tel_id": "162",
+				"cont": "Vous buvez un verre où?",
+				"_id": "345"
+			},
+			{
+				"date": "15 sept. 2011 21:05:03",
+				"tel_id": "271",
+				"cont": "Je t'aime tre fort <3",
+				"_id": "346"
+			},
+			{
+				"date": "15 sept. 2011 21:05:47",
+				"tel_id": "162",
+				"cont": "Putain on se fait trop chier ya PERSONNE quoi! XDEt ok pr le bar ^^",
+				"_id": "347"
+			},
+			{
+				"date": "15 sept. 2011 21:07:30",
+				"tel_id": "228",
+				"cont": "Cc *** ça va ? Kes tfai moi look un film ... Bisoussss",
+				"_id": "348"
+			},
+			{
+				"date": "15 sept. 2011 21:07:48",
+				"tel_id": "475",
+				"cont": "Tu fais quoi ?",
+				"_id": "349"
+			},
+			{
+				"date": "15 sept. 2011 21:09:34",
+				"tel_id": "271",
+				"cont": "Je pige pas la ?",
+				"_id": "351"
+			},
+			{
+				"date": "15 sept. 2011 21:11:35",
+				"tel_id": "271",
+				"cont": "Ahh ^^ ok ^^",
+				"_id": "353"
+			},
+			{
+				"date": "16 sept. 2011 08:12:40",
+				"tel_id": "437",
+				"cont": {
+					"Location": "Sète",
+					"__text": "par s q j en aurai besoin pr cette aprem ac *** on va faire un tour a un festival de cinéma à \n et y aura Michel Gondry"
+				},
+				"_id": "440"
+			},
+			{
+				"date": "16 sept. 2011 12:22:17",
+				"tel_id": "228",
+				"cont": {
+					"Location": "St. André",
+					"__text": "Jsui sur \n mais on peut se voir si tu veux"
+				},
+				"_id": "502"
+			},
+			{
+				"date": "16 sept. 2011 14:25:23",
+				"tel_id": "477",
+				"cont": {
+					"Location": "Bezier",
+					"__text": "Ouii j'viendrais a \n faire tes petites soirees etudiantes!Je sais pas... On verra j'vous tiens au courant!Oui on revient ce soir quand même! Pas de soucis!Biisoux"
+				},
+				"_id": "533"
+			},
+			{
+				"date": "16 sept. 2011 21:14:19",
+				"tel_id": "182",
+				"cont": {
+					"Location": [
+						"odysseum",
+						"place albert 1er",
+						"st eloi"
+					],
+					"__text": "Ok call me si tas un blem! Alors cest le tram direction \n, tu descends a \"\n\". Textotes moi quand tu décolle de \"\n\" (cest larret de la fac : il faut descendre lallée avec des palmiers et tu y es)"
+				},
+				"_id": "671"
+			},
+			{
+				"date": "16 sept. 2011 21:20:47",
+				"tel_id": "323",
+				"cont": {
+					"Location": [
+						"l'aveyron",
+						"Saint Jean de Védas"
+					],
+					"__text": "Ma foi ce programme me plait bien! Le truv c que je pars 2min ds \n, du coup aller à \n ce soir c ptetre pas une bonne idée. Tenez moi au jus si vs restez ds les parages, besos!"
+				},
+				"_id": "682"
+			},
+			{
+				"date": "16 sept. 2011 22:10:36",
+				"tel_id": "123",
+				"cont": {
+					"Location": "st eloi",
+					"__text": "Ha mais t'as cours demain...Ok, rdv vers 12h a \n ?"
+				},
+				"_id": "703"
+			},
+			{
+				"date": "19 sept. 2011 08:16:53",
+				"tel_id": "245",
+				"cont": {
+					"Location": "Montpellier",
+					"__text": "Je suis rassurée de savoir que vous vous débrouillez bien tous les 2 ;) là,je bosse mes cours et surprise! *** et son copain passe par \n et vont venir prendre le café cet aprem! Gros bisous et bonne fin d'aprem"
+				},
+				"_id": "1728"
+			},
+			{
+				"date": "19 sept. 2011 10:09:10",
+				"tel_id": "254",
+				"cont": {
+					"Location": "saint jean de vedas",
+					"__text": "Lol. Mais trappelle pas on etait passe devant en revenant de \n... T'as pas le gps?"
+				},
+				"_id": "1803"
+			},
+			{
+				"date": "19 sept. 2011 14:51:35",
+				"tel_id": "338",
+				"cont": {
+					"Location": [
+						"bordeaux",
+						"bordeaux"
+					],
+					"__text": "Ah ti toi gadjo ? Alors ce stage c ok ?Et \n tjrs aussi bien ? Au faite tu mdois la tune pour ta photo fb. Copieur! :-). Je te previens si je passe par \n. A pluche"
+				},
+				"_id": "2511"
+			},
+			{
+				"date": "19 sept. 2011 17:46:56",
+				"tel_id": "100",
+				"cont": {
+					"Location": "odysséum",
+					"__text": "je suis à l'arret précédent \n, et toi, tu en es ou ?"
+				},
+				"_id": "2735"
+			},
+			{
+				"date": "19 sept. 2011 20:42:03",
+				"tel_id": "363",
+				"cont": {
+					"Location": "sauvian",
+					"__text": "Il habite au \n nous on a fait un repas ou il y était et a la fin il a chanter \" le gitan et mon vieux\"..."
+				},
+				"_id": "2963"
+			},
+			{
+				"date": "20 sept. 2011 03:16:01",
+				"tel_id": "482",
+				"cont": "Oui mon cœur .. T as vu il est propre et sec !! ;0)",
+				"_id": "3203"
+			},
+			{
+				"date": "20 sept. 2011 03:16:26",
+				"tel_id": "482",
+				"cont": "Oui merci",
+				"_id": "3204"
+			},
+			{
+				"date": "20 sept. 2011 03:16:51",
+				"tel_id": "482",
+				"cont": {
+					"Location": "lunel viel",
+					"__text": "Dis moi quand tu pars de"
+				},
+				"_id": "3205"
+			},
+			{
+				"date": "20 sept. 2011 23:29:27",
+				"tel_id": "138",
+				"cont": "Coucou toi! Jte souhaite 1 tres joyeux anniversaire ! Gros bisouss",
+				"_id": "4287"
+			},
+			{
+				"date": "20 sept. 2011 23:29:28",
+				"tel_id": "228",
+				"cont": "Oui j'ai plus l envie en fait !",
+				"_id": "4288"
+			},
+			{
+				"date": "20 sept. 2011 23:23:51",
+				"tel_id": "120",
+				"cont": {
+					"Location": "bezier",
+					"__text": "Lol sil fai bon ui. Jai rdv a \n jviendrai ap sil fait tj bon."
+				},
+				"_id": "4290"
+			},
+			{
+				"date": "21 sept. 2011 09:58:12",
+				"tel_id": "284",
+				"cont": {
+					"Location": "la gare",
+					"__text": "Nous sommes arretés sur la voie, juste avant"
+				},
+				"_id": "4544"
+			},
+			{
+				"date": "21 sept. 2011 13:41:35",
+				"tel_id": "131",
+				"cont": {
+					"Location": "st paul",
+					"__text": "*** m'a demandé de te prévenir, apero surprise pour l'anniv d'*** demain a 19h au bar l'arsenal vers \n !"
+				},
+				"_id": "4941"
+			},
+			{
+				"date": "22 sept. 2011 19:14:38",
+				"tel_id": "478",
+				"cont": {
+					"Location": "st Jean de Vedas",
+					"__text": "Aaaaaaah et si on allait au truc de la patate a \n ??????????????"
+				},
+				"_id": "6647"
+			},
+			{
+				"date": "23 sept. 2011 11:33:10",
+				"tel_id": "482",
+				"cont": {
+					"Location": "St. Christol",
+					"__text": "Salutos .. Rdez vs \n mercredi 13h45 ..."
+				},
+				"_id": "7765"
+			},
+			{
+				"date": "25 sept. 2011 13:27:41",
+				"tel_id": "476",
+				"cont": {
+					"Location": "latte",
+					"__text": "Si place 2 leurope, é voui y va a"
+				},
+				"_id": "12373"
+			},
+			{
+				"date": "25 sept. 2011 13:20:01",
+				"tel_id": "67",
+				"cont": {
+					"Location": "st eloi",
+					"__text": "Ouaai jsui chez moi la encore par coontre .  jvai partiir . Mai c pa loin de l arret \n.?  Sinon jai ma voiture hiin"
+				},
+				"_id": "12521"
+			},
+			{
+				"date": "25 sept. 2011 13:20:09",
+				"tel_id": "67",
+				"cont": "Okk booon bah je par la .!",
+				"_id": "12522"
+			},
+			{
+				"date": "25 sept. 2011 13:20:25",
+				"tel_id": "67",
+				"cont": {
+					"Location": [
+						"boutonnet",
+						"saint eloi"
+					],
+					"__text": "Apres \n c est \n.?"
+				},
+				"_id": "12523"
+			},
+			{
+				"date": "26 sept. 2011 10:49:37",
+				"tel_id": "504",
+				"cont": {
+					"Location": "montbeliard",
+					"__text": "Hey, désolé j'ai pas pu passé ta du constaté pis Jtavais dis que jtappelerai, mais javais oublié mon portable chez une amie :S fin bref, sinon quoi de neuf ? Je suis passé par \n hier..."
+				},
+				"_id": "13605"
+			},
+			{
+				"date": "26 sept. 2011 18:39:20",
+				"tel_id": "465",
+				"cont": {
+					"Location": "motpellier",
+					"__text": "Est ce que tu es dispo pour samedi 1 octobre pour gardez des enfants pour le comite de quartier de 15h a 18h ? Puis il y as *** qui et sur"
+				},
+				"_id": "14758"
+			},
+			{
+				"date": "27 sept. 2011 16:35:35",
+				"tel_id": "224",
+				"cont": {
+					"Location": "saint éloi",
+					"__text": "Rdv"
+				},
+				"_id": "16572"
+			},
+			{
+				"date": "27 sept. 2011 21:54:58",
+				"tel_id": "197",
+				"cont": {
+					"Location": "Béziers",
+					"__text": "Je suis à \n : aucun retard pour le moment ! :D"
+				},
+				"_id": "17389"
+			},
+			{
+				"date": "28 sept. 2011 15:47:33",
+				"tel_id": "144",
+				"cont": {
+					"Location": "sete",
+					"__text": "G acheter la carte 12-25 de sncf! Jve pouvoir venir a \n sans me ruiner!! =))"
+				},
+				"_id": "18384"
+			},
+			{
+				"date": "30 sept. 2011 20:28:27",
+				"tel_id": "219",
+				"cont": {
+					"Location": "montpellier",
+					"__text": "Alors le squash ? Au final j'ai pas encore commencé de manger et demain direction \n pour tout ranger et nettoyer du coup j'sais pas si on se verra ce soir"
+				},
+				"_id": "22469"
+			},
+			{
+				"date": "1 oct. 2011 19:07:27",
+				"tel_id": "296",
+				"cont": "Un mec  supporter de montpelier est à coté de nous . Ils nous à invité à boire l apéro . Chelou le mec Je t'aime",
+				"_id": "23778"
+			},
+			{
+				"date": "1 oct. 2011 22:46:43",
+				"tel_id": "296",
+				"cont": {
+					"Location": "motpeliè",
+					"__text": "Penalty transformé pour \n Je sais pas pq non plus . Il met des jaune partout . Je t'aime"
+				},
+				"_id": "24031"
+			},
+			{
+				"date": "4 oct. 2011 18:27:53",
+				"tel_id": "156",
+				"cont": {
+					"Location": [
+						"nimes",
+						"valence"
+					],
+					"__text": "Euuuh Lool je sais pas après \n avant \n ! Oui ça se passe ya un ti chien qui ronfle un boxer il est trop comique mdr !"
+				},
+				"_id": "27609"
+			},
+			{
+				"date": "11 oct. 2011 20:17:53",
+				"tel_id": "262",
+				"cont": {
+					"Location": [
+						"frontignan plage",
+						"vic la gardiole"
+					],
+					"__text": "Pfff même pas ... J'ai crevé au bout d'une demi heure !!!J'étais parti sur \n , direction \n ..."
+				},
+				"_id": "37150"
+			},
+			{
+				"date": "8 oct. 2011 17:46:39",
+				"tel_id": "171",
+				"cont": {
+					"Location": "monptellier",
+					"__text": "Tu es sur \n dimanche?"
+				},
+				"_id": "33326"
+			},
+			{
+				"date": "9 oct. 2011 12:47:50",
+				"tel_id": "156",
+				"cont": {
+					"Location": "Sete",
+					"__text": "Salut gars ! Lol il fait froid ici quand meme ! Tu as rentrer les fleurs ? Demain on va surement manger à \n le midi Si Y'a pas trop de vent lol ! T'aime"
+				},
+				"_id": "33926"
+			},
+			{
+				"date": "10 oct. 2011 11:16:17",
+				"tel_id": "162",
+				"cont": {
+					"Location": "bezies",
+					"__text": "Zut je peux pas je vais visiter le cimetiere vieux de \n."
+				},
+				"_id": "35092"
+			},
+			{
+				"date": "13 oct. 2011 21:36:47",
+				"tel_id": "296",
+				"cont": "Mais j'ai vraiment rien à dire j'ai mal au yeux et au dos c'est tout Je t'aime",
+				"_id": "39717"
+			},
+			{
+				"date": "13 oct. 2011 21:41:59",
+				"tel_id": "296",
+				"cont": "T as des truc à dire pour tout à l heure? Je t'aime",
+				"_id": "39719"
+			},
+			{
+				"date": "13 oct. 2011 21:41:33",
+				"tel_id": "374",
+				"cont": "Oui il fais 13 degres mais VdM koi!",
+				"_id": "39720"
+			},
+			{
+				"date": "13 oct. 2011 21:41:53",
+				"tel_id": "504",
+				"cont": "Faudra que je goûte alors, tu me le rappelera hein ;)",
+				"_id": "39721"
+			},
+			{
+				"date": "13 oct. 2011 21:42:56",
+				"tel_id": "374",
+				"cont": "Comment ca c est ou shoppi??!!!! C est carrefour city! si vraiment tu veux être précis!!!",
+				"_id": "39722"
+			},
+			{
+				"date": "13 oct. 2011 21:43:45",
+				"tel_id": "374",
+				"cont": "Hahaha t es folle on dort pas dans la meme chambre ya mon pere!!!",
+				"_id": "39724"
+			},
+			{
+				"date": "13 oct. 2011 21:44:10",
+				"tel_id": "206",
+				"cont": "C'est ce weekend les 1000m?",
+				"_id": "39725"
+			},
+			{
+				"date": "13 oct. 2011 21:42:52",
+				"tel_id": "245",
+				"cont": "TR: Tte à l'heure le gamin que je garde m'a traitée de \"grosse\" pr me faire du mal car je les envoyais au lit. Du coup,jl'ai puni,pas d'histoire,au lit direct et il a eu droit à une bonne dose de morale ! La différence ils connaissent pas ds cette famille avec leur mère qui fait du 32 lol bref...c toujours agréable une réflexion comme ca ds la gueule ...",
+				"_id": "39726"
+			},
+			{
+				"date": "13 oct. 2011 21:42:55",
+				"tel_id": "245",
+				"cont": "TR: Tu es adorable merci. C tellement important pour moi ...c l'aboutissement d'une partie de ma courte vie et le début d'autre chose...",
+				"_id": "39727"
+			},
+			{
+				"date": "13 oct. 2011 21:43:55",
+				"tel_id": "271",
+				"cont": "Mardi mercredi vendredi et samedi ^^ 1h le mardi et vendrzdi et 2h le mercredi et samedi ^^",
+				"_id": "39728"
+			},
+			{
+				"date": "13 oct. 2011 21:44:29",
+				"tel_id": "296",
+				"cont": "Moi j'ai envi de dormir mais j'ai pas entendu ta voix donc non Je t'aime",
+				"_id": "39729"
+			},
+			{
+				"date": "13 oct. 2011 21:45:04",
+				"tel_id": "504",
+				"cont": "Jv donner l'idée à mes parents on va voir si pour ce week end y vont vouloir en faire =P",
+				"_id": "39730"
+			},
+			{
+				"date": "13 oct. 2011 21:46:20",
+				"tel_id": "296",
+				"cont": "Quan tu sera chez toi si tu reste pas longtemps chez l autres Je t'aime",
+				"_id": "39731"
+			},
+			{
+				"date": "13 oct. 2011 21:46:22",
+				"tel_id": "271",
+				"cont": "Nan sa fait 8 ans :p mais pendant 3 ans cetait 45 min par semaine ^^ sa fait deux ans que c 6 h et avant ct 4",
+				"_id": "39732"
+			},
+			{
+				"date": "13 oct. 2011 21:45:48",
+				"tel_id": "374",
+				"cont": {
+					"Location": [
+						"montpellier",
+						"fac de lettres"
+					],
+					"__text": "Pfff t habite pas a \n en faite jcrois! Juste au fond de la rue de la \n va pas chercher si loin!!"
+				},
+				"_id": "39733"
+			},
+			{
+				"date": "13 oct. 2011 21:46:53",
+				"tel_id": "374",
+				"cont": "Hahaha t es con ou QUOI?! Hahaha ca fais juste 4 ans qu on jou aux cartes en faite! Hahaha t es folle! Nan c est pas la question c est juste ke ca mgene ! Haha",
+				"_id": "39734"
+			},
+			{
+				"date": "13 oct. 2011 21:47:21",
+				"tel_id": "504",
+				"cont": "Oh ta vu y à American pie 9 qui sors l'année prochaine ! :P sa gère",
+				"_id": "39735"
+			},
+			{
+				"date": "13 oct. 2011 21:47:33",
+				"tel_id": "206",
+				"cont": "Ok. Sinon ça va ?",
+				"_id": "39736"
+			},
+			{
+				"date": "13 oct. 2011 21:49:11",
+				"tel_id": "477",
+				"cont": "Mon ***:))Ca va biien et toi?",
+				"_id": "39737"
+			},
+			{
+				"date": "13 oct. 2011 21:49:27",
+				"tel_id": "477",
+				"cont": "Oui ca va ca va! Et toi, le boulot... Pas trop dur...?",
+				"_id": "39738"
+			},
+			{
+				"date": "13 oct. 2011 21:50:32",
+				"tel_id": "374",
+				"cont": "L alcohol n est pas redescendu à ce que je vois :)) oui on arrive chez moi dans 5 mns il fait 13 degres on va matar!!",
+				"_id": "39739"
+			},
+			{
+				"date": "13 oct. 2011 21:50:36",
+				"tel_id": "206",
+				"cont": "Ahh oui c'est vrai... Super!!!",
+				"_id": "39740"
+			},
+			{
+				"date": "13 oct. 2011 21:50:42",
+				"tel_id": "374",
+				"cont": "Hahaha t es crade hein!! Je sais pas trop a quel h on rentre jte dirais! :)",
+				"_id": "39741"
+			},
+			{
+				"date": "13 oct. 2011 21:50:50",
+				"tel_id": "206",
+				"cont": "Bon bain alors bonne nuit gros bisous",
+				"_id": "39742"
+			},
+			{
+				"date": "13 oct. 2011 21:50:52",
+				"tel_id": "374",
+				"cont": "Ok ba c edt toi ki choisi owwww c est toi le chef ! Regarde skon a mange hier au dilemme avc ***",
+				"_id": "39743"
+			},
+			{
+				"date": "13 oct. 2011 21:51:09",
+				"tel_id": "477",
+				"cont": {
+					"Location": "Portugal",
+					"__text": "Hey! J'espere que je ne te derange pas!Alors ce matin, tu t'es levee a 8h?! Ca a ete? Pas trop dur le boulot?Le *** m'a dit de te dire : le *** il va pas voir la couleur de l'euro et va rester au \n!Vos histoires de foot, j'en peux plus!!!!Biisoux <3"
+				},
+				"_id": "39744"
+			},
+			{
+				"date": "13 oct. 2011 21:49:32",
+				"tel_id": "485",
+				"cont": "Ok je suis a cote de l'amphi C",
+				"_id": "39745"
+			},
+			{
+				"date": "13 oct. 2011 21:49:51",
+				"tel_id": "485",
+				"cont": {
+					"Location": "St. Eloi",
+					"__text": "Oki onPourra se rejoindre a \n si tu veux"
+				},
+				"_id": "39746"
+			},
+			{
+				"date": "13 oct. 2011 21:51:42",
+				"tel_id": "485",
+				"cont": "Ah oui ^^ et tu va avec lui au concert ?",
+				"_id": "39747"
+			},
+			{
+				"date": "13 oct. 2011 21:51:34",
+				"tel_id": "477",
+				"cont": "Oui bah oui si tu veux! Quand ca?",
+				"_id": "39748"
+			},
+			{
+				"date": "13 oct. 2011 21:51:52",
+				"tel_id": "477",
+				"cont": "Je te proposerais bien de venir manger a la maison mais ca risque de te faire un peu loin et j'ai pas grand chose a manger...",
+				"_id": "39749"
+			},
+			{
+				"date": "13 oct. 2011 21:52:11",
+				"tel_id": "477",
+				"cont": "Arf :/ non ca t'fait beaucoup de trajet et puis ce soir j'veux pas trop me coucher tard. Mais si toi tu veux venir, j'me debrouillerais des bonnes pates sauce \"rere\" ou une pizza qu'on peut acheter ou un mac do.Tu m'dis si ca te tente et je t'acceuile avec plaisir!",
+				"_id": "39750"
+			},
+			{
+				"date": "13 oct. 2011 21:52:33",
+				"tel_id": "477",
+				"cont": "D'ac ca marche! Bah quand il vient le coquin, on te tient au jus et on s'retrouvera quelque part ou on te concoctera un bon repas!!Biisoux",
+				"_id": "39751"
+			},
+			{
+				"date": "13 oct. 2011 21:51:21",
+				"tel_id": "477",
+				"cont": "Tant miieux! Le moral ca va biien?Oui, j'rentre demain voiir mon *** :))",
+				"_id": "39752"
+			},
+			{
+				"date": "13 oct. 2011 21:52:14",
+				"tel_id": "504",
+				"cont": "Ouai je me souviens tu mavait dis. Mais c'est pas grave, y à pas que sa dans la vie =) héhéTa déjà fais du poney ?",
+				"_id": "39753"
+			},
+			{
+				"date": "13 oct. 2011 21:52:21",
+				"tel_id": "477",
+				"cont": {
+					"Location": "montpel",
+					"__text": "Avec le ce' a \n?Dans 2 semaines. Oui, si tu veux tu viendra nous voir quand on s'ra tous les deux."
+				},
+				"_id": "39754"
+			},
+			{
+				"date": "13 oct. 2011 21:52:44",
+				"tel_id": "374",
+				"cont": "Ok ca marche jtecris quand on part et on voit ok??",
+				"_id": "39755"
+			},
+			{
+				"date": "13 oct. 2011 21:52:56",
+				"tel_id": "477",
+				"cont": "Alors ce matiin?!",
+				"_id": "39756"
+			},
+			{
+				"date": "13 oct. 2011 21:53:07",
+				"tel_id": "477",
+				"cont": "J'me suis pas levee :))",
+				"_id": "39757"
+			},
+			{
+				"date": "13 oct. 2011 21:53:21",
+				"tel_id": "477",
+				"cont": "Ah bah la c'est sur :))",
+				"_id": "39758"
+			},
+			{
+				"date": "13 oct. 2011 21:51:58",
+				"tel_id": "485",
+				"cont": "Ok ok je vais y réfléchir",
+				"_id": "39759"
+			},
+			{
+				"date": "13 oct. 2011 21:52:17",
+				"tel_id": "485",
+				"cont": "Avec *** on dois manger donc on vous rejoindra devant la salle",
+				"_id": "39763"
+			},
+			{
+				"date": "13 oct. 2011 21:52:34",
+				"tel_id": "485",
+				"cont": "N'oublie pas de m'envoyer ta partie",
+				"_id": "39764"
+			},
+			{
+				"date": "13 oct. 2011 21:52:48",
+				"tel_id": "485",
+				"cont": "Je viens de recevoir ton message ^^Oui moins stresse encore moins maintenant =p",
+				"_id": "39765"
+			},
+			{
+				"date": "13 oct. 2011 21:56:07",
+				"tel_id": "374",
+				"cont": "Tu fra un bisou a *** pour moi samedi??!!! T y vas avc ki au match?",
+				"_id": "39766"
+			},
+			{
+				"date": "13 oct. 2011 21:56:52",
+				"tel_id": "504",
+				"cont": "Ouai pareil jaime pas trop fin sa fais longtemps que Jen ai pas fais aussi... déjà pour monter dessus la galère et pour y rester encore plus lol fin bref jme tais Chu ridicule rien que dy penser xD",
+				"_id": "39769"
+			},
+			{
+				"date": "13 oct. 2011 21:57:28",
+				"tel_id": "477",
+				"cont": "C'est pour ca. Après ce n'est que mon avis... Mais une semaine ca fait peut etre un peu tôt. Laisse toi du temps, prend le temps de vivre la situation et de l'accepter... Je sais pas si tu en as parler a quelqu'un d'autre et ce que les gens en pensent...",
+				"_id": "39770"
+			},
+			{
+				"date": "13 oct. 2011 21:58:48",
+				"tel_id": "504",
+				"cont": "Mdr jattend ta liste avec photos et tout :P où en vrai aussi, mais je ferai mon coincé dans ce cas ;) :P lolBonne nuit à demain moi aussi jtadore à très vite <3",
+				"_id": "39771"
+			},
+			{
+				"date": "13 oct. 2011 21:58:23",
+				"tel_id": "477",
+				"cont": "Ah c'est sur nous on perd des copains et un cheri mais a ce niveau la on ne peut pas leur en vouloir... Ils étaient la avant nous...Mais oui j'te comprends tout a fait... Tu t'retrouve un peu toute seule le vendredi soir, le samedi c'est surtout que ca doit faire bizarre...C'est pour ca revenir oui, il faut que tu reviennes mais prend le temps un peu avant quand même.",
+				"_id": "39772"
+			},
+			{
+				"date": "13 oct. 2011 21:59:05",
+				"tel_id": "477",
+				"cont": "Je ne sais pas. Personne a raison et personne a tord. Chacun a sa maniere de reagir et de fonctionner.Pour moi c'est la plus efficace mais pas la plus vraie peut etre.",
+				"_id": "39773"
+			},
+			{
+				"date": "13 oct. 2011 21:59:24",
+				"tel_id": "477",
+				"cont": "J'm'en serai doutee :)Bonne soiree aussi!Biisoux <3",
+				"_id": "39774"
+			},
+			{
+				"date": "13 oct. 2011 21:59:13",
+				"tel_id": "374",
+				"cont": "Arreteeeee???!!!!!!! C est pas possible la premiere fois que j ai mis les pieds dans un stade j avais 8 ans! Elle a loupé trop d emotion faut qu elle recupere owww! Non camara laisse tombé on est pas intime ;)",
+				"_id": "39776"
+			},
+			{
+				"date": "13 oct. 2011 21:59:14",
+				"tel_id": "477",
+				"cont": "Exact! Moi non plus !!J'lui ferai passer le message :p",
+				"_id": "39777"
+			},
+			{
+				"date": "13 oct. 2011 21:59:15",
+				"tel_id": "504",
+				"cont": "Mdr oh ben vas y :P jattend que sa, je ferai mon tri lol avec éliminé passe au second tour... lol :P",
+				"_id": "39778"
+			},
+			{
+				"date": "13 oct. 2011 21:53:00",
+				"tel_id": "485",
+				"cont": "Demande stp a ta collègue si sa fille a répondu",
+				"_id": "39779"
+			},
+			{
+				"date": "13 oct. 2011 21:53:12",
+				"tel_id": "485",
+				"cont": "De rien t'inquiète passe un bon week end bisous",
+				"_id": "39780"
+			},
+			{
+				"date": "13 oct. 2011 21:54:23",
+				"tel_id": "485",
+				"cont": "Au cas ou je me lève pas a 6h du matin c'est même sur ! Je te souhaite bonne chance pour ton c2i",
+				"_id": "39781"
+			},
+			{
+				"date": "13 oct. 2011 21:54:31",
+				"tel_id": "485",
+				"cont": "Fuck les plantes j'aime pas la nature ça me donne des allergies!",
+				"_id": "39782"
+			},
+			{
+				"date": "13 oct. 2011 22:04:12",
+				"tel_id": "504",
+				"cont": "Il est pas bien le pingouin xD",
+				"_id": "39783"
+			},
+			{
+				"date": "13 oct. 2011 21:55:18",
+				"tel_id": "485",
+				"cont": "Les plantes sont passionnantes ! LOLMoi je suis passionnante les plantes a part les fumer ça sert a quoi ?Faux ils sont déprimer voir fou et nous les aidons a reprendre gout a la vie !",
+				"_id": "39784"
+			},
+			{
+				"date": "13 oct. 2011 22:03:13",
+				"tel_id": "504",
+				"cont": "Mdr le pire c'est qu'à la base ils voulaient que je monte sur un cheval, j'ai du faire les gros yeux et ils ont fais on va peu être mettre le poney xD",
+				"_id": "39786"
+			},
+			{
+				"date": "13 oct. 2011 22:04:35",
+				"tel_id": "504",
+				"cont": "Mdr jattend que quelqu'un vienne moccuper la langue ;) ta qu'à me trouver quelqu'un si tu veux que jme taise plus vite lol :P",
+				"_id": "39787"
+			},
+			{
+				"date": "13 oct. 2011 22:05:03",
+				"tel_id": "504",
+				"cont": "Mdr celle là elle est bien attaché... dur de s'en defaire lol",
+				"_id": "39788"
+			},
+			{
+				"date": "13 oct. 2011 22:05:37",
+				"tel_id": "504",
+				"cont": "Mdr moi jai déjà perdu la mâchoire xD",
+				"_id": "39789"
+			},
+			{
+				"date": "13 oct. 2011 22:06:00",
+				"tel_id": "504",
+				"cont": "Le 22 je suis libre jour et nuit et le 29 juste la nuit",
+				"_id": "39790"
+			},
+			{
+				"date": "13 oct. 2011 22:10:08",
+				"tel_id": "229",
+				"cont": "T seras chez toi quel semaine des vacances",
+				"_id": "39791"
+			},
+			{
+				"date": "13 oct. 2011 21:55:43",
+				"tel_id": "485",
+				"cont": "Paysans va !",
+				"_id": "39792"
+			},
+			{
+				"date": "13 oct. 2011 21:55:58",
+				"tel_id": "485",
+				"cont": "Fuck le ***A mort les ***",
+				"_id": "39793"
+			},
+			{
+				"date": "13 oct. 2011 22:12:56",
+				"tel_id": "206",
+				"cont": "Ahh ok a demain",
+				"_id": "39794"
+			},
+			{
+				"date": "13 oct. 2011 22:13:37",
+				"tel_id": "504",
+				"cont": "On est deux tkt ;) ah pis du ping pong sa fais longtemps ! :P",
+				"_id": "39796"
+			},
+			{
+				"date": "13 oct. 2011 22:15:54",
+				"tel_id": "191",
+				"cont": "Tu veux te remettre avec *** ! :/",
+				"_id": "39797"
+			},
+			{
+				"date": "13 oct. 2011 21:56:21",
+				"tel_id": "485",
+				"cont": "Et la bio c'est pas pourri nous on aide les gens et la scienceVous faite quoi vous a part disséquer des pauvres bêtes et étudier les plantes ?Jardinier tiens vous aller devenir",
+				"_id": "39798"
+			},
+			{
+				"date": "13 oct. 2011 21:58:12",
+				"tel_id": "485",
+				"cont": "Écologiste de mes deux !",
+				"_id": "39799"
+			},
+			{
+				"date": "13 oct. 2011 21:58:23",
+				"tel_id": "485",
+				"cont": "Tueur de pauvre bête !",
+				"_id": "39800"
+			},
+			{
+				"date": "13 oct. 2011 22:00:23",
+				"tel_id": "296",
+				"cont": "Dimanche Je serai surement toute seule depuis le matin chez moi pfff Je t'aime",
+				"_id": "39801"
+			},
+			{
+				"date": "13 oct. 2011 22:00:27",
+				"tel_id": "485",
+				"cont": "Oui oui !",
+				"_id": "39802"
+			},
+			{
+				"date": "13 oct. 2011 22:00:37",
+				"tel_id": "485",
+				"cont": "T'es un hippie voila pourquoi t'aimer tant tes cheveux long",
+				"_id": "39803"
+			},
+			{
+				"date": "13 oct. 2011 22:02:05",
+				"tel_id": "485",
+				"cont": "Pff sans nous pleine gens se serait suicider et on découvrirai jamais de nouvelle maladie mentale sans nos lumière",
+				"_id": "39804"
+			},
+			{
+				"date": "13 oct. 2011 22:04:50",
+				"tel_id": "485",
+				"cont": "Faux archi faux ! C'est nous et nous seul ! Vous avec vos plantes a la con vous faite des tisanes c'est tout !",
+				"_id": "39806"
+			},
+			{
+				"date": "13 oct. 2011 22:06:00",
+				"tel_id": "485",
+				"cont": "Ah tu vois tueur de bête t'es un type affreux !",
+				"_id": "39807"
+			},
+			{
+				"date": "13 oct. 2011 22:07:19",
+				"tel_id": "296",
+				"cont": "ça sert à rien Je saurai le samedi au retour de chez toi . Bref Je t'aime",
+				"_id": "39809"
+			},
+			{
+				"date": "13 oct. 2011 22:20:25",
+				"tel_id": "226",
+				"cont": "Tu y va a ta skins alors",
+				"_id": "39810"
+			},
+			{
+				"date": "13 oct. 2011 22:07:33",
+				"tel_id": "296",
+				"cont": "Je sais pas encore. D'accord. C'est l harmonie chez vous Mtn . Bref. Je t'aime",
+				"_id": "39811"
+			},
+			{
+				"date": "13 oct. 2011 22:10:35",
+				"tel_id": "296",
+				"cont": "Oui Je dis rien Je pense pas moins. D'accord Psk Je saurai demain surement mais rien de sur. D'accord Je t'aime",
+				"_id": "39812"
+			},
+			{
+				"date": "13 oct. 2011 22:22:10",
+				"tel_id": "480",
+				"cont": "ça sert vraiment plus à rien qu'on S'appel le soir puisqu'à chaque fois sa finis toujours mal, à chaque fois, Ya pas un soir ou sa se passe bien, donc on S'appel plus sa ira surement mieux comme sa.",
+				"_id": "39813"
+			},
+			{
+				"date": "13 oct. 2011 22:14:28",
+				"tel_id": "485",
+				"cont": "Ou des tisanes saveur eucalyptus plutôt",
+				"_id": "39814"
+			},
+			{
+				"date": "13 oct. 2011 22:14:32",
+				"tel_id": "296",
+				"cont": "Quand t arrive et tout t m apl pour Bonne nuit? Je t'aime",
+				"_id": "39815"
+			},
+			{
+				"date": "13 oct. 2011 22:23:33",
+				"tel_id": "136",
+				"cont": "C'est sympa chez lui ? demain on se voit nous :)",
+				"_id": "39816"
+			},
+			{
+				"date": "13 oct. 2011 22:26:36",
+				"tel_id": "504",
+				"cont": "Pendant ces vacances le 22 je serai dispo (mais tu boss le matin donc jpense pas que tu soit rentré laprem) le 23 laprem. Dans la semaines y aura un jour mais je sais pas encore lequel. Et Le 30 laprem :)",
+				"_id": "39818"
+			},
+			{
+				"date": "13 oct. 2011 22:27:44",
+				"tel_id": "136",
+				"cont": "Pffffff je suis toujours la bas ! C'est a perpette ! J'espere que j'aurais un tram ! A demain ma ptite poulette <3 dors bien , gros bisous",
+				"_id": "39819"
+			},
+			{
+				"date": "13 oct. 2011 22:15:15",
+				"tel_id": "262",
+				"cont": "Ouiii ... Mdrrr !Me suis défoulée sur l'inventaire des perles et des apprêts !!!Et toi ?!? Le self défense ?!? Défoulée aussi ?!? MdrrrJe suis désolée mais je gère pas ma pression ! Et franchement en ce moment certaine font tout pour me faire exploser !!! Lol",
+				"_id": "39820"
+			},
+			{
+				"date": "13 oct. 2011 22:27:47",
+				"tel_id": "262",
+				"cont": "Oh zut ... T'as bcp mal ?!? C'est chaud ton truc ... MdrrrIl est comment le prof au fait ?!? LolOuais je sais que je suis vraiment atroce mais    elles me bouffent avec leurs conneries !elles s'en foutent du magasin et du travail qu'on fournit : vitrine , inventaire stock , chiffre , ...",
+				"_id": "39821"
+			},
+			{
+				"date": "13 oct. 2011 22:28:46",
+				"tel_id": "136",
+				"cont": {
+					"Location": "montpellier",
+					"__text": "Je sais pas , je pars de \n a 12h30, je passe un peu de temps avec ma mère et je viens , genre fin d'aprem, debut de soirée ?"
+				},
+				"_id": "39822"
+			},
+			{
+				"date": "13 oct. 2011 22:31:01",
+				"tel_id": "191",
+				"cont": "Franchement ?",
+				"_id": "39823"
+			},
+			{
+				"date": "13 oct. 2011 22:14:38",
+				"tel_id": "485",
+				"cont": "Puis moi aussi je peux créer la vie et TOC!",
+				"_id": "39824"
+			},
+			{
+				"date": "13 oct. 2011 22:14:49",
+				"tel_id": "485",
+				"cont": "Satan !",
+				"_id": "39825"
+			},
+			{
+				"date": "13 oct. 2011 22:15:02",
+				"tel_id": "485",
+				"cont": "C'est faux ! Et puis dans la catégories des mauvais les tueurs c'est largement au dessus des menteurs !Tu finira en enfer !",
+				"_id": "39826"
+			},
+			{
+				"date": "13 oct. 2011 22:18:23",
+				"tel_id": "296",
+				"cont": "Moi Je lutte pour que tu m apl Je t'aime",
+				"_id": "39827"
+			},
+			{
+				"date": "13 oct. 2011 22:31:41",
+				"tel_id": "504",
+				"cont": "Mais en fonction de mes horaires la semaines jaurai peu être encore une après midi en plus dune journée :) je te redis, demain jaurai peu être mes horaires.",
+				"_id": "39828"
+			},
+			{
+				"date": "13 oct. 2011 22:33:18",
+				"tel_id": "194",
+				"cont": "Il me manque 22 pages",
+				"_id": "39829"
+			},
+			{
+				"date": "13 oct. 2011 22:18:34",
+				"tel_id": "485",
+				"cont": "Espèce de schizophrène maniaque fanatique introvertie névrose des pétunia !",
+				"_id": "39831"
+			},
+			{
+				"date": "13 oct. 2011 22:35:15",
+				"tel_id": "347",
+				"cont": "Jtai apelé ya 2h tu ten branle tu fais ta life",
+				"_id": "39832"
+			},
+			{
+				"date": "13 oct. 2011 22:34:09",
+				"tel_id": "491",
+				"cont": "Ah mince. Bon j'espere que ça ira pour lui ! Tu me tiens au jus :)",
+				"_id": "39833"
+			},
+			{
+				"date": "13 oct. 2011 22:35:01",
+				"tel_id": "347",
+				"cont": "Apelles moi ton hero",
+				"_id": "39834"
+			},
+			{
+				"date": "13 oct. 2011 22:35:08",
+				"tel_id": "160",
+				"cont": "EnvoyéSuis chez l hosteopate je t appelle après",
+				"_id": "39835"
+			},
+			{
+				"date": "13 oct. 2011 22:35:24",
+				"tel_id": "160",
+				"cont": "EnvoyéTu est encore au bar ? Je viens de passer devant j ai vue de la lumière et crois t voir vue dedans",
+				"_id": "39836"
+			},
+			{
+				"date": "13 oct. 2011 22:35:48",
+				"tel_id": "347",
+				"cont": {
+					"Location": "odysseum",
+					"__text": "Sa ma soule j encore rien cuisiner gare toi a"
+				},
+				"_id": "39837"
+			},
+			{
+				"date": "13 oct. 2011 22:36:19",
+				"tel_id": "160",
+				"cont": "ReçuQu'es qu'il vous arrive tonton?EnvoyéLe lart avais plus d unité pour t appellerdes bisous",
+				"_id": "39839"
+			},
+			{
+				"date": "13 oct. 2011 22:37:39",
+				"tel_id": "160",
+				"cont": "ReçuJssuis dégouté g oublier le risotto au café! Bon ben pate streak :-(EnvoyéMdr moi aussi l ai oublier",
+				"_id": "39840"
+			},
+			{
+				"date": "13 oct. 2011 22:18:48",
+				"tel_id": "485",
+				"cont": "Oui il me faut quelqu'un mais ça sera pas toi le bobo!",
+				"_id": "39841"
+			},
+			{
+				"date": "13 oct. 2011 22:18:58",
+				"tel_id": "485",
+				"cont": "Oui uneBlouse d'infirmière sexy !",
+				"_id": "39842"
+			},
+			{
+				"date": "13 oct. 2011 22:40:41",
+				"tel_id": "160",
+				"cont": "ReçuT es trop beau avec ta barbe de 5 jours !Pour le TEE short vert... Il faut voir de près !EnvoyéComprend rienT pas loungeT a cote",
+				"_id": "39843"
+			},
+			{
+				"date": "13 oct. 2011 22:20:00",
+				"tel_id": "414",
+				"cont": "Je ne serai pas rentrée avant 18h45-19h",
+				"_id": "39844"
+			},
+			{
+				"date": "13 oct. 2011 22:44:30",
+				"tel_id": "191",
+				"cont": "Pour moi vous avez rompu et faut voir si ca peut recoller DURABLEMENT parce que si c'est pour que ca dure 1 mois comme avant ca sert a rien, au contraire ca te rendra encore plus malheureuse :(",
+				"_id": "39845"
+			},
+			{
+				"date": "13 oct. 2011 22:44:55",
+				"tel_id": "262",
+				"cont": "Tu fais bcp pour moi ... Même si tu t'en rend pas compte !Rien que de me supporter sans juger c'est bcp ...Bon en même temps dans la rue c'est parfois des gros molosses ! Au moins tu seras entraîner ... MdrrrMais ma pauvre chérie , il faut quand même que tu lui dise que tu as besoin de tes mains ... Mdrrr",
+				"_id": "39846"
+			},
+			{
+				"date": "13 oct. 2011 22:46:15",
+				"tel_id": "19",
+				"cont": "Ah oui, je pensais que cétait un micro trottoir sur le trottoir quoi xD",
+				"_id": "39847"
+			},
+			{
+				"date": "13 oct. 2011 22:47:48",
+				"tel_id": "191",
+				"cont": "Elles te disent quoi tes amies ?",
+				"_id": "39848"
+			},
+			{
+				"date": "13 oct. 2011 22:49:14",
+				"tel_id": "347",
+				"cont": "Ca va cramer",
+				"_id": "39849"
+			},
+			{
+				"date": "13 oct. 2011 22:20:19",
+				"tel_id": "296",
+				"cont": "J aime pas t laissé mais Je peux plus. Heureusement Je t'aime",
+				"_id": "39850"
+			},
+			{
+				"date": "13 oct. 2011 22:52:11",
+				"tel_id": "191",
+				"cont": "Je sais pas quoi te dire moi tu le sais ce que je pense de *** donc bon je peux rien te dire de plus",
+				"_id": "39852"
+			},
+			{
+				"date": "13 oct. 2011 22:20:51",
+				"tel_id": "485",
+				"cont": "T'a fait ton auto formation ?",
+				"_id": "39853"
+			},
+			{
+				"date": "13 oct. 2011 22:54:25",
+				"tel_id": "191",
+				"cont": "Lol jdr comment tu dis ca ;)",
+				"_id": "39854"
+			},
+			{
+				"date": "13 oct. 2011 22:57:54",
+				"tel_id": "262",
+				"cont": "Oui c'est exactement çà !Je fais çà pour pour moi mais aussi pour le reste de l'équipe ! C'est pour les faire avancer et leurs faire gagner de l'argent ...Mais bon ...Le 4 décembre !?! Faut que je regarde . Week-end pair ou impair ?!?Çà doit etre sympa ...Mais j'ai pas envie d'avoir mal moi ... LolSuis une chochotte !!! MdrrrDemain tu ouvres avec moi ?!?",
+				"_id": "39855"
+			},
+			{
+				"date": "13 oct. 2011 23:04:00",
+				"tel_id": "262",
+				"cont": "Donc semaine paire , je suis dispo ...Ouille , ouille , ouille , j'aime pas avoir mal !!!MdrrrJe vais voir çà ...Te fais des bisous ma chérie . Vais faire dodo ... Ces inventaires m'ont épuisé ... MdrrrT'm mon coeur !!!",
+				"_id": "39856"
+			},
+			{
+				"date": "13 oct. 2011 23:04:47",
+				"tel_id": "191",
+				"cont": "Bon je te laisse je vais dodo bsx:)",
+				"_id": "39857"
+			},
+			{
+				"date": "13 oct. 2011 23:09:16",
+				"tel_id": "124",
+				"cont": "Bonne nuit à toi aussi !! J't'embrasse fort :)",
+				"_id": "39858"
+			},
+			{
+				"date": "13 oct. 2011 23:13:21",
+				"tel_id": "147",
+				"cont": "haaaa ! mince suis pas là lol",
+				"_id": "39859"
+			},
+			{
+				"date": "13 oct. 2011 23:23:38",
+				"tel_id": "136",
+				"cont": "Toi aussi *** ! On se voit quand ? <3",
+				"_id": "39860"
+			},
+			{
+				"date": "13 oct. 2011 22:23:15",
+				"tel_id": "296",
+				"cont": "Petite inspiration dans ma douche en anglais en chantant , pour toi, sur un air romantique . La traduction est plus basSmelling your flavor plunging your glancelooking your laughtlistening your voicetuching your bodyadmiring your lovethinking of you,and dreaming of you...Sentir ton parfum,me plongè ton regardregarder ton sourireentendre ta voix toucher ton corps admirer ton amourpenser a toiet rever de toi...Au moment où Je continue ce msg Je veux dormir! Mais j'ai pas entendu ta voix donc non. Voilà Je vais te dire Je t'aime plus que tout au monde et cette fois j'ai pas honte de te l écrire Psk oui c'est vrai Je t'aime vraiment. Mais très différemment de toi :( et ça voilà tu en aura marre.à demain mon coeur et encore joyeux anniversaire. Voilà. Bonne nuit fais de beaux reves. A demain. Samedi on s voit, et on fera ske tu voudra Psk ton aniv xD. A demain Je t'aime fort fort <3 dans 2jour c'est quoi?! Je t'aime",
+				"_id": "39861"
+			},
+			{
+				"date": "13 oct. 2011 22:31:11",
+				"tel_id": "485",
+				"cont": "Non je montre rien a un créateur de tisane",
+				"_id": "39862"
+			},
+			{
+				"date": "13 oct. 2011 22:31:23",
+				"tel_id": "485",
+				"cont": "M'en fou je sais résister",
+				"_id": "39863"
+			},
+			{
+				"date": "13 oct. 2011 23:28:38",
+				"tel_id": "226",
+				"cont": "Toujours pas arrivé ?",
+				"_id": "39864"
+			},
+			{
+				"date": "13 oct. 2011 23:28:49",
+				"tel_id": "171",
+				"cont": "Bien arrivée?",
+				"_id": "39865"
+			},
+			{
+				"date": "13 oct. 2011 23:27:42",
+				"tel_id": "171",
+				"cont": "Check ton faceniouk bébé",
+				"_id": "39867"
+			},
+			{
+				"date": "13 oct. 2011 23:34:39",
+				"tel_id": "347",
+				"cont": "Je trouve rien de new de la mise a jour",
+				"_id": "39868"
+			},
+			{
+				"date": "13 oct. 2011 22:31:35",
+				"tel_id": "485",
+				"cont": "Zoophile!psycophate !",
+				"_id": "39869"
+			},
+			{
+				"date": "13 oct. 2011 23:40:26",
+				"tel_id": "491",
+				"cont": "J'ai fait une allergie aux yeux, ils ont tellement gonflé que je pouvais plus les ouvrir alors j'espere que demain ils seront degonfles sinon faudra pas te moquer de moi parce que c'est pas rigolo... En plus, j'ai passé toute l'emission de masterchef avec des glaçons sur les yeux... ^^",
+				"_id": "39870"
+			},
+			{
+				"date": "13 oct. 2011 22:31:48",
+				"tel_id": "485",
+				"cont": "Tiens si tu veux destresser un peu je te montre une bagarre entre unBiologiste de merde et une merveilleuse psychologue",
+				"_id": "39871"
+			},
+			{
+				"date": "13 oct. 2011 22:33:59",
+				"tel_id": "485",
+				"cont": "Tant pis pour TOI !",
+				"_id": "39872"
+			},
+			{
+				"date": "13 oct. 2011 22:40:16",
+				"tel_id": "305",
+				"cont": "Tu t fait un repas fromage lol! Oui viens en tram demain comme sa à la fin des cours tu viens à la maison. Jai pas fini trop tard trop cool! Biz",
+				"_id": "39873"
+			},
+			{
+				"date": "13 oct. 2011 22:44:33",
+				"tel_id": "485",
+				"cont": "Non attend",
+				"_id": "39874"
+			},
+			{
+				"date": "13 oct. 2011 22:44:49",
+				"tel_id": "485",
+				"cont": "Une folle nuit d'amour avec moi c'est pas des pétunias qui vont remplacer ça",
+				"_id": "39875"
+			},
+			{
+				"date": "13 oct. 2011 22:45:02",
+				"tel_id": "485",
+				"cont": "Je vais les fumer moi ou m'en faire une tisane",
+				"_id": "39876"
+			},
+			{
+				"date": "13 oct. 2011 22:48:51",
+				"tel_id": "485",
+				"cont": "Si dans mesProduits de beauté",
+				"_id": "39877"
+			},
+			{
+				"date": "13 oct. 2011 23:46:11",
+				"tel_id": "136",
+				"cont": "Je rentre là ! Je languis d'etre dans mon lit. C'est long. Je t'embrasse. Fort pour compenser ton mal de tete. Bisous amour. Dors bien",
+				"_id": "39878"
+			},
+			{
+				"date": "13 oct. 2011 23:49:30",
+				"tel_id": "491",
+				"cont": "mais euh ! Toi pas devoir te moquer de moi :pJ'en sais rien du tout à quoi j'ai été allergique... Mais la l'etat de mes yeux et vraiment crainios... Ma mere m'a meme pris en photo --'Je vais dormir parce que yeux sont trop lourds pour rester ouvert ^^ Bonne nuit !",
+				"_id": "39879"
+			},
+			{
+				"date": "13 oct. 2011 23:52:25",
+				"tel_id": "136",
+				"cont": "Et puis <3",
+				"_id": "39880"
+			},
+			{
+				"date": "14 oct. 2011 00:12:38",
+				"tel_id": "136",
+				"cont": "Petit texto car je suis pas rassurée en rentrant a pied la ..",
+				"_id": "39881"
+			},
+			{
+				"date": "14 oct. 2011 00:30:57",
+				"tel_id": "136",
+				"cont": "Je suis arrivée, juste pour te prévenir vu mon autre message. J'ai trop envie d'etre avec toi la tout de suite mais vraiment !",
+				"_id": "39882"
+			},
+			{
+				"date": "13 oct. 2011 22:49:09",
+				"tel_id": "305",
+				"cont": "Tu peux m appeler demain après midi jai pas cours. Ce soir je faisais des pizzas! Bisous",
+				"_id": "39883"
+			},
+			{
+				"date": "13 oct. 2011 22:50:20",
+				"tel_id": "485",
+				"cont": "Siii d'abord c'est marque a l'extrait de camomille",
+				"_id": "39884"
+			},
+			{
+				"date": "13 oct. 2011 23:06:03",
+				"tel_id": "305",
+				"cont": "Si ta pas encore posté la lettre pour mon forfait le fait pas, jme suis arrangé avec ***. sinon c pas grave.",
+				"_id": "39885"
+			},
+			{
+				"date": "14 oct. 2011 00:48:10",
+				"tel_id": "124",
+				"cont": "J'prends pas de train demain! :/j'arrive pour le déjeuner vers 12h30 j'irai faire des courses avant pour te faire un bon petit plat ;-)prend soin de toi d'ici là, qu'est ce que tu fais encore debout! p'tite tisane et dodo pour ma tite malade :-)",
+				"_id": "39886"
+			},
+			{
+				"date": "14 oct. 2011 00:52:21",
+				"tel_id": "124",
+				"cont": ":-)) dors bien..",
+				"_id": "39887"
+			},
+			{
+				"date": "14 oct. 2011 00:55:16",
+				"tel_id": "89",
+				"cont": "Quand je Prend une douche avec le gel douche tahiti J'ai l'impression d'avoir pris une douche avec toi!  ça me plais.",
+				"_id": "39888"
+			},
+			{
+				"date": "14 oct. 2011 01:08:18",
+				"tel_id": "156",
+				"cont": "Ro Putain pas de chance !",
+				"_id": "39889"
+			},
+			{
+				"date": "14 oct. 2011 00:59:55",
+				"tel_id": "226",
+				"cont": "Tu vas pas a l'obar pour la soirée médecine ?",
+				"_id": "39890"
+			},
+			{
+				"date": "14 oct. 2011 01:08:40",
+				"tel_id": "156",
+				"cont": "Je t'attend meme moi là ! Lol",
+				"_id": "39892"
+			},
+			{
+				"date": "14 oct. 2011 01:08:51",
+				"tel_id": "156",
+				"cont": "Aaaah nul lol Y'a du monde encore ?",
+				"_id": "39893"
+			},
+			{
+				"date": "14 oct. 2011 01:09:13",
+				"tel_id": "156",
+				"cont": "Tu finis à minuit meme là ?",
+				"_id": "39894"
+			},
+			{
+				"date": "14 oct. 2011 01:09:14",
+				"tel_id": "156",
+				"cont": "Bisous chéri !",
+				"_id": "39895"
+			},
+			{
+				"date": "14 oct. 2011 01:09:24",
+				"tel_id": "156",
+				"cont": "Chéri non c'est pas dingue ! ! tu le mérite vraiment !",
+				"_id": "39896"
+			},
+			{
+				"date": "14 oct. 2011 01:09:46",
+				"tel_id": "156",
+				"cont": "Oui tu me T'as dit ! Mais tu m'avais dit que c'était pour *** ! Ooooh ! Chéri trop bien !",
+				"_id": "39897"
+			},
+			{
+				"date": "14 oct. 2011 01:09:49",
+				"tel_id": "156",
+				"cont": "Genre après tout ce que tu viens de me dire ! ! Lool c'est en rapport à ce que j'ai dit ou pas ? ?",
+				"_id": "39898"
+			},
+			{
+				"date": "14 oct. 2011 01:09:57",
+				"tel_id": "156",
+				"cont": "Oooooor horrible Lool",
+				"_id": "39899"
+			},
+			{
+				"date": "14 oct. 2011 01:10:17",
+				"tel_id": "156",
+				"cont": "Mais j'ai envie de savoir maintenant Lool",
+				"_id": "39900"
+			},
+			{
+				"date": "14 oct. 2011 01:10:42",
+				"tel_id": "156",
+				"cont": "Aaaah j'ai trop envie de savoir maintenant Lool ! !",
+				"_id": "39901"
+			},
+			{
+				"date": "14 oct. 2011 01:11:07",
+				"tel_id": "156",
+				"cont": "Je vais pas avec *** non plus ! Lool ! Je reste bosser à la maison ! *** bosse ce matin on va manger ensemble pour une fois Lool !",
+				"_id": "39902"
+			},
+			{
+				"date": "14 oct. 2011 01:11:16",
+				"tel_id": "156",
+				"cont": "Oki doki ! J'attend dans la queue du velomagg depuis 20min et c'est pas pret de finir !",
+				"_id": "39903"
+			},
+			{
+				"date": "14 oct. 2011 01:11:28",
+				"tel_id": "156",
+				"cont": "Je vais dormir moi chéri ! ! A toute !",
+				"_id": "39904"
+			},
+			{
+				"date": "14 oct. 2011 01:12:18",
+				"tel_id": "156",
+				"cont": "Pourquoi tu me dis pas de souci ? ?",
+				"_id": "39905"
+			},
+			{
+				"date": "14 oct. 2011 01:10:28",
+				"tel_id": "156",
+				"cont": "Euh soit une proposition à l'étranger soit une augmentation de poste peut etre ?",
+				"_id": "39906"
+			},
+			{
+				"date": "14 oct. 2011 01:10:31",
+				"tel_id": "156",
+				"cont": "T'as vu y'a les inscriptions pédagogiques en ligne déjà ! !",
+				"_id": "39907"
+			},
+			{
+				"date": "14 oct. 2011 01:11:40",
+				"tel_id": "156",
+				"cont": "Oki doki je vais voir ! Merci",
+				"_id": "39908"
+			},
+			{
+				"date": "14 oct. 2011 01:11:49",
+				"tel_id": "156",
+				"cont": "J'avais déjà oublier lol ! Mais en fait j'ai plus de bordereau faudra que j'y aille moi meme ! !",
+				"_id": "39909"
+			},
+			{
+				"date": "14 oct. 2011 01:12:58",
+				"tel_id": "156",
+				"cont": "Oui chéri ! Tu veux que je vienne ? ?",
+				"_id": "39910"
+			},
+			{
+				"date": "14 oct. 2011 01:13:26",
+				"tel_id": "156",
+				"cont": "Je verrai à la pause ! ! Mais je veux voir au moins la 1ère heure ! Lool",
+				"_id": "39911"
+			},
+			{
+				"date": "14 oct. 2011 01:13:36",
+				"tel_id": "156",
+				"cont": "Y'aura que moi en cours ! *** nous rejoind après *** vient pas c'est *** demain ! !",
+				"_id": "39912"
+			},
+			{
+				"date": "13 oct. 2011 23:10:40",
+				"tel_id": "189",
+				"cont": "Bonsoir,Je sais que je m'y prend tard, mais est-ce que tu serais dispo demain midi pour un squash ?***",
+				"_id": "39913"
+			},
+			{
+				"date": "14 oct. 2011 06:41:58",
+				"tel_id": "480",
+				"cont": "Ta lu mon message d.hier ?",
+				"_id": "39914"
+			},
+			{
+				"date": "14 oct. 2011 07:04:41",
+				"tel_id": "19",
+				"cont": "PETITE ?! Mais nan pas du tout !",
+				"_id": "39915"
+			},
+			{
+				"date": "14 oct. 2011 06:49:53",
+				"tel_id": "480",
+				"cont": "Bah non. On S'appel plus c'est tout.",
+				"_id": "39916"
+			},
+			{
+				"date": "14 oct. 2011 07:25:36",
+				"tel_id": "19",
+				"cont": "Ben c'est pas très téléphonique comme preuve alors j'attendrais de te voir en vrai x)",
+				"_id": "39917"
+			},
+			{
+				"date": "14 oct. 2011 07:44:00",
+				"tel_id": "75",
+				"cont": "Ta retrouver ta trousse ?",
+				"_id": "39918"
+			},
+			{
+				"date": "14 oct. 2011 07:44:50",
+				"tel_id": "75",
+				"cont": "En tous cas elle etait pas chez moi !",
+				"_id": "39919"
+			},
+			{
+				"date": "14 oct. 2011 07:44:56",
+				"tel_id": "75",
+				"cont": "Nan :s",
+				"_id": "39920"
+			},
+			{
+				"date": "14 oct. 2011 07:51:30",
+				"tel_id": "19",
+				"cont": "Nan mais tkt pas, jattendais pas de réponse de toute facon xD cétait juste pour annoncer quoi =p",
+				"_id": "39921"
+			},
+			{
+				"date": "14 oct. 2011 07:52:59",
+				"tel_id": "19",
+				"cont": "Nan franchement pas du tout quoi ! Il y a eu largement pire xD En meme temps vu comment toi tu t'habilles",
+				"_id": "39922"
+			},
+			{
+				"date": "14 oct. 2011 07:57:56",
+				"tel_id": "170",
+				"cont": "Pas contre toi le gros vent, je déteste juste les gens qui s'arretent dans le couloir pour faire la bise, donc je tenais pas à en devenir un o/Et sinon, t'as fini mon bouquin de Gainsbourg?",
+				"_id": "39923"
+			},
+			{
+				"date": "14 oct. 2011 08:02:39",
+				"tel_id": "19",
+				"cont": "Putain mais c'est ma bite quand meme j'en fait ce que je veux x)",
+				"_id": "39924"
+			},
+			{
+				"date": "14 oct. 2011 08:02:48",
+				"tel_id": "452",
+				"cont": "A la maison mon amour ?",
+				"_id": "39925"
+			},
+			{
+				"date": "14 oct. 2011 08:07:30",
+				"tel_id": "308",
+				"cont": "***. Peux tu m'envoyer par texto ton mail perso stp ? ***",
+				"_id": "39926"
+			},
+			{
+				"date": "14 oct. 2011 08:13:48",
+				"tel_id": "305",
+				"cont": {
+					"Location": [
+						"mtp",
+						"st max"
+					],
+					"__text": "Ah mince. Moi qui croyais kel allait mieux.. Elle aurait pu venir à \n au lieu de vouloir aller à \n avec lui.. Bref, tu m tiens au jus.. Bisous bons cours"
+				},
+				"_id": "39928"
+			},
+			{
+				"date": "14 oct. 2011 08:14:55",
+				"tel_id": "305",
+				"cont": "Je comprends pas Pkoi elle veut retourner la bas",
+				"_id": "39929"
+			},
+			{
+				"date": "14 oct. 2011 08:39:49",
+				"tel_id": "262",
+				"cont": "Oui , oui c'est moi ! À 17 heures ...Je prend *** et *** ?!?",
+				"_id": "39930"
+			},
+			{
+				"date": "14 oct. 2011 08:40:17",
+				"tel_id": "262",
+				"cont": "Au fait , changement de programme pour mardi !C'est *** qui va gérer *** pendant les 2 jours ...Je te remercie de ton aide , c'est vraiment gentil :-)Des bisous .",
+				"_id": "39931"
+			},
+			{
+				"date": "14 oct. 2011 08:47:50",
+				"tel_id": "348",
+				"cont": "Je suis jamais autant arrivé en avance au lycee, mais le pire c'est que c'est pour une collle",
+				"_id": "39932"
+			},
+			{
+				"date": "14 oct. 2011 08:55:10",
+				"tel_id": "308",
+				"cont": "Rappel : inscrire *** et *** à la cantine, mère indigne..sorcière!",
+				"_id": "39933"
+			},
+			{
+				"date": "14 oct. 2011 09:12:53",
+				"tel_id": "296",
+				"cont": "Je me lève. Ojd j'ai mes lunette Jme lève Psk mal au dos t à bien dormi? Je t'aime",
+				"_id": "39934"
+			},
+			{
+				"date": "14 oct. 2011 09:18:39",
+				"tel_id": "120",
+				"cont": "Tu lui a mi cmt? *** a pa ètè a l ècole j y dirai de recup ***. Et twa di le a la maitress a midi ke c *** sa tati ki la recup ce soir. Sinn ele va fair un sketch",
+				"_id": "39935"
+			},
+			{
+				"date": "14 oct. 2011 09:27:45",
+				"tel_id": "296",
+				"cont": "Merde désolé Je l ai dit dans ma Tete ! Pq? Psk t as pas assez dormi? Je t'aime",
+				"_id": "39936"
+			},
+			{
+				"date": "14 oct. 2011 09:34:15",
+				"tel_id": "228",
+				"cont": "T ou ? Moi jsui garée ds l impasse",
+				"_id": "39937"
+			},
+			{
+				"date": "14 oct. 2011 09:35:02",
+				"tel_id": "374",
+				"cont": "Allo?!!! Les gen on trop pas de face!!!",
+				"_id": "39938"
+			},
+			{
+				"date": "14 oct. 2011 09:38:11",
+				"tel_id": "374",
+				"cont": "Nan mais t es fada a etre dsl ou koi?! C est lui ki doit etre dsl! Nan mais ca c est le genre de cou \"ouais ca vs derange si jpasse mnt?\" \"ba oui ca mderamge connard\"",
+				"_id": "39939"
+			},
+			{
+				"date": "14 oct. 2011 09:40:07",
+				"tel_id": "124",
+				"cont": "T'as raison je vois qu'tu me l'as envoyer mais il ne se charge pas il me problème de réseau c'est bizarre ça!tu sais quoi, ptetre du fait qu'on en parle sans réfléchir j'ai vouvoyé ma tante, j'étais morte de rire quand elle m'a demandé de la tutoyer !!",
+				"_id": "39940"
+			},
+			{
+				"date": "14 oct. 2011 09:40:12",
+				"tel_id": "374",
+				"cont": "*** est sorti?",
+				"_id": "39941"
+			},
+			{
+				"date": "14 oct. 2011 09:42:03",
+				"tel_id": "374",
+				"cont": "Oui! Si il vienne pas jmen fou!!! Il viendront un jour tkt pas!",
+				"_id": "39942"
+			},
+			{
+				"date": "14 oct. 2011 09:42:30",
+				"tel_id": "374",
+				"cont": "Hahshaha c est ton pote ou pas?!!!",
+				"_id": "39943"
+			},
+			{
+				"date": "14 oct. 2011 09:44:14",
+				"tel_id": "374",
+				"cont": "Hahahahahhahaahhahahahahahah pardon?! Hahahahaha",
+				"_id": "39944"
+			},
+			{
+				"date": "14 oct. 2011 09:44:42",
+				"tel_id": "255",
+				"cont": "Salut *** c'est ***. Finalement je passerai vers 11h. J'ai une course a faire avant donc comme ca je ferai d'une pierre deux coups ;) Bisous a toute ;)",
+				"_id": "39945"
+			},
+			{
+				"date": "14 oct. 2011 09:46:25",
+				"tel_id": "255",
+				"cont": "Finalement on a fait que la dédicace, mais c'était trop trop bien quand même ^^",
+				"_id": "39946"
+			},
+			{
+				"date": "14 oct. 2011 09:50:10",
+				"tel_id": "28",
+				"cont": "J'attends à ce fucking bureau pour ma gomette. Saoulée!!",
+				"_id": "39947"
+			},
+			{
+				"date": "14 oct. 2011 09:50:22",
+				"tel_id": "255",
+				"cont": "JOYEUX ANNIVERSAIREUUUUHHH !!!! Passe une bonne journée en attendant de bien fêter ca ce soir ;) Bisoussss !!!!",
+				"_id": "39948"
+			},
+			{
+				"date": "14 oct. 2011 09:56:42",
+				"tel_id": "120",
+				"cont": "Mai t es sèrieux !?",
+				"_id": "39949"
+			},
+			{
+				"date": "14 oct. 2011 09:58:38",
+				"tel_id": "347",
+				"cont": "Lol ya plus de rayon a un moment ya un trou ya rien avant les surgelé",
+				"_id": "39950"
+			},
+			{
+				"date": "14 oct. 2011 10:01:34",
+				"tel_id": "347",
+				"cont": "Quand je tenvoi des sms c bleu mais juste toi.. Sinon t pas mort??",
+				"_id": "39951"
+			},
+			{
+				"date": "14 oct. 2011 10:06:09",
+				"tel_id": "296",
+				"cont": "J'ai envi de te chanter ma chanson de hier mon inspiration xD en corrigeant les faute Je t'aime",
+				"_id": "39952"
+			},
+			{
+				"date": "14 oct. 2011 10:11:45",
+				"tel_id": "347",
+				"cont": "Enfait c i message que tu recoi pas ahhhhhhh",
+				"_id": "39953"
+			},
+			{
+				"date": "14 oct. 2011 10:12:48",
+				"tel_id": "347",
+				"cont": "Trop bon faut le fr a ***",
+				"_id": "39954"
+			},
+			{
+				"date": "14 oct. 2011 10:12:15",
+				"tel_id": "347",
+				"cont": "Clair c top",
+				"_id": "39955"
+			},
+			{
+				"date": "14 oct. 2011 10:12:25",
+				"tel_id": "347",
+				"cont": "A me dis quand t en train decrir c trop cool",
+				"_id": "39956"
+			},
+			{
+				"date": "14 oct. 2011 10:12:32",
+				"tel_id": "347",
+				"cont": "Lol jmeclaaate",
+				"_id": "39957"
+			},
+			{
+				"date": "14 oct. 2011 10:13:09",
+				"tel_id": "347",
+				"cont": "Tu bosse a quel heure?",
+				"_id": "39958"
+			},
+			{
+				"date": "14 oct. 2011 10:13:18",
+				"tel_id": "124",
+				"cont": "Dis moi poulette t'aurai le mot de passe de l'ordi d'*** ou du fixe please?",
+				"_id": "39959"
+			},
+			{
+				"date": "14 oct. 2011 10:13:52",
+				"tel_id": "293",
+				"cont": "Je t'aime je t'aime je t'aime beaucoup",
+				"_id": "39960"
+			},
+			{
+				"date": "14 oct. 2011 10:16:39",
+				"tel_id": "120",
+				"cont": "Ah t en aurai bien ètai kapable va",
+				"_id": "39961"
+			},
+			{
+				"date": "14 oct. 2011 10:16:49",
+				"tel_id": "347",
+				"cont": "Okkk, ta trouvé dautre nouveautés aussi bien que imessage??",
+				"_id": "39962"
+			},
+			{
+				"date": "14 oct. 2011 10:16:58",
+				"tel_id": "156",
+				"cont": "Ouais on se fait un pique pique ! Ben *** répond pas pour l'instant ! !",
+				"_id": "39963"
+			},
+			{
+				"date": "14 oct. 2011 10:17:09",
+				"tel_id": "156",
+				"cont": "on a dormi à 4h du mat avec *** et *** Lool ! donc on a un peu galères quand meme ce midi Lool",
+				"_id": "39964"
+			},
+			{
+				"date": "14 oct. 2011 10:16:06",
+				"tel_id": "202",
+				"cont": "Coucou mon amour<3<3!! Fais tu quelque chose entre 12h45 et 15h30?=DD<3 Si tu le veux, nous pouvons aller manger des sushis en ville!!( ou autre chose!!) et se faire un petit cine?=DD Je taime tres tres fort<3!! Gros bisous!",
+				"_id": "39965"
+			},
+			{
+				"date": "14 oct. 2011 10:17:45",
+				"tel_id": "156",
+				"cont": "Moi non jamais ! Lool c'est peut etre pour ça que t'étais fatigue !",
+				"_id": "39966"
+			},
+			{
+				"date": "14 oct. 2011 10:17:48",
+				"tel_id": "156",
+				"cont": "j'ai un chèque à déposer demain je rempli le bordereau tu pourra déposer pour moi stp ? ?",
+				"_id": "39967"
+			},
+			{
+				"date": "14 oct. 2011 10:18:07",
+				"tel_id": "156",
+				"cont": "Or ! Pauvre ti chou d'amour !",
+				"_id": "39968"
+			},
+			{
+				"date": "14 oct. 2011 10:18:20",
+				"tel_id": "156",
+				"cont": "Tu es bien arrivée ? *** vient de se réveiller mdr et moi je vais seulement commencer à me préparer ! Look",
+				"_id": "39969"
+			},
+			{
+				"date": "14 oct. 2011 10:18:31",
+				"tel_id": "156",
+				"cont": "T'es déjà rentre on est en bas nous",
+				"_id": "39970"
+			},
+			{
+				"date": "14 oct. 2011 10:18:35",
+				"tel_id": "120",
+				"cont": "Oh mrde jvai regardai en rentran mai j ai pa peigne pff 30 t imagine jen aurai trouvè a *** san cherchè et ya pa de lentes c chiant",
+				"_id": "39971"
+			},
+			{
+				"date": "14 oct. 2011 10:18:52",
+				"tel_id": "156",
+				"cont": "tu bois un verre avec nous si tu fini pas trop tard !",
+				"_id": "39972"
+			},
+			{
+				"date": "14 oct. 2011 10:19:02",
+				"tel_id": "156",
+				"cont": "Ah D'accord je viens de comprendre ! On est aller manger au restaurant ensuite ! Quel heure tu fini toi ? ?",
+				"_id": "39973"
+			},
+			{
+				"date": "14 oct. 2011 10:19:24",
+				"tel_id": "156",
+				"cont": "On fait que ça t'inquiètes ! ;D gros bisous",
+				"_id": "39974"
+			},
+			{
+				"date": "14 oct. 2011 10:19:25",
+				"tel_id": "156",
+				"cont": "Euh ben on est chez une copine viens boire un verre  ! !",
+				"_id": "39975"
+			},
+			{
+				"date": "14 oct. 2011 10:19:52",
+				"tel_id": "347",
+				"cont": "Tu me montrera tt ca..car sans brancher jvois pas ^^ dans le kiosque ta des magazines c ca??",
+				"_id": "39976"
+			},
+			{
+				"date": "14 oct. 2011 10:19:53",
+				"tel_id": "156",
+				"cont": "Aucune réponse en plus couillon ! ! Ro ! on était 7 au lieu de 14 tout le monde a annulé au dernier moment !",
+				"_id": "39977"
+			},
+			{
+				"date": "14 oct. 2011 10:19:56",
+				"tel_id": "347",
+				"cont": "Fau que tu mette la mise a jour sur ton tel c genial..tu vois quand lautre est en train de tecrir un sms et tt jmeclate",
+				"_id": "39978"
+			},
+			{
+				"date": "14 oct. 2011 10:19:57",
+				"tel_id": "156",
+				"cont": "Oui ! Il prend l'avion demain soir mais il préférait prendre son temps !",
+				"_id": "39979"
+			},
+			{
+				"date": "14 oct. 2011 10:20:11",
+				"tel_id": "156",
+				"cont": "C'est fait ! J'ai du payer les 7euros pour que tu puisse rouler mais tu serai remboursé !",
+				"_id": "39980"
+			},
+			{
+				"date": "14 oct. 2011 10:20:23",
+				"tel_id": "156",
+				"cont": "C'est déjà fait je te devais 55 euros je t'ai laisse 5 euros sur la cheminee !",
+				"_id": "39981"
+			},
+			{
+				"date": "14 oct. 2011 10:20:29",
+				"tel_id": "347",
+				"cont": "Gratuitement??",
+				"_id": "39982"
+			},
+			{
+				"date": "14 oct. 2011 10:20:43",
+				"tel_id": "156",
+				"cont": "tu pars à quelle heure ?",
+				"_id": "39983"
+			},
+			{
+				"date": "14 oct. 2011 10:21:01",
+				"tel_id": "347",
+				"cont": "Non je fini a 21h loool",
+				"_id": "39984"
+			},
+			{
+				"date": "14 oct. 2011 10:21:08",
+				"tel_id": "156",
+				"cont": "Tant mieux ! Bon voyage *** ! Gros bisous",
+				"_id": "39985"
+			},
+			{
+				"date": "14 oct. 2011 10:21:11",
+				"tel_id": "156",
+				"cont": "Hein ? Tu as pas arreter de dormir depuis hier soir ? Nooon ? Lol ben pour que tu sois pas en retard au boulot !",
+				"_id": "39986"
+			},
+			{
+				"date": "14 oct. 2011 10:22:02",
+				"tel_id": "156",
+				"cont": "Lool ! C'était pour voir si *** avait commencé à travaillé et si oui comment ça c'était passer !",
+				"_id": "39987"
+			},
+			{
+				"date": "14 oct. 2011 10:22:14",
+				"tel_id": "156",
+				"cont": "Pissaladiere ! ! J'adore ! ! ! Tu as bouffer tout le bacon et le chorizo ? ? !",
+				"_id": "39988"
+			},
+			{
+				"date": "14 oct. 2011 10:22:41",
+				"tel_id": "156",
+				"cont": "cool ! oui elle me l'a dit elle s'est taper *** aussi !",
+				"_id": "39989"
+			},
+			{
+				"date": "14 oct. 2011 10:22:51",
+				"tel_id": "156",
+				"cont": "Ahahaah l'horreur absolu ! !",
+				"_id": "39990"
+			},
+			{
+				"date": "14 oct. 2011 10:22:55",
+				"tel_id": "347",
+				"cont": "Oui c ce que je te dis depuis taleur c trop bien",
+				"_id": "39991"
+			},
+			{
+				"date": "14 oct. 2011 10:22:26",
+				"tel_id": "156",
+				"cont": "Oui du coup je vais devoir refaire les courses encore ! Ro ! Tu veux pas les faire demain toi ? ?",
+				"_id": "39992"
+			},
+			{
+				"date": "14 oct. 2011 10:23:45",
+				"tel_id": "347",
+				"cont": "Ouai je lai fait g rien perdu tu demandera a *** comment fr, c simple...ca prend du tps par contre",
+				"_id": "39993"
+			},
+			{
+				"date": "14 oct. 2011 10:21:38",
+				"tel_id": "255",
+				"cont": "Ah en fait l'oreillette, c'est la même que la mienne mais en noir ;)",
+				"_id": "39994"
+			},
+			{
+				"date": "14 oct. 2011 10:24:52",
+				"tel_id": "87",
+				"cont": {
+					"Location": "toulouse",
+					"__text": "Coucou, je serai en formation à \n  en novembre. 23 et 24. Ca vous dit qu'on se voit?"
+				},
+				"_id": "39995"
+			},
+			{
+				"date": "14 oct. 2011 10:24:35",
+				"tel_id": "87",
+				"cont": {
+					"Location": "toolooze",
+					"__text": "Finalement, ma formation est en novembre à \n."
+				},
+				"_id": "39996"
+			},
+			{
+				"date": "14 oct. 2011 10:27:03",
+				"tel_id": "491",
+				"cont": "Oui heureusement --'on a rdv a 11h20 c'est ça ?",
+				"_id": "39997"
+			},
+			{
+				"date": "14 oct. 2011 10:28:27",
+				"tel_id": "491",
+				"cont": "OkayPar contre j'ai pas les cheveux propres vu qu'on va faire du sport ^^",
+				"_id": "39999"
+			},
+			{
+				"date": "14 oct. 2011 10:30:58",
+				"tel_id": "347",
+				"cont": "Non faut juste telecharger itunes 10.5 sur ton pc et apres tu suit les instructions sans oublier de synchroniser mais ca il ca meme te le dire",
+				"_id": "40000"
+			},
+			{
+				"date": "14 oct. 2011 10:31:06",
+				"tel_id": "491",
+				"cont": "MdrrrJme suis dis que vu qu'on allair au sport je me laverai en revenant ^^",
+				"_id": "40001"
+			},
+			{
+				"date": "14 oct. 2011 10:35:04",
+				"tel_id": "120",
+				"cont": "Regard les cheveux a *** a midi. *** a trouvè 3o poux a *** ce matin.",
+				"_id": "40004"
+			},
+			{
+				"date": "14 oct. 2011 10:37:38",
+				"tel_id": "120",
+				"cont": "Samedi *** peux pa te prendr la voiture ya pa son chef. Lundi mwa jsui du soir. Il peux te la prendre quan?",
+				"_id": "40005"
+			},
+			{
+				"date": "14 oct. 2011 10:39:55",
+				"tel_id": "347",
+				"cont": "Tu verra c trop bon",
+				"_id": "40006"
+			},
+			{
+				"date": "14 oct. 2011 10:44:51",
+				"tel_id": "437",
+				"cont": "ça va c t \"fastoche\"=)",
+				"_id": "40008"
+			},
+			{
+				"date": "14 oct. 2011 10:46:33",
+				"tel_id": "296",
+				"cont": "Tu veux pas appelé ? J'en ai marre d attendre --'",
+				"_id": "40009"
+			},
+			{
+				"date": "14 oct. 2011 10:47:21",
+				"tel_id": "347",
+				"cont": "ben jai deja prevu qlq chose dimanche ca t'irai dans l'aprem??",
+				"_id": "40010"
+			},
+			{
+				"date": "14 oct. 2011 10:52:53",
+				"tel_id": "347",
+				"cont": "Fin d'aprem ok. En fait *** voulait boire un verre jai deja refusé 2 fois du coup j'y vais demain..lol je pense donc pas que ca tinteresse",
+				"_id": "40011"
+			},
+			{
+				"date": "14 oct. 2011 10:57:42",
+				"tel_id": "437",
+				"cont": "c bon pour ta liste =) elle est sur la clé",
+				"_id": "40012"
+			},
+			{
+				"date": "14 oct. 2011 10:58:48",
+				"tel_id": "170",
+				"cont": "Bon, y'a une date qui t'arrange pour cette histoire de Toussaint?",
+				"_id": "40013"
+			},
+			{
+				"date": "14 oct. 2011 10:58:56",
+				"tel_id": "36",
+				"cont": "Pa encore d nouvelle elle est pa allée en cours elle dort bisous",
+				"_id": "40014"
+			},
+			{
+				"date": "14 oct. 2011 11:02:36",
+				"tel_id": "255",
+				"cont": "Euhh, si tu poses ton apreme, tu manges a l'appart' ou pas ? Et tu finirais vers quelle heure ?",
+				"_id": "40015"
+			},
+			{
+				"date": "14 oct. 2011 11:03:12",
+				"tel_id": "491",
+				"cont": "Tu te mets direct en survet ?",
+				"_id": "40016"
+			},
+			{
+				"date": "14 oct. 2011 11:05:19",
+				"tel_id": "347",
+				"cont": "Elle et moi ^^",
+				"_id": "40017"
+			},
+			{
+				"date": "14 oct. 2011 11:05:33",
+				"tel_id": "347",
+				"cont": "Mom mauvaise!",
+				"_id": "40018"
+			},
+			{
+				"date": "14 oct. 2011 11:06:46",
+				"tel_id": "170",
+				"cont": "C'est fou le nombre de gens merdiques qui se présentent au CVL, personne me donne envie de voter pour lui... Halala, si seulement certains s'étaient présentés!",
+				"_id": "40019"
+			},
+			{
+				"date": "14 oct. 2011 11:07:57",
+				"tel_id": "120",
+				"cont": "Ma mere la prendra sinn di a la maitresse, *** ou sa mami",
+				"_id": "40020"
+			},
+			{
+				"date": "14 oct. 2011 11:08:27",
+				"tel_id": "262",
+				"cont": "Coucou ... Depuis mercredi et mes coups de soleil j'ai une migraine qui me vient régulièrement ... LolJ'ai du prendre un coup sur la tête !!!Du coup ce soir , je pense que je vais rentrer et me coucher tranquillement :-(J'en peux plus du bruit et des lumières ...Te fais des bisous !!!",
+				"_id": "40021"
+			},
+			{
+				"date": "14 oct. 2011 11:12:36",
+				"tel_id": "347",
+				"cont": {
+					"emoji": {
+						"_description": "pig face",
+						"_unicode": "U+1F437",
+						"__text": "🐷"
+					},
+					"__text": "Lol en fait je sais pas elle ma rien dit a part quel voulait sortir ac moi samedi. Apres si elle a demandé aux autre no lo c pô"
+				},
+				"_id": "40022"
+			},
+			{
+				"date": "14 oct. 2011 11:15:40",
+				"tel_id": "491",
+				"cont": "Je suis prete, j'arrive ds 2min ^^ ça ira ?",
+				"_id": "40023"
+			},
+			{
+				"date": "14 oct. 2011 11:18:26",
+				"tel_id": "260",
+				"cont": "Bonjour cheri. Ca va ? Je viens de gagner deux places de ciné en participant a une etude de sms. C'est chouette non ?",
+				"_id": "40024"
+			},
+			{
+				"date": "14 oct. 2011 11:21:30",
+				"tel_id": "472",
+				"cont": "Vou ete parti?",
+				"_id": "40025"
+			},
+			{
+				"date": "14 oct. 2011 11:21:51",
+				"tel_id": "491",
+				"cont": "Je vais au sport",
+				"_id": "40026"
+			},
+			{
+				"date": "14 oct. 2011 11:33:36",
+				"tel_id": "171",
+				"cont": {
+					"Location": "gare st roch",
+					"__text": "Jpeux pas me co jsuis a la bourre \n mon pow"
+				},
+				"_id": "40027"
+			},
+			{
+				"date": "14 oct. 2011 11:34:43",
+				"tel_id": "171",
+				"cont": "Il est à quelle h bébé?",
+				"_id": "40028"
+			},
+			{
+				"date": "14 oct. 2011 11:41:10",
+				"tel_id": "171",
+				"cont": "Ah merde! Ben moi jsuis sur le quai j attends le train c est tout",
+				"_id": "40031"
+			},
+			{
+				"date": "14 oct. 2011 11:40:14",
+				"tel_id": "305",
+				"cont": "Coucou poulette, merci. Oui jai demandé à *** il ma dit qqs trucs. Mon brésilien dit de prendre un dell donc demain jvais à la fnac pr voir les prix.. Sinon jbosse ds 1camion à pizza le soir Jsais pas si jtavais dit. Sa va toi? Tu descends pr les vac? Bisous",
+				"_id": "40032"
+			},
+			{
+				"date": "14 oct. 2011 11:42:40",
+				"tel_id": "171",
+				"cont": "Y a un soucis beauté??!",
+				"_id": "40033"
+			},
+			{
+				"date": "14 oct. 2011 11:44:03",
+				"tel_id": "171",
+				"cont": "Ben je te l ai dit à 55",
+				"_id": "40034"
+			},
+			{
+				"date": "14 oct. 2011 11:46:05",
+				"tel_id": "28",
+				"cont": "Rien! *** avait un petit soucis qui sera réglé incessamment sous peu, il voulait juste me prévenir :)",
+				"_id": "40035"
+			},
+			{
+				"date": "14 oct. 2011 11:46:18",
+				"tel_id": "171",
+				"cont": "pk tu craques?",
+				"_id": "40036"
+			},
+			{
+				"date": "14 oct. 2011 11:43:22",
+				"tel_id": "296",
+				"cont": "Beh vas y amour . Mais moi tu sais que Je peux pas . C'est pas l envi qu'il m en manque :'( Ya des truc trop bien ! Je t'aime",
+				"_id": "40037"
+			},
+			{
+				"date": "14 oct. 2011 11:46:46",
+				"tel_id": "480",
+				"cont": {
+					"Location": "clermont",
+					"__text": "Hein ? J'tai pas envoyé de message c'était celui de hier que tu avais pas reçu.... J'arrive à 13h25 à \n aujourd'hui tu peux venir me chercher ?répond bisous"
+				},
+				"_id": "40038"
+			},
+			{
+				"date": "14 oct. 2011 11:47:42",
+				"tel_id": "504",
+				"cont": "Ah ouai ?! À combien ? Combien de km ? Quel année ? Elle est pas rose au moins ? Mdrrr ;)Et letat des pneu ? Et la courroie de distribution est à changé ?",
+				"_id": "40039"
+			},
+			{
+				"date": "14 oct. 2011 11:45:07",
+				"tel_id": "296",
+				"cont": "Voilà quoi ça veux dire quoi? Me dit pas rien Je t'aime",
+				"_id": "40040"
+			},
+			{
+				"date": "14 oct. 2011 11:47:30",
+				"tel_id": "305",
+				"cont": "Coucou, merci. Alors toi aussi t un pro ***;) Jaimerais bien mais faut kjaille voir les prix, je suis que pizzayolo.. Jespère ksa va bien. Biz",
+				"_id": "40041"
+			},
+			{
+				"date": "14 oct. 2011 11:47:58",
+				"tel_id": "382",
+				"cont": "Pas possible aujourd'hui l'un des collocs est en goguette jusque lundi. A mardi et bon weekend!",
+				"_id": "40042"
+			},
+			{
+				"date": "14 oct. 2011 11:48:36",
+				"tel_id": "171",
+				"cont": "Mais c était  pas un msg vénère",
+				"_id": "40043"
+			},
+			{
+				"date": "14 oct. 2011 11:50:54",
+				"tel_id": "153",
+				"cont": "Hello ! A partir de quand ?",
+				"_id": "40044"
+			},
+			{
+				"date": "14 oct. 2011 11:50:23",
+				"tel_id": "171",
+				"cont": "Lol bb j suis à la meme place où on s est rencontré!",
+				"_id": "40045"
+			},
+			{
+				"date": "14 oct. 2011 11:49:26",
+				"tel_id": "136",
+				"cont": "Tu m'attend pour manger vers 14h ?",
+				"_id": "40046"
+			},
+			{
+				"date": "14 oct. 2011 11:52:17",
+				"tel_id": "153",
+				"cont": "Llol pas grave :)Ca s'passe bien avec lui ??",
+				"_id": "40047"
+			},
+			{
+				"date": "14 oct. 2011 11:53:14",
+				"tel_id": "153",
+				"cont": "Hey :) ouais c'était bien mignon !!Non pas cours aujourd'hui poirquoi ?",
+				"_id": "40048"
+			},
+			{
+				"date": "14 oct. 2011 11:52:22",
+				"tel_id": "437",
+				"cont": "j'avou.! =D",
+				"_id": "40049"
+			},
+			{
+				"date": "14 oct. 2011 11:53:33",
+				"tel_id": "185",
+				"cont": {
+					"Location": "la gare",
+					"__text": "Est ce que par leolusimmense des hasards tu aurait pas fini tes cours et que tu serai pas en route vers \n? Parce que mon pere nous ramene avec *** donc si tu es dans lecoin et que tu ve profiter du voyage tu pe ;)"
+				},
+				"_id": "40051"
+			},
+			{
+				"date": "14 oct. 2011 11:54:27",
+				"tel_id": "153",
+				"cont": {
+					"Location": "montpel",
+					"__text": "Ah d'acc' ! Tu comptes venir sur \n ou pas ?"
+				},
+				"_id": "40052"
+			},
+			{
+				"date": "14 oct. 2011 11:54:44",
+				"tel_id": "171",
+				"cont": "Non lol y a des gens en face",
+				"_id": "40053"
+			},
+			{
+				"date": "14 oct. 2011 11:55:18",
+				"tel_id": "153",
+				"cont": "Aaaaah !!! Mdr tu m'étonnes. Et pourquoi, qd, où, quoi? ?",
+				"_id": "40054"
+			},
+			{
+				"date": "14 oct. 2011 11:56:28",
+				"tel_id": "504",
+				"cont": "Mdr ah ta pas de chance héhé ;) jusqu'à 20h aussi :PAh c'est cool, sa fais longtemps que tu en fais ?",
+				"_id": "40055"
+			},
+			{
+				"date": "14 oct. 2011 11:58:07",
+				"tel_id": "153",
+				"cont": "T'as peur pour la skins choco ?",
+				"_id": "40056"
+			},
+			{
+				"date": "14 oct. 2011 11:57:27",
+				"tel_id": "153",
+				"cont": "Hello ! Je sais pas si je rentre, mais quoi qu'il en soit ce soir on sort avec *** donc uniquement samedi. Je te tiens au courant, je sais rien pour le moment..Bisou",
+				"_id": "40057"
+			},
+			{
+				"date": "14 oct. 2011 11:59:36",
+				"tel_id": "153",
+				"cont": "C'était trop bien tes caresses quand je dormais un peu :)",
+				"_id": "40058"
+			},
+			{
+				"date": "14 oct. 2011 11:58:46",
+				"tel_id": "171",
+				"cont": "Non en plus j ai une tete de ouf non bb",
+				"_id": "40059"
+			},
+			{
+				"date": "14 oct. 2011 12:01:08",
+				"tel_id": "153",
+				"cont": "Faut que je m'achète un petit agenda là, je m'en sors pas. Entre les cours, les rdv, les trucs à se rappeler.. Tout le monde m'appelle, ma mère, mon père, ***,.. je suis là, pas là, tu rentres, tu rentres pas ? T'es sur *** ? ***AAAH",
+				"_id": "40060"
+			},
+			{
+				"date": "14 oct. 2011 12:01:54",
+				"tel_id": "153",
+				"cont": "Je suis taille de MDF. Mes réves..! OO'",
+				"_id": "40061"
+			},
+			{
+				"date": "14 oct. 2011 12:02:02",
+				"tel_id": "171",
+				"cont": "Tu vas me manquer",
+				"_id": "40062"
+			},
+			{
+				"date": "14 oct. 2011 12:06:02",
+				"tel_id": "504",
+				"cont": "Comme tu dois gérer !! :P t en fais où ? Vous faites des représentation ? Faut que jvienne voir :P",
+				"_id": "40063"
+			},
+			{
+				"date": "14 oct. 2011 12:06:29",
+				"tel_id": "19",
+				"cont": "Ca te dérange si je propose a *** de venir avec nous ce soir ? ^^",
+				"_id": "40064"
+			},
+			{
+				"date": "14 oct. 2011 11:49:45",
+				"tel_id": "296",
+				"cont": ":( moi Je dis pas tant Mieu  . D'accord j'ai lu l horoscope et  t as pas intéret de faire ça . Pour le we oui mais pas semaine . Jte dirai ce soir si tu m apl Je t'aime",
+				"_id": "40065"
+			},
+			{
+				"date": "14 oct. 2011 12:04:27",
+				"tel_id": "296",
+				"cont": "J'ai vu sur le net un pull trop beau ! Avec mes sous de mardi soir j achète ! J'ai eu un coup de foudre Je t'aime",
+				"_id": "40066"
+			},
+			{
+				"date": "14 oct. 2011 12:08:17",
+				"tel_id": "504",
+				"cont": "Ahh c'est où ? Que jessaye de venir :P",
+				"_id": "40067"
+			},
+			{
+				"date": "14 oct. 2011 12:19:31",
+				"tel_id": "171",
+				"cont": {
+					"Location": "beziers",
+					"__text": "Ah ben j ai 20minutes d attente a \n si y a un truc jte le prend, par contre pas sur que ca passe a l aéroport!!"
+				},
+				"_id": "40076"
+			},
+			{
+				"date": "16 oct. 2011 22:57:37",
+				"tel_id": "374",
+				"cont": {
+					"Location": [
+						"montel",
+						"valence"
+					],
+					"__text": "Ba oui on est a \n et on c est tromoe de route *** a loupr la bifurcation \n on est sorti fais un bout de nat et retournee en arriere! Des fois jcomprend pas c est chelou!"
+				},
+				"_id": "42348"
+			},
+			{
+				"date": "16 oct. 2011 22:58:27",
+				"tel_id": "414",
+				"cont": "Elle travaille sur son dossier à rendre jeudi :-(",
+				"_id": "42349"
+			},
+			{
+				"date": "17 oct. 2011 10:24:14",
+				"tel_id": "162",
+				"cont": {
+					"Location": "peyrou",
+					"__text": "Ca m'arrangerait devant le \n (je suis malade et je ne peux pas trop marcher)"
+				},
+				"_id": "42567"
+			},
+			{
+				"date": "20 oct. 2011 18:37:25",
+				"tel_id": "254",
+				"cont": {
+					"Location": "bordeaux",
+					"__text": "Oui.. Tu as un but c'est le principal! He bien je passe par \n je crois... tarbes-lourdes-pau-anglet_bayonne-st jean de luz-hendaye. Un machin dans le genre! Lol"
+				},
+				"_id": "45894"
+			},
+			{
+				"date": "21 oct. 2011 22:22:50",
+				"tel_id": "162",
+				"cont": {
+					"Location": [
+						"collioure",
+						"Cassis",
+						"barcelone"
+					],
+					"__text": "Arf oui en effet... Ou alors on reste aux alentours et on visite un coin pas trop loin? Ta déjà été a \n? \n? Sinon \n.."
+				},
+				"_id": "47115"
+			},
+			{
+				"date": "24 oct. 2011 00:45:03",
+				"tel_id": "248",
+				"cont": {
+					"Location": "la mer",
+					"__text": "L'avantage c'est que tu peux aller hurler devant \n toi"
+				},
+				"_id": "49129"
+			},
+			{
+				"date": "25 oct. 2011 11:32:37",
+				"tel_id": "442",
+				"cont": {
+					"Location": "gare de beziers",
+					"__text": "12 h 42 en"
+				},
+				"_id": "50645"
+			},
+			{
+				"date": "3 nov. 2011 00:28:18",
+				"tel_id": "153",
+				"cont": {
+					"Location": "occitanie",
+					"__text": "J'étais la seule à venir en tram Ptdr.. La L voulait me ramener mais tu vas etre fière de moi j'ai dit non et tout. Et après tout l'monde a entendu et s'est battu pour me ramener. J'ai dit non mais après la madre avait peur pour moi alors un mec m'a ramené parce Qu'il passait devant \n donc j'ai dit bon aller vu qu'c'est tard il pleut et tout"
+				},
+				"_id": "55732"
+			},
+			{
+				"date": "5 nov. 2011 19:36:47",
+				"tel_id": "262",
+				"cont": {
+					"Location": [
+						"Sète",
+						"Montpellier"
+					],
+					"__text": "Non je suis partie du travail ...Je suis chez une copine à \n .Ensuite \n et surement ô bar ..."
+				},
+				"_id": "57935"
+			},
+			{
+				"date": "10 nov. 2011 12:23:50",
+				"tel_id": "369",
+				"cont": {
+					"Location": "juvignac",
+					"__text": "Me semble que *** les recupere a"
+				},
+				"_id": "61693"
+			},
+			{
+				"date": "19 nov. 2011 17:48:35",
+				"tel_id": "442",
+				"cont": {
+					"Location": "beziers",
+					"__text": "Terminé je suis en route pour"
+				},
+				"_id": "68787"
+			},
+			{
+				"date": "26 nov. 2011 12:29:59",
+				"tel_id": "36",
+				"cont": {
+					"Location": "colombiers",
+					"__text": "Bonjour, À 14 h à \n ?"
+				},
+				"_id": "76205"
+			},
+			{
+				"date": "7 déc. 2011 23:05:31",
+				"tel_id": "153",
+				"cont": {
+					"Location": "alès",
+					"__text": "*** habite à \n maintenant mdrrr"
+				},
+				"_id": "85954"
+			},
+			{
+				"date": "10 déc. 2011 12:46:26",
+				"tel_id": "452",
+				"cont": {
+					"Location": [
+						"centre ville",
+						"Béziers"
+					],
+					"__text": "Ben je pense que je vais être morte complet car de 14h à 18h je distribue des fly en \n (=4h de marche) !T'es sur \n ce we ? Tu vis où du coup ?"
+				},
+				"_id": "88042"
+			},
+			{
+				"date": "15 déc. 2011 17:16:13",
+				"tel_id": "153",
+				"cont": {
+					"Location": "alès",
+					"__text": "Lol ! Active pr une greviste quoi.J'ai pas trouvé, c'est *** qu'à la voiture. J'irais à \n. Le tps que *** rep j'ai rien pris, j'lui cherchais un rtuc au passage"
+				},
+				"_id": "92722"
+			},
+			{
+				"date": "15 déc. 2011 17:32:15",
+				"tel_id": "191",
+				"cont": "Bon aller je te laisse travailler :), je te dirais tout ca plus tard ;)",
+				"_id": "92746"
+			},
+			{
+				"date": "15 déc. 2011 17:33:18",
+				"tel_id": "359",
+				"cont": "Cher petit pierre noël. Je voudrais pour noël de la neige de partout, et pendant toutes les vacances. Merci beaucoup :-)",
+				"_id": "92747"
+			},
+			{
+				"date": "15 déc. 2011 17:33:27",
+				"tel_id": "191",
+				"cont": "Tu fais quoi ?Aller plus que 1 jour :)",
+				"_id": "92748"
+			},
+			{
+				"date": "15 déc. 2011 17:33:57",
+				"tel_id": "349",
+				"cont": "je reste jusqu'à la sonnerie, on redescend ensemble if you want",
+				"_id": "92749"
+			},
+			{
+				"date": "15 déc. 2011 17:35:46",
+				"tel_id": "153",
+				"cont": "Euh on verra ! :)",
+				"_id": "92750"
+			},
+			{
+				"date": "15 déc. 2011 17:37:17",
+				"tel_id": "504",
+				"cont": "Bof les nuit mais hier jétais au resto avec mes collègues donc je suis rentré assez tard... Oua mais ta que des maths !!! :o ail oui sa fais pas mal :S ta pas de chance ! XD'",
+				"_id": "92751"
+			},
+			{
+				"date": "15 déc. 2011 17:39:13",
+				"tel_id": "191",
+				"cont": "A chaud... Purre moi j'ai eu un controle sur stat, primitive et etude de fonction par rapport au cout marginal et d'autres truc comme ca, laisse tomber je me suis ramasser, alors que j'avais trop bosser, attends j'avais refait tt les exos j'avais tt bon et la au controle c'est que des truc hyper dur genre 2 fois plus dur qu'au controle ! Avec genre on voit pour a la puissance 2 et la c'etait puissance 3 on savais pas comment faire pour l'exo ca faisait bizarre",
+				"_id": "92752"
+			},
+			{
+				"date": "15 déc. 2011 17:39:14",
+				"tel_id": "349",
+				"cont": "dm de maths question 4 de la partie b, la courbe est au dessus de la tangente?",
+				"_id": "92753"
+			},
+			{
+				"date": "15 déc. 2011 17:40:08",
+				"tel_id": "191",
+				"cont": "Oui! J'etais trop deg!",
+				"_id": "92754"
+			},
+			{
+				"date": "15 déc. 2011 17:41:46",
+				"tel_id": "191",
+				"cont": "Fais une pause",
+				"_id": "92755"
+			},
+			{
+				"date": "15 déc. 2011 17:42:47",
+				"tel_id": "508",
+				"cont": "Aie aie aie ma petite *** je vais resté à la fac 20 ans lol",
+				"_id": "92756"
+			},
+			{
+				"date": "15 déc. 2011 17:43:55",
+				"tel_id": "508",
+				"cont": "Je crois que j'ai chier mes partiels mais puissant quoi :s",
+				"_id": "92757"
+			},
+			{
+				"date": "15 déc. 2011 17:43:56",
+				"tel_id": "191",
+				"cont": "Aujourd'hui j'avais un controle en histoire sur les relations israelo arabes et j'avais revise le soir parce que l'aprem je pouvais pas et j'arrive au controle une question c'etait qui etait le president de la chine en 73 oula",
+				"_id": "92758"
+			},
+			{
+				"date": "15 déc. 2011 17:45:20",
+				"tel_id": "508",
+				"cont": "Oue lol je suis un boulet",
+				"_id": "92759"
+			},
+			{
+				"date": "15 déc. 2011 17:45:34",
+				"tel_id": "412",
+				"cont": "Encore malade? Putain t'as pas de chance cette année :-(. Soigne toi bien.",
+				"_id": "92760"
+			},
+			{
+				"date": "15 déc. 2011 17:47:09",
+				"tel_id": "191",
+				"cont": "Oui lol bah le reste des questions c'etait normal genre comment la detente se manifeste ? Definir OLP, guerre des 6 jours, quelles sont les etapes de la guerre du vietnam ect... Mais après genre qui etait president aux USA et en chine et 1973, je savais pour l'usa mais pour la chine lol",
+				"_id": "92761"
+			},
+			{
+				"date": "15 déc. 2011 17:49:33",
+				"tel_id": "508",
+				"cont": "Lol oui c'est déjà ça!!",
+				"_id": "92762"
+			},
+			{
+				"date": "15 déc. 2011 17:51:44",
+				"tel_id": "508",
+				"cont": "Non je suis à peine entrain de les passé mais je sais que j'ai répondu de la merde ^^",
+				"_id": "92764"
+			},
+			{
+				"date": "15 déc. 2011 17:52:28",
+				"tel_id": "412",
+				"cont": "18h ds un lit ca peut etre sympa mais là j'avoue ca craint. Ton système immunitaire doit etre vachement bas qd tu seras guéri prend des vitamines histoires de passer l'hiver",
+				"_id": "92765"
+			},
+			{
+				"date": "15 déc. 2011 17:55:52",
+				"tel_id": "412",
+				"cont": "Profite dernier jour où on a que 3 ans de différence juska l'an prochain hihi",
+				"_id": "92766"
+			},
+			{
+				"date": "15 déc. 2011 17:57:56",
+				"tel_id": "308",
+				"cont": "Merci ma poupette. Oh surprise psycho-somatique  pré-départ :1 herpès !",
+				"_id": "92767"
+			},
+			{
+				"date": "15 déc. 2011 17:58:01",
+				"tel_id": "508",
+				"cont": "Si si mais 100% de moi c'est 10% chez les autres lol non mais Putain je suis deg de moi meme la lol",
+				"_id": "92768"
+			},
+			{
+				"date": "15 déc. 2011 17:59:12",
+				"tel_id": "191",
+				"cont": "Purre en plus mdrrrr je vais me taper la grosse honte mdrrrrrr parce que il y a un eleve qui a demande si c'etait mal ecrit si c'etait bon, elle a dit oui donc je me suis dit ca doit etre un nom de chinois, alors je me dit je vais en inventer un nom ca sera sans doute la bonne prononciation mdrr alors t'aurait mis quoi toi ?",
+				"_id": "92769"
+			},
+			{
+				"date": "15 déc. 2011 17:59:31",
+				"tel_id": "508",
+				"cont": "Bientot fini le calvaire ? ^^",
+				"_id": "92770"
+			},
+			{
+				"date": "15 déc. 2011 18:00:02",
+				"tel_id": "508",
+				"cont": "Lol mais tkt au pire y a les rattrapagés :D",
+				"_id": "92771"
+			},
+			{
+				"date": "15 déc. 2011 18:00:56",
+				"tel_id": "191",
+				"cont": "Mdrrr parce que j'ai ecrit looool attend j'ai trop honte mdrr",
+				"_id": "92772"
+			},
+			{
+				"date": "15 déc. 2011 18:01:30",
+				"tel_id": "191",
+				"cont": "Nan mais parce que je me suis dit que fallait tenter un truc",
+				"_id": "92773"
+			},
+			{
+				"date": "15 déc. 2011 18:02:09",
+				"tel_id": "508",
+				"cont": "Heu... Laisse tombé lol et toi?",
+				"_id": "92774"
+			},
+			{
+				"date": "15 déc. 2011 18:02:55",
+				"tel_id": "508",
+				"cont": "Mdr tkt quand j'ai les résultats je te tien au courant",
+				"_id": "92775"
+			},
+			{
+				"date": "15 déc. 2011 18:03:17",
+				"tel_id": "508",
+				"cont": "Pck je me suis chier je pense :s",
+				"_id": "92776"
+			},
+			{
+				"date": "15 déc. 2011 18:03:23",
+				"tel_id": "191",
+				"cont": "Loooool je sais mdrr mais je trouvais que ca sonnait chinois mdrrr nan mais srx mdrrr",
+				"_id": "92777"
+			},
+			{
+				"date": "15 déc. 2011 18:04:36",
+				"tel_id": "508",
+				"cont": "Tu me tiendras au courant pour tes résultats à toi!! On croise les doigts",
+				"_id": "92778"
+			},
+			{
+				"date": "15 déc. 2011 18:05:10",
+				"tel_id": "508",
+				"cont": "Oue mais bon Cpg tkt et toi alors?",
+				"_id": "92779"
+			},
+			{
+				"date": "15 déc. 2011 18:06:28",
+				"tel_id": "508",
+				"cont": "Lol oue je sais mais je commence maintenant pour etre sur!",
+				"_id": "92780"
+			},
+			{
+				"date": "15 déc. 2011 18:06:55",
+				"tel_id": "508",
+				"cont": "A Oue c'était quoi comme épreuve?",
+				"_id": "92781"
+			},
+			{
+				"date": "15 déc. 2011 18:08:07",
+				"tel_id": "508",
+				"cont": "Hiii chaud lol",
+				"_id": "92782"
+			},
+			{
+				"date": "15 déc. 2011 18:11:13",
+				"tel_id": "479",
+				"cont": "Lu. T'as pas ubuntu 11.1 sur DVD par hasard ? Que j'évite les x heures de téléchargement ;)",
+				"_id": "92783"
+			},
+			{
+				"date": "15 déc. 2011 18:12:27",
+				"tel_id": "136",
+				"cont": "t'es a la zonmé ? Get wild ont oublié deux fringues a moi. Sinon il les balanceront dans le jardin",
+				"_id": "92784"
+			},
+			{
+				"date": "15 déc. 2011 18:12:43",
+				"tel_id": "479",
+				"cont": "Pas de soucis ! Je me suis fait une crêperie et un ciné tranquille avant de repartir vers la furie parisienne. Bonne tempête ;) biz",
+				"_id": "92785"
+			},
+			{
+				"date": "15 déc. 2011 18:15:18",
+				"tel_id": "508",
+				"cont": "Ah elle vient c'est cool :D",
+				"_id": "92787"
+			},
+			{
+				"date": "15 déc. 2011 18:15:34",
+				"tel_id": "479",
+				"cont": {
+					"Location": "Paris",
+					"__text": "ça c'est passé on va dire :) un membre du jury s'est excité mais bon je m'en foutais, je voulais juste que ma thèse se finisse. Je bosse sur \n pour je sais pas combien de temps donc si tu passes fais moi signe. Bonne soirée . Biz"
+				},
+				"_id": "92788"
+			},
+			{
+				"date": "15 déc. 2011 18:15:42",
+				"tel_id": "508",
+				"cont": "Et après tu rentre dans le sud?",
+				"_id": "92789"
+			},
+			{
+				"date": "15 déc. 2011 18:16:29",
+				"tel_id": "479",
+				"cont": "Celle que tu m'as montrée ?? Je crois pas. T'as un DVD ?",
+				"_id": "92790"
+			},
+			{
+				"date": "15 déc. 2011 18:17:36",
+				"tel_id": "508",
+				"cont": "^^ *** ça me manque de conduire moi",
+				"_id": "92791"
+			},
+			{
+				"date": "15 déc. 2011 18:18:15",
+				"tel_id": "508",
+				"cont": "Au fait *** à arreter les cours alors?",
+				"_id": "92792"
+			},
+			{
+				"date": "15 déc. 2011 18:19:43",
+				"tel_id": "508",
+				"cont": "Non comme ça comme tu m'avais dis qu'il allait arreter",
+				"_id": "92793"
+			},
+			{
+				"date": "15 déc. 2011 18:20:16",
+				"tel_id": "157",
+				"cont": "Ca va ma poulette?!",
+				"_id": "92794"
+			},
+			{
+				"date": "15 déc. 2011 18:30:16",
+				"tel_id": "191",
+				"cont": "Nan bah finalement pas de gouté lol",
+				"_id": "92795"
+			},
+			{
+				"date": "15 déc. 2011 18:30:46",
+				"tel_id": "119",
+				"cont": "Demain toutes les filles du college leo larguier devront s'habiller en rouge, mettre le bonnet du pere noel et se maquiller en rouge .faites passer a toutes les filles du college leo larguiiier <3 merci",
+				"_id": "92796"
+			},
+			{
+				"date": "15 déc. 2011 18:37:12",
+				"tel_id": "171",
+				"cont": "Souhaite moi bne chance ptite tete",
+				"_id": "92797"
+			},
+			{
+				"date": "15 déc. 2011 18:37:38",
+				"tel_id": "136",
+				"cont": "Pour ce soir on se rejoint en ville ? je bois un coup et je vois les gens de ma classe en vous attendant. Ca vous va ? Genre vous me textotez des que vous etes en ville",
+				"_id": "92798"
+			},
+			{
+				"date": "15 déc. 2011 18:37:45",
+				"tel_id": "349",
+				"cont": "euh je sais pas, je te redis tt à l'heure ;)mais c'est quoi la réponse pr la tangente? elle passe sur la courbe en zéro nn?",
+				"_id": "92799"
+			},
+			{
+				"date": "15 déc. 2011 18:40:09",
+				"tel_id": "349",
+				"cont": "oui c'est ça que je voulais dire, merci :)et tkt, pas de prob ;)",
+				"_id": "92800"
+			},
+			{
+				"date": "15 déc. 2011 18:41:16",
+				"tel_id": "153",
+				"cont": "Non rien, je croyais qu'y avait *** !Je suis partie là",
+				"_id": "92801"
+			},
+			{
+				"date": "15 déc. 2011 18:42:17",
+				"tel_id": "430",
+				"cont": {
+					"Location": "lozère",
+					"__text": "Un poste au CRI de \n. Mon profil les intéresse beaucoup. Mais il faut circuler sur plusieurs villes autour de Mende... Une idée géniale?"
+				},
+				"_id": "92802"
+			},
+			{
+				"date": "15 déc. 2011 18:45:04",
+				"tel_id": "153",
+				"cont": "J'ai un peu eu le tps de rien faire",
+				"_id": "92803"
+			},
+			{
+				"date": "15 déc. 2011 18:47:31",
+				"tel_id": "153",
+				"cont": "Mdr... On se motive comme on peut !/Oui, d'autant que des clefs usb en forme niaise de gros minet ou quoi ça existe. Je me prendrais ça, si j'ose. Mais ça risque d'étre too much :PBonne soirée, bisou",
+				"_id": "92804"
+			},
+			{
+				"date": "15 déc. 2011 18:47:40",
+				"tel_id": "452",
+				"cont": "Déjà :o !! Je vais venir alors !",
+				"_id": "92805"
+			},
+			{
+				"date": "15 déc. 2011 18:47:43",
+				"tel_id": "508",
+				"cont": "Merci t'es le meilleur ^^",
+				"_id": "92806"
+			},
+			{
+				"date": "15 déc. 2011 18:48:12",
+				"tel_id": "153",
+				"cont": "Oui, samedi :D !!Bisous !",
+				"_id": "92807"
+			},
+			{
+				"date": "15 déc. 2011 18:49:30",
+				"tel_id": "153",
+				"cont": "Je l'ai vu genre méme pas 1h, dont le 3/4 de voiture mdr. C'est pas ça HELLO",
+				"_id": "92808"
+			},
+			{
+				"date": "15 déc. 2011 18:50:18",
+				"tel_id": "479",
+				"cont": "Oki je dois télécharger alors :( À demain !",
+				"_id": "92809"
+			},
+			{
+				"date": "15 déc. 2011 18:51:05",
+				"tel_id": "479",
+				"cont": "Ya koi qui change par rapport à la version DVD ?",
+				"_id": "92810"
+			},
+			{
+				"date": "15 déc. 2011 18:51:09",
+				"tel_id": "249",
+				"cont": "Fo parler dun truc en rapport ac la condition des femmes ;-)",
+				"_id": "92811"
+			},
+			{
+				"date": "15 déc. 2011 18:51:42",
+				"tel_id": "249",
+				"cont": "Ben moi perso j'ai fait la comparaison entre la condition des femmes d'avant et la condition des femme de maintenan ...",
+				"_id": "92812"
+			},
+			{
+				"date": "15 déc. 2011 18:52:03",
+				"tel_id": "249",
+				"cont": "De rien *** !! ;-)",
+				"_id": "92813"
+			},
+			{
+				"date": "15 déc. 2011 18:52:26",
+				"tel_id": "349",
+				"cont": "(dernière fois que je t'embêtes pr le dm!)quand on fait une asymptote, on fait bien une flèche à chaque bout du trait?",
+				"_id": "92814"
+			},
+			{
+				"date": "15 déc. 2011 18:53:14",
+				"tel_id": "249",
+				"cont": "Es ce que ta mère peut prendre les 18h demain plutot que les 17h ?",
+				"_id": "92815"
+			},
+			{
+				"date": "15 déc. 2011 18:55:35",
+				"tel_id": "249",
+				"cont": "Ui bien sur ^^",
+				"_id": "92816"
+			},
+			{
+				"date": "15 déc. 2011 18:56:09",
+				"tel_id": "249",
+				"cont": "Vs mangez dedan ou dehor ?",
+				"_id": "92817"
+			},
+			{
+				"date": "15 déc. 2011 18:56:36",
+				"tel_id": "249",
+				"cont": "On l'invite *** ?",
+				"_id": "92818"
+			},
+			{
+				"date": "15 déc. 2011 18:56:53",
+				"tel_id": "249",
+				"cont": "Ben 5 ué mai non cété une movaise idée de *** ... (Super conard ;-) non cé pa vré )",
+				"_id": "92819"
+			},
+			{
+				"date": "15 déc. 2011 18:57:49",
+				"tel_id": "249",
+				"cont": "Cé qui tes fournisseur ??",
+				"_id": "92820"
+			},
+			{
+				"date": "15 déc. 2011 18:59:57",
+				"tel_id": "249",
+				"cont": "Et il sera la ? Cé qui ? Il rapporte koi ?",
+				"_id": "92821"
+			},
+			{
+				"date": "15 déc. 2011 19:00:13",
+				"tel_id": "249",
+				"cont": "Ok ok cé cool :-) fodra se cotisé ? Et des \"herbe aromagique\" ?",
+				"_id": "92822"
+			},
+			{
+				"date": "15 déc. 2011 19:00:29",
+				"tel_id": "249",
+				"cont": "Mdr ok ^^ bon app' a tte !!",
+				"_id": "92823"
+			},
+			{
+				"date": "15 déc. 2011 19:00:36",
+				"tel_id": "481",
+				"cont": "Aujourd'hui j'ai vu des trucs bien dégueulasses !",
+				"_id": "92824"
+			},
+			{
+				"date": "15 déc. 2011 19:00:51",
+				"tel_id": "249",
+				"cont": "Ben la je sort du lycée ... vs etes ou vs ?",
+				"_id": "92825"
+			},
+			{
+				"date": "15 déc. 2011 19:01:05",
+				"tel_id": "249",
+				"cont": "Ben on se retrouve ds 10/20 mon a leclerc ?",
+				"_id": "92826"
+			},
+			{
+				"date": "15 déc. 2011 19:01:43",
+				"tel_id": "249",
+				"cont": "Pas tro seule ?",
+				"_id": "92827"
+			},
+			{
+				"date": "15 déc. 2011 19:02:27",
+				"tel_id": "249",
+				"cont": "Vs m'avez pa pris mon sujet du dm hier pq je le retrouve pas ...",
+				"_id": "92828"
+			},
+			{
+				"date": "15 déc. 2011 19:02:49",
+				"tel_id": "359",
+				"cont": {
+					"Location": "lyon",
+					"__text": "Vous allez à \n vous pour le réveillon ??"
+				},
+				"_id": "92829"
+			},
+			{
+				"date": "15 déc. 2011 19:04:31",
+				"tel_id": "481",
+				"cont": "Arthroscopie du genou, prothèse de la hanche, ongle incarné, cancer de la prostate avec robot...",
+				"_id": "92830"
+			},
+			{
+				"date": "15 déc. 2011 19:05:27",
+				"tel_id": "153",
+				"cont": {
+					"Location": "castelnau",
+					"__text": "J'attends 14 min le tram. Je maudis \n."
+				},
+				"_id": "92831"
+			},
+			{
+				"date": "15 déc. 2011 19:06:51",
+				"tel_id": "153",
+				"cont": {
+					"Location": [
+						"castelnau",
+						"alès"
+					],
+					"__text": "J'suis à \n, et toi ? Je rentre demain sur \n s'tu veux"
+				},
+				"_id": "92832"
+			},
+			{
+				"date": "15 déc. 2011 19:07:17",
+				"tel_id": "479",
+				"cont": "Merci pour tes ondes positives. Je suis enfin libéré :) partant pour un resto ou une bière devant du hand. Je vais avoir le temps de suivre maintenant :D bonne soirée. Biz",
+				"_id": "92833"
+			},
+			{
+				"date": "15 déc. 2011 19:08:01",
+				"tel_id": "153",
+				"cont": "Ouais là franchement c'est relou. En plus j'étais serré comme pas possible dans le tram1, je tenais littéralement sur UN pied. C'est tellement lg chez toi",
+				"_id": "92834"
+			},
+			{
+				"date": "15 déc. 2011 19:09:23",
+				"tel_id": "153",
+				"cont": "Eh désolée du cp j'peux pas, on a prévu une soirée déjà ici :S puis j'ai pas la voiture, c'est *** qu'à les clefs. Sinon à la limite on serait passé",
+				"_id": "92835"
+			},
+			{
+				"date": "15 déc. 2011 19:09:52",
+				"tel_id": "249",
+				"cont": "Ben je vien pr 12h ... Dsl ...",
+				"_id": "92836"
+			},
+			{
+				"date": "15 déc. 2011 19:10:09",
+				"tel_id": "191",
+				"cont": "On a des devoirs en anglais !",
+				"_id": "92837"
+			},
+			{
+				"date": "15 déc. 2011 19:10:42",
+				"tel_id": "249",
+				"cont": "Slt !! Tu peut diè a ta me que demain ma mère prendra les petitset *** car *** et moi on a pas cour grace a la greve :-)",
+				"_id": "92838"
+			},
+			{
+				"date": "15 déc. 2011 19:11:11",
+				"tel_id": "191",
+				"cont": "Ah cool lol",
+				"_id": "92839"
+			},
+			{
+				"date": "15 déc. 2011 19:11:52",
+				"tel_id": "153",
+				"cont": "Je deteste cette ligne, que ce soit bien clair ! Mdr. Les saucisses feuilletés seront prétes à 23h mdrr",
+				"_id": "92840"
+			},
+			{
+				"date": "15 déc. 2011 19:12:38",
+				"tel_id": "153",
+				"cont": "Ah ok ! Passe lui le bjr :) bonne soirée<3",
+				"_id": "92842"
+			},
+			{
+				"date": "15 déc. 2011 19:13:58",
+				"tel_id": "249",
+				"cont": "Uè on a parler pdt une heure de nos vacances (!) on a rien fé et on est sorti plu tot !! :-D soit pas deg' ... ;-)",
+				"_id": "92843"
+			},
+			{
+				"date": "15 déc. 2011 19:14:34",
+				"tel_id": "153",
+				"cont": "D'ailleurs en cas met ton four à préchauffer dans 5min !J'suis dans le tram, regarde ton tel, j'te dis quand j'suis à l'arrét pour le portail",
+				"_id": "92844"
+			},
+			{
+				"date": "15 déc. 2011 19:14:52",
+				"tel_id": "249",
+				"cont": "T sé sérieuse la ? Tu veu que je t'explique par texto alor que quand je suis a coté de toi cé galère !!",
+				"_id": "92845"
+			},
+			{
+				"date": "15 déc. 2011 19:16:13",
+				"tel_id": "153",
+				"cont": "J'te préviens j'ai besoin de càlins ! :) (niaise)",
+				"_id": "92846"
+			},
+			{
+				"date": "15 déc. 2011 19:16:52",
+				"tel_id": "359",
+				"cont": {
+					"Location": "nîmes",
+					"__text": "Il m'a pas répondu encore.. Mais nous  c'est pas sûre qu'on y aille on avait pas prévu ça... Et le premier dans laprem on devait aller à \n voir toute sa famille... Mais *** c'est pas quelle le fait autre part??"
+				},
+				"_id": "92847"
+			},
+			{
+				"date": "15 déc. 2011 19:17:09",
+				"tel_id": "249",
+				"cont": "Cé vré que la tu marque un point ... ( ta vu les 3 point cé super utile :D)",
+				"_id": "92848"
+			},
+			{
+				"date": "15 déc. 2011 19:17:09",
+				"tel_id": "481",
+				"cont": "Ouais à 10 cm du ***. Non, j'ai ni vomi ni tourné de l'oeil !",
+				"_id": "92849"
+			},
+			{
+				"date": "15 déc. 2011 19:17:29",
+				"tel_id": "359",
+				"cont": "Lol ok dors bien alors.:-)",
+				"_id": "92850"
+			},
+			{
+				"date": "15 déc. 2011 19:18:28",
+				"tel_id": "359",
+				"cont": "Dis moi quand le match est fini que je te fasse à manger :-)  gros bisous mon rugbyman à moi :-)",
+				"_id": "92851"
+			},
+			{
+				"date": "15 déc. 2011 19:19:44",
+				"tel_id": "191",
+				"cont": "Au faite j'ai mis le message sur facebook mdrr",
+				"_id": "92852"
+			},
+			{
+				"date": "15 déc. 2011 19:19:47",
+				"tel_id": "359",
+				"cont": "Tu viens avec nous si ils gagnent ?",
+				"_id": "92853"
+			},
+			{
+				"date": "15 déc. 2011 19:19:40",
+				"tel_id": "479",
+				"cont": "Je veux bien te l'emprunter, ça m'évitera quelques heures de téléchargement :)",
+				"_id": "92854"
+			},
+			{
+				"date": "15 déc. 2011 19:20:54",
+				"tel_id": "349",
+				"cont": "mdr ok on fait juste un trait pr les asymptotes alros?",
+				"_id": "92856"
+			},
+			{
+				"date": "15 déc. 2011 19:21:30",
+				"tel_id": "191",
+				"cont": "Ah c'est dur ?",
+				"_id": "92857"
+			},
+			{
+				"date": "15 déc. 2011 19:22:34",
+				"tel_id": "191",
+				"cont": "Chaud!",
+				"_id": "92858"
+			},
+			{
+				"date": "15 déc. 2011 19:22:36",
+				"tel_id": "504",
+				"cont": "Ça va t es pepere !!! :P c'est souvent les plis longues heures mais ça va bien se passer tkt ;) oui cetais hier soir dans un lieu où y à eu une fusillade lundi... xD",
+				"_id": "92859"
+			},
+			{
+				"date": "15 déc. 2011 19:22:50",
+				"tel_id": "153",
+				"cont": {
+					"Location": "la galine",
+					"__text": "J'arrive à \n !"
+				},
+				"_id": "92860"
+			},
+			{
+				"date": "15 déc. 2011 19:25:45",
+				"tel_id": "349",
+				"cont": "ok merci beaucoup pour tous ce que tu m'as aidé pr les 2 dm! :)",
+				"_id": "92861"
+			},
+			{
+				"date": "15 déc. 2011 19:26:31",
+				"tel_id": "162",
+				"cont": "Très bien, bonne nuit et bon courage pr la réprimande de demain!!:)",
+				"_id": "92862"
+			},
+			{
+				"date": "15 déc. 2011 19:26:44",
+				"tel_id": "162",
+				"cont": "Officiellement bien rentrée! :)",
+				"_id": "92863"
+			},
+			{
+				"date": "15 déc. 2011 19:27:02",
+				"tel_id": "359",
+				"cont": "Ah ok je savais pas. Ben oui je pense que c'est plus simple, en tout cas ça fait déplacer moins de personne. Puis c'est pas sûre que mini travaille. Si *** répond je te dis ce qu'il me dit.",
+				"_id": "92864"
+			},
+			{
+				"date": "15 déc. 2011 19:26:57",
+				"tel_id": "162",
+				"cont": "Alors bien rentrée ou pas?",
+				"_id": "92865"
+			},
+			{
+				"date": "15 déc. 2011 19:27:15",
+				"tel_id": "162",
+				"cont": "Ok je vais pas tarder",
+				"_id": "92866"
+			},
+			{
+				"date": "15 déc. 2011 19:27:29",
+				"tel_id": "162",
+				"cont": "On est ds le vert anglais en bas au chaud !",
+				"_id": "92867"
+			},
+			{
+				"date": "15 déc. 2011 19:27:41",
+				"tel_id": "162",
+				"cont": "Ok nikel^^",
+				"_id": "92868"
+			},
+			{
+				"date": "15 déc. 2011 19:27:55",
+				"tel_id": "162",
+				"cont": "Oook! Je sais pas encore, là je mange ^^je risque de t'appeler qd je pars pour savoir ou vous êtes...",
+				"_id": "92869"
+			},
+			{
+				"date": "15 déc. 2011 19:28:06",
+				"tel_id": "162",
+				"cont": "Vers 20h, et toi?? Je suis déjà en ville avec *** la en fait^^",
+				"_id": "92870"
+			},
+			{
+				"date": "15 déc. 2011 19:28:28",
+				"tel_id": "162",
+				"cont": "Coucou toi! ça va? Dis t'y as a quelle heure au vers anglais?...",
+				"_id": "92871"
+			},
+			{
+				"date": "15 déc. 2011 19:28:50",
+				"tel_id": "162",
+				"cont": "*** bonne soirée!^^",
+				"_id": "92872"
+			},
+			{
+				"date": "15 déc. 2011 19:29:02",
+				"tel_id": "162",
+				"cont": "Ouai vas y",
+				"_id": "92873"
+			},
+			{
+				"date": "15 déc. 2011 19:29:13",
+				"tel_id": "162",
+				"cont": "Arf g prévu autre chose dommage ca avait l'air intéressant! Tu me raconteras!^^ tu veux que je te passe le numéro d'***?",
+				"_id": "92874"
+			},
+			{
+				"date": "15 déc. 2011 19:29:25",
+				"tel_id": "162",
+				"cont": "On va a l'agora des savoirs ce soir moi et mon frere donc si tu veux venir sa serait cool ! Demande a *** aussi.",
+				"_id": "92875"
+			},
+			{
+				"date": "15 déc. 2011 19:29:50",
+				"tel_id": "162",
+				"cont": "Bon le 25décembre a midi on va manger chez mamie !",
+				"_id": "92876"
+			},
+			{
+				"date": "15 déc. 2011 19:30:09",
+				"tel_id": "162",
+				"cont": "Ok on verra.bises",
+				"_id": "92877"
+			},
+			{
+				"date": "15 déc. 2011 19:30:20",
+				"tel_id": "162",
+				"cont": "Et cool si t chez mamie alors!",
+				"_id": "92878"
+			},
+			{
+				"date": "15 déc. 2011 19:30:27",
+				"tel_id": "359",
+				"cont": "Ah ok ke viens de comprendre ta phrase. Oui on mange ensemble. Viens",
+				"_id": "92879"
+			},
+			{
+				"date": "15 déc. 2011 19:30:22",
+				"tel_id": "349",
+				"cont": "ça roule ;)",
+				"_id": "92880"
+			},
+			{
+				"date": "15 déc. 2011 19:30:34",
+				"tel_id": "162",
+				"cont": "*** ne me gene pas non. Après vu que je travaille tous les soirs je profite de mon temps libre pr me reposer. Et tu m'as jamais invité un jour précis dc jappelle pas ca une invitation.",
+				"_id": "92881"
+			},
+			{
+				"date": "15 déc. 2011 19:30:43",
+				"tel_id": "162",
+				"cont": "Je serai j pense chezmamie mamie",
+				"_id": "92882"
+			},
+			{
+				"date": "15 déc. 2011 19:30:53",
+				"tel_id": "162",
+				"cont": "Apparement mini t gene depuis tte mes invtation donc j certain.Bisous",
+				"_id": "92883"
+			},
+			{
+				"date": "15 déc. 2011 19:31:06",
+				"tel_id": "162",
+				"cont": "Je sais pas, tu le fais a mtp? Le samedi soir on mange chez maman et le dimanche midi chez mamie , on peut manger ensemble le samedi midi? Ou le 25 au soir? A moins que tu viennes chez mamie?",
+				"_id": "92884"
+			},
+			{
+				"date": "15 déc. 2011 19:31:27",
+				"tel_id": "162",
+				"cont": "Hello . Bisous. Commem s passe Noel Cet annee. Je vois *** la semaine proch.Bisous",
+				"_id": "92885"
+			},
+			{
+				"date": "15 déc. 2011 19:32:08",
+				"tel_id": "162",
+				"cont": {
+					"Location": [
+						"corum",
+						"louis blanc"
+					],
+					"__text": "Pourquoi a pied? Ya pas de tram?? Bon ben du cou arrete toi avant l'arret \n! Dis moi quand t vers la fin du boulevard \n!"
+				},
+				"_id": "92886"
+			},
+			{
+				"date": "15 déc. 2011 19:32:18",
+				"tel_id": "162",
+				"cont": "Je vais être en retard :( je suis à pied",
+				"_id": "92887"
+			},
+			{
+				"date": "15 déc. 2011 19:32:28",
+				"tel_id": "162",
+				"cont": "Cool:d tu verras c 1000fois meilleur que macdo!:d",
+				"_id": "92888"
+			},
+			{
+				"date": "15 déc. 2011 19:32:18",
+				"tel_id": "504",
+				"cont": "Ahah, sa je sais pas :P on ma dis que t était pas très sage ! ;) oui une fusillade à cause de drogues vengeance un truk de genre... enfin cetais super bien et très bon ! Impossible de tout manger !",
+				"_id": "92890"
+			},
+			{
+				"date": "15 déc. 2011 19:32:35",
+				"tel_id": "349",
+				"cont": "je sais que je viens plus beaucoup en ce moment mais je peux vraiment pas, ya plein de trucs, pas mal de boulot mais beaucoup d'autres trucs aussi...voila je sais pas si tu vas vraiment coprendre, en tout cas c'est pas contre toi ou quoi, je suis vraiment dsl de pas pouvoir venir..",
+				"_id": "92891"
+			},
+			{
+				"date": "15 déc. 2011 19:32:56",
+				"tel_id": "162",
+				"cont": "Non 8.50 burger et frites ca te va?",
+				"_id": "92892"
+			},
+			{
+				"date": "15 déc. 2011 19:33:15",
+				"tel_id": "162",
+				"cont": "Non je connais pas burger and co mais ça coûte combien ? Plus de 10 euros ?",
+				"_id": "92893"
+			},
+			{
+				"date": "15 déc. 2011 19:33:29",
+				"tel_id": "162",
+				"cont": "Ok bin je le prépare et je pars de chez moi dans 20 min à peu près je pars donc vers 45 j'arrive :)",
+				"_id": "92894"
+			},
+			{
+				"date": "15 déc. 2011 19:33:42",
+				"tel_id": "162",
+				"cont": {
+					"Location": "corum",
+					"__text": "Dis moi quand le tram est a l'arret juste avant le \n com ca je descends!"
+				},
+				"_id": "92895"
+			},
+			{
+				"date": "15 déc. 2011 19:33:53",
+				"tel_id": "349",
+				"cont": "pffiou en fait ça me fait plaiz que tu soies au courant :)j'espère juste que ça va s'arranger pr toi ac ***..",
+				"_id": "92896"
+			},
+			{
+				"date": "15 déc. 2011 19:34:38",
+				"tel_id": "359",
+				"cont": "*** tu radote, blague déjà faite ^^",
+				"_id": "92897"
+			},
+			{
+				"date": "15 déc. 2011 19:34:57",
+				"tel_id": "162",
+				"cont": "Ok a tout a l'heure^^",
+				"_id": "92898"
+			},
+			{
+				"date": "15 déc. 2011 19:35:10",
+				"tel_id": "162",
+				"cont": "Oui si tu veux",
+				"_id": "92899"
+			},
+			{
+				"date": "15 déc. 2011 19:35:24",
+				"tel_id": "162",
+				"cont": "Tu pourrais venir un peu + tot ou pas? Genre vers 18h45?",
+				"_id": "92900"
+			},
+			{
+				"date": "15 déc. 2011 19:35:44",
+				"tel_id": "359",
+				"cont": "Allez, ramène toi *** ma envoyé u nouveau mail faut que je te raconte",
+				"_id": "92901"
+			},
+			{
+				"date": "15 déc. 2011 19:35:45",
+				"tel_id": "162",
+				"cont": {
+					"Location": "corum",
+					"__text": "Oui ok c'est bon pour moi :) a 19h au \n :)"
+				},
+				"_id": "92902"
+			},
+			{
+				"date": "15 déc. 2011 19:36:09",
+				"tel_id": "162",
+				"cont": {
+					"Location": "corum",
+					"__text": "Je sais pas, vers 19h a l'arret \n? Je te ferai visiter l'appart com ca!:d"
+				},
+				"_id": "92904"
+			},
+			{
+				"date": "15 déc. 2011 19:36:19",
+				"tel_id": "349",
+				"cont": "*** c'est parce qu'elle était à la soirée dc elle a limite suivi en live",
+				"_id": "92905"
+			},
+			{
+				"date": "15 déc. 2011 19:36:23",
+				"tel_id": "162",
+				"cont": "Oui je t'ai répondu sur FB ou et quand ?",
+				"_id": "92906"
+			},
+			{
+				"date": "15 déc. 2011 19:36:37",
+				"tel_id": "162",
+				"cont": "Ca te dit on mange ensemble ce soir alors avant le vert anglais?",
+				"_id": "92907"
+			},
+			{
+				"date": "15 déc. 2011 19:37:09",
+				"tel_id": "162",
+				"cont": "Moi je pense qui a carrément moyen avec ***...!Au fait c vendredi ta soirée?",
+				"_id": "92908"
+			},
+			{
+				"date": "15 déc. 2011 19:37:31",
+				"tel_id": "162",
+				"cont": "Mais ya un cadeau :p",
+				"_id": "92909"
+			},
+			{
+				"date": "15 déc. 2011 19:37:44",
+				"tel_id": "162",
+				"cont": "Ah en fait si il arrive ca devrait etre bon! ^^ encore faut il qu'il aime le bacon...^^'",
+				"_id": "92910"
+			},
+			{
+				"date": "15 déc. 2011 19:37:50",
+				"tel_id": "359",
+				"cont": "T'as des petits récipient en verre??",
+				"_id": "92911"
+			},
+			{
+				"date": "15 déc. 2011 19:37:55",
+				"tel_id": "162",
+				"cont": "Laisse tomber pr ton pari, il va etre en retard!!",
+				"_id": "92912"
+			},
+			{
+				"date": "15 déc. 2011 19:38:08",
+				"tel_id": "162",
+				"cont": "Lol! Elle ta dc repéré ^^ ta répondu quand meme?",
+				"_id": "92913"
+			},
+			{
+				"date": "15 déc. 2011 19:38:17",
+				"tel_id": "162",
+				"cont": "Ya la conne de *** qui m'a dit : \"salut\" lol",
+				"_id": "92914"
+			},
+			{
+				"date": "15 déc. 2011 19:38:28",
+				"tel_id": "359",
+				"cont": "Et les bocaux tu en as ??",
+				"_id": "92915"
+			},
+			{
+				"date": "15 déc. 2011 19:38:41",
+				"tel_id": "162",
+				"cont": "NON JE BOUDE PAS OK!! Mdr ça va toi! Je viens de voir a l'instant tn message sur facebook. On se la fait quand cette soirée?",
+				"_id": "92917"
+			},
+			{
+				"date": "15 déc. 2011 19:38:55",
+				"tel_id": "162",
+				"cont": "Et g appris plein de choses, faudra que je te raconte! Et toi ta journée?",
+				"_id": "92918"
+			},
+			{
+				"date": "15 déc. 2011 19:39:07",
+				"tel_id": "162",
+				"cont": "Aaah si désolée! Dc oui très bien on a bien rigolé^^",
+				"_id": "92919"
+			},
+			{
+				"date": "15 déc. 2011 19:39:21",
+				"tel_id": "162",
+				"cont": "Tu n'as pas eu celui où je te demandais pour la soirée anglaise?",
+				"_id": "92920"
+			},
+			{
+				"date": "15 déc. 2011 19:39:24",
+				"tel_id": "349",
+				"cont": "et aussi parce que *** voulait pas qu'on le dise à un d'entre vous au début, et fallait que j'en parle ac qqn pr pas devenir cplètement folle, dc elle a sû un peu ttes les étapes, mais j'ai pas plus confiance en elle qu'en toi tkt ;)",
+				"_id": "92921"
+			},
+			{
+				"date": "15 déc. 2011 19:39:43",
+				"tel_id": "162",
+				"cont": "Lesquels?G juste u ta réponse pr le chat potté c tout...",
+				"_id": "92922"
+			},
+			{
+				"date": "15 déc. 2011 19:39:58",
+				"tel_id": "162",
+				"cont": "Pourquoi tu ne réponds pas à mes textos?  +.+",
+				"_id": "92923"
+			},
+			{
+				"date": "15 déc. 2011 19:40:10",
+				"tel_id": "162",
+				"cont": "Il n'y a pas de moments vraiment hilarants mais l'ensemble est mignon, les décors très beaux, la musique tip top et ça fait sourire^^ enfin tu me diras ce que tu en as pensé ;) soirée anglaise? Sympa? A l'intérieur, rassure-moi..",
+				"_id": "92924"
+			},
+			{
+				"date": "15 déc. 2011 19:40:23",
+				"tel_id": "162",
+				"cont": "Pas mal^^ aurait pu etre mieux mais pas mal^^ et beaucoup de chats ;)",
+				"_id": "92925"
+			},
+			{
+				"date": "15 déc. 2011 19:40:49",
+				"tel_id": "349",
+				"cont": "bien sûrcantine demain midi?",
+				"_id": "92928"
+			},
+			{
+				"date": "15 déc. 2011 19:41:04",
+				"tel_id": "162",
+				"cont": "Alors ce chat potté?",
+				"_id": "92929"
+			},
+			{
+				"date": "15 déc. 2011 19:41:20",
+				"tel_id": "162",
+				"cont": "Ok bon film alors ^^",
+				"_id": "92930"
+			},
+			{
+				"date": "15 déc. 2011 19:41:26",
+				"tel_id": "359",
+				"cont": "Tu fais chier c'était pour mettre du parfum... Gratos...",
+				"_id": "92931"
+			},
+			{
+				"date": "15 déc. 2011 19:41:40",
+				"tel_id": "162",
+				"cont": "ça devrait aller mais le film n'a pas encore commencé donc tout reste encore possible! Et ok pour la soirée anglaise ;)",
+				"_id": "92932"
+			},
+			{
+				"date": "15 déc. 2011 19:41:56",
+				"tel_id": "162",
+				"cont": "Génial +___+ bien placée quand meme?",
+				"_id": "92933"
+			},
+			{
+				"date": "15 déc. 2011 19:42:08",
+				"tel_id": "359",
+				"cont": "Pfff c'est pas vrai !!",
+				"_id": "92934"
+			},
+			{
+				"date": "15 déc. 2011 19:41:11",
+				"tel_id": "442",
+				"cont": "Mettez du plomb à vis chaussures bonne tempete biz",
+				"_id": "92935"
+			},
+			{
+				"date": "15 déc. 2011 19:42:11",
+				"tel_id": "162",
+				"cont": "Alors je vais voir un film ou la majorité des gens mesurent moins d'un mètre quarante et bien le seul qui mesure un mètre quatre vingt dix il se met où? Juste devant moi. Et bien sur comme les places à coté de moi sont toutes prises je suis obligée de me déplacer puisque en plus ce géant a l'air handicapé mental -vraiment-",
+				"_id": "92936"
+			},
+			{
+				"date": "15 déc. 2011 19:42:27",
+				"tel_id": "162",
+				"cont": "Oui, dernière de l'année^^",
+				"_id": "92937"
+			},
+			{
+				"date": "15 déc. 2011 19:43:43",
+				"tel_id": "442",
+				"cont": "On vous heberge prenez votre helico",
+				"_id": "92941"
+			},
+			{
+				"date": "15 déc. 2011 19:43:52",
+				"tel_id": "162",
+				"cont": "Les modes de conservation^^Et ok tu me dira pr le film^^",
+				"_id": "92942"
+			},
+			{
+				"date": "15 déc. 2011 19:44:05",
+				"tel_id": "481",
+				"cont": "Et toi, t'as fait quoi pendant ton stage à domicile ?",
+				"_id": "92943"
+			},
+			{
+				"date": "15 déc. 2011 19:44:14",
+				"tel_id": "349",
+				"cont": "comme souvent mon cher",
+				"_id": "92944"
+			},
+			{
+				"date": "15 déc. 2011 19:44:21",
+				"tel_id": "162",
+				"cont": "Mars pour ottawa^^ oui juste pour aujourd'hui! Je vais voir -le chat potté- j'ai hésité avec -des vents contraires-... Tu ne connaissais pas les réponses? C'était sur quel thème finalement?",
+				"_id": "92945"
+			},
+			{
+				"date": "15 déc. 2011 19:47:01",
+				"tel_id": "171",
+				"cont": "Fini je peux viendre?fais biper si oui",
+				"_id": "92946"
+			},
+			{
+				"date": "15 déc. 2011 19:47:12",
+				"tel_id": "171",
+				"cont": "Done",
+				"_id": "92947"
+			},
+			{
+				"date": "15 déc. 2011 19:48:34",
+				"tel_id": "442",
+				"cont": "Ok ne jouer pas a mary poppins avec votre parapluie !!!!!!!!!!!!!!!",
+				"_id": "92948"
+			},
+			{
+				"date": "15 déc. 2011 19:51:18",
+				"tel_id": "349",
+				"cont": "mdr va pour l'amdr!",
+				"_id": "92949"
+			},
+			{
+				"date": "15 déc. 2011 19:51:22",
+				"tel_id": "442",
+				"cont": "Tu rentres les nains  de jardin !!!!!!!",
+				"_id": "92950"
+			},
+			{
+				"date": "15 déc. 2011 19:51:33",
+				"tel_id": "271",
+				"cont": ":) la chance moi mes darons sont a la parents prof !",
+				"_id": "92951"
+			},
+			{
+				"date": "15 déc. 2011 19:51:46",
+				"tel_id": "271",
+				"cont": "Ok je fais l'anglais je re dans 10",
+				"_id": "92952"
+			},
+			{
+				"date": "15 déc. 2011 19:52:01",
+				"tel_id": "271",
+				"cont": "Envoie le moi sur fb !",
+				"_id": "92953"
+			},
+			{
+				"date": "15 déc. 2011 19:52:12",
+				"tel_id": "271",
+				"cont": "Imprime pas et met le en piece jointe sur fb je le corrige et l'imprime",
+				"_id": "92954"
+			},
+			{
+				"date": "15 déc. 2011 19:52:32",
+				"tel_id": "271",
+				"cont": "Je l'ai fini je la fotocopie et elle fait pile une page essaye de faire pareil , 1 page en mettant en comic sans ms 10 , le nom des perso en majuscules gras et avec le trema sur *** et pas deux point apres mais un tiret du 6 et un espace de chaque cote du tiret",
+				"_id": "92955"
+			},
+			{
+				"date": "15 déc. 2011 19:52:46",
+				"tel_id": "271",
+				"cont": "Je sais pas je copie la scène 2",
+				"_id": "92956"
+			},
+			{
+				"date": "15 déc. 2011 19:52:56",
+				"tel_id": "271",
+				"cont": "Comme tu veut mais genre les 3/4 d'une page sur word",
+				"_id": "92957"
+			},
+			{
+				"date": "15 déc. 2011 19:53:36",
+				"tel_id": "194",
+				"cont": "Et donc... Tu dois vraiment te faire chier!",
+				"_id": "92958"
+			},
+			{
+				"date": "15 déc. 2011 19:53:47",
+				"tel_id": "157",
+				"cont": "Okay nikel vous aurez manger ou on mange ensemble a la maison?!",
+				"_id": "92959"
+			},
+			{
+				"date": "15 déc. 2011 19:54:05",
+				"tel_id": "157",
+				"cont": "Tres bien :) quoi de beau?!",
+				"_id": "92960"
+			},
+			{
+				"date": "15 déc. 2011 19:54:51",
+				"tel_id": "157",
+				"cont": "Trop!! Fin moyen y a des trucs trop bien et des trucs un peu moins!! :p et toi comment tu te sens?!",
+				"_id": "92961"
+			},
+			{
+				"date": "15 déc. 2011 19:55:40",
+				"tel_id": "442",
+				"cont": "Ah. Ah. Solde sur les locations ........",
+				"_id": "92962"
+			},
+			{
+				"date": "15 déc. 2011 19:56:02",
+				"tel_id": "157",
+				"cont": "Ca derange pas du tout voyons :p",
+				"_id": "92963"
+			},
+			{
+				"date": "15 déc. 2011 19:56:29",
+				"tel_id": "271",
+				"cont": "Ta une putain de chance tes parents te laissent le phone en etant puni moi jamais !",
+				"_id": "92964"
+			},
+			{
+				"date": "15 déc. 2011 19:58:52",
+				"tel_id": "157",
+				"cont": "Mange *** mange XD allez courage c'est bientot finie!!",
+				"_id": "92965"
+			},
+			{
+				"date": "15 déc. 2011 19:59:08",
+				"tel_id": "359",
+				"cont": "Alors alors alors, vous avez gagné?? Bisous tout partout :-)",
+				"_id": "92966"
+			},
+			{
+				"date": "15 déc. 2011 20:01:35",
+				"tel_id": "157",
+				"cont": "Vive le regime mdr!!!",
+				"_id": "92967"
+			},
+			{
+				"date": "15 déc. 2011 20:03:45",
+				"tel_id": "359",
+				"cont": "Je te les ai envoyé tout à l'heure tu les as pas reçu ??",
+				"_id": "92968"
+			},
+			{
+				"date": "15 déc. 2011 20:04:00",
+				"tel_id": "359",
+				"cont": "Sur ton mail",
+				"_id": "92969"
+			},
+			{
+				"date": "15 déc. 2011 20:08:59",
+				"tel_id": "359",
+				"cont": "Tu fais chier je m'ennuie moi..:-(",
+				"_id": "92970"
+			},
+			{
+				"date": "15 déc. 2011 20:16:16",
+				"tel_id": "162",
+				"cont": "Le casque est parfait^^ il tient chaud aux oreilles a priori^^ à essayer en extérieur :d pour le flash mob c'est celui avec oprah? Et la chanson de calogero tu connais le titre? Et courage pour ton controle ;)",
+				"_id": "92971"
+			},
+			{
+				"date": "15 déc. 2011 20:16:27",
+				"tel_id": "162",
+				"cont": "Oui celui la^^ et je sais pas pr la chanson, tu devrais la trouvé sur youtube je pense!Et bon son alors ca va ?",
+				"_id": "92972"
+			},
+			{
+				"date": "15 déc. 2011 20:16:57",
+				"tel_id": "162",
+				"cont": "Pour la chanson trouvée oui! -la bourgeoisie des sensations- tout un programme... J'ai compris comme toi pour le sens. Pour le flash mob, vu oui. Et pour le casque très bien oui^^ merci^^",
+				"_id": "92974"
+			},
+			{
+				"date": "15 déc. 2011 20:17:07",
+				"tel_id": "162",
+				"cont": "Et alors ta aimé le flash mob? Ta trouvé comment?Ah oui c ca le titre! Et ok pr ton interprétation^^",
+				"_id": "92975"
+			},
+			{
+				"date": "15 déc. 2011 20:17:25",
+				"tel_id": "162",
+				"cont": "ça doit etre impressionnant à voir oui^^",
+				"_id": "92976"
+			},
+			{
+				"date": "15 déc. 2011 20:17:57",
+				"tel_id": "162",
+				"cont": "Ct pas vraiment un controle en fait^^",
+				"_id": "92978"
+			},
+			{
+				"date": "15 déc. 2011 20:18:11",
+				"tel_id": "162",
+				"cont": "Une évaluation?",
+				"_id": "92979"
+			},
+			{
+				"date": "15 déc. 2011 20:18:20",
+				"tel_id": "162",
+				"cont": "Ouai un questionnaire et on a corrigé ensemble.",
+				"_id": "92980"
+			},
+			{
+				"date": "15 déc. 2011 20:19:18",
+				"tel_id": "162",
+				"cont": {
+					"Location": "chine",
+					"__text": "Ah et au fait hier j'ai oublié de te dire que j'avais postulé à l'alliance française de xi'an en \n et que j'avais passé la -présélection- Bref le sous-responsable m'avait dit qu'il appuyait à fond ma candidature. Bon aujourd'hui j'ai eu la réponse de la décision finale: pas reçue^^ expérience trop juste^^"
+				},
+				"_id": "92983"
+			},
+			{
+				"date": "15 déc. 2011 20:19:27",
+				"tel_id": "162",
+				"cont": "Ah dommage ms cool! Ta postulé a d'autres endroits? Ct pr commencer quand?",
+				"_id": "92984"
+			},
+			{
+				"date": "15 déc. 2011 20:19:39",
+				"tel_id": "162",
+				"cont": "Et bien les cinémas gaumont m'offrent une place gratuite pour mon anniversaire mais valable juste aujourd'hui donc là je viens de faire quelques cadeaux -enfin deux..- je vais faire des photocopies et après j'irai voir mon film^^",
+				"_id": "92985"
+			},
+			{
+				"date": "15 déc. 2011 20:19:49",
+				"tel_id": "162",
+				"cont": "Ton questionnaire tu as bien répondu? ;)",
+				"_id": "92986"
+			},
+			{
+				"date": "15 déc. 2011 20:20:09",
+				"tel_id": "162",
+				"cont": {
+					"Location": "d'ottawa",
+					"__text": "C'était pour février environ^^ et j'ai postulé à celle \n aussi^^ mais aucune réponse de ce coté-là^^"
+				},
+				"_id": "92987"
+			},
+			{
+				"date": "15 déc. 2011 20:20:23",
+				"tel_id": "162",
+				"cont": "Juste auj! Tu vas allé voir quoi?Et non g a peine répondu^^'",
+				"_id": "92988"
+			},
+			{
+				"date": "15 déc. 2011 20:20:46",
+				"tel_id": "162",
+				"cont": {
+					"Location": "Ottawa",
+					"__text": "pr quand?"
+				},
+				"_id": "92989"
+			},
+			{
+				"date": "15 déc. 2011 20:21:07",
+				"tel_id": "162",
+				"cont": "Ok^^ tu me raconteras oui^^",
+				"_id": "92990"
+			},
+			{
+				"date": "15 déc. 2011 20:21:30",
+				"tel_id": "162",
+				"cont": "Et là je viens à peine de partir de l'apéritif faut encore que je rentre en vélo et je suis cuite à cause du vin mousseux et il y a ta musique qui passe à la radio dans les oreilles^^",
+				"_id": "92991"
+			},
+			{
+				"date": "15 déc. 2011 20:21:40",
+				"tel_id": "162",
+				"cont": "Hahaha tu t bien tenu malgré l'alcool? :p",
+				"_id": "92992"
+			},
+			{
+				"date": "15 déc. 2011 20:21:51",
+				"tel_id": "162",
+				"cont": "Pas sur... C'est un handicap tu sais... Attends je me concentre sur comment pédaler ;) et des appris des choses sur quoi?",
+				"_id": "92993"
+			},
+			{
+				"date": "15 déc. 2011 20:22:13",
+				"tel_id": "162",
+				"cont": "Les gens de la classe... Un handicap mon oeil, tu savais qu'il fallait pas que tu boive!!",
+				"_id": "92994"
+			},
+			{
+				"date": "15 déc. 2011 20:25:30",
+				"tel_id": "359",
+				"cont": "Je suis pas ta boniche non mais !!! Et *** n'est pas encore rentré!!",
+				"_id": "92995"
+			},
+			{
+				"date": "15 déc. 2011 20:33:35",
+				"tel_id": "359",
+				"cont": "Oh pas cool.... Je fais à manger à tte. Gros bisous partout !!",
+				"_id": "92996"
+			},
+			{
+				"date": "15 déc. 2011 20:35:33",
+				"tel_id": "194",
+				"cont": "On menleve les bagues en fevrier",
+				"_id": "92997"
+			},
+			{
+				"date": "15 déc. 2011 20:35:54",
+				"tel_id": "194",
+				"cont": "Lol non c'est sur jai pris le rendez vous le 6 je crois",
+				"_id": "92998"
+			},
+			{
+				"date": "15 déc. 2011 20:44:03",
+				"tel_id": "504",
+				"cont": "Salut ma Poulette :) j'ai pu le temps de la raconter. Mais j'ai encore le temps pour écouter la tienne :)",
+				"_id": "92999"
+			},
+			{
+				"date": "15 déc. 2011 20:47:31",
+				"tel_id": "508",
+				"cont": "C'est bon je sais quoi te prendre mdr",
+				"_id": "93000"
+			},
+			{
+				"date": "15 déc. 2011 20:48:06",
+				"tel_id": "481",
+				"cont": "Coucou comment tu vas ma petite ? Tu t'embete pas trop à l'hosto?",
+				"_id": "93001"
+			},
+			{
+				"date": "15 déc. 2011 20:52:01",
+				"tel_id": "481",
+				"cont": "Et tu sera entièrement remise à peu près quand ?",
+				"_id": "93003"
+			},
+			{
+				"date": "15 déc. 2011 20:58:52",
+				"tel_id": "202",
+				"cont": {
+					"Location": "Algérie",
+					"__text": "Oui!!<3<3 En plus après demain elle part en \n!! On aurait plus eu l'occasion de la voir avant deux semaines!!!"
+				},
+				"_id": "93004"
+			},
+			{
+				"date": "15 déc. 2011 21:18:03",
+				"tel_id": "256",
+				"cont": "Il m'enerve serieux. Et ce de plus en plus.",
+				"_id": "93005"
+			},
+			{
+				"date": "15 déc. 2011 21:18:27",
+				"tel_id": "479",
+				"cont": "Erreur de manip, je branchais mes écouteurs :) oki pour demain.",
+				"_id": "93006"
+			},
+			{
+				"date": "15 déc. 2011 21:19:31",
+				"tel_id": "36",
+				"cont": {
+					"Location": "montpellier",
+					"__text": "Cc vou allez à \n dmin bisous"
+				},
+				"_id": "93007"
+			},
+			{
+				"date": "15 déc. 2011 21:20:40",
+				"tel_id": "504",
+				"cont": "Comment ça ta pas le temps, t es quasiment en vacance !!!!! :P mdr oui, sa fais longtemps ça... et jattend ma lettre :)",
+				"_id": "93008"
+			},
+			{
+				"date": "15 déc. 2011 21:23:33",
+				"tel_id": "202",
+				"cont": "Il faut y etre 30 min avant! Il me semble que ca commence à 12h30! Nous pourrions nous retrouver devant l'amphi B à 12h, voire un tout ptit peu avant?=DD<3<3",
+				"_id": "93009"
+			},
+			{
+				"date": "15 déc. 2011 21:24:45",
+				"tel_id": "504",
+				"cont": "Mes horaires :Mardi 8-17hMercredi 13-21hJeudi 9-16h (je suis dispo qu'à partir de 17h30-18h rdv)Vendredi 8-15hSamedi 13-18h30 NOEL  :PFaudrais que jaille à un marché de noël pour des cadeaux je pense",
+				"_id": "93010"
+			},
+			{
+				"date": "15 déc. 2011 21:31:51",
+				"tel_id": "504",
+				"cont": "Pour demain on pourra pas manger ensemble désolé, pendant les vacances tkt ;) on essayera de trouver un jour. Et jtappelerai quand je pourrai, j'ai plu de voix... et peu de temps là mais tkt, voilà bonne soirée à demain vieux :)",
+				"_id": "93011"
+			},
+			{
+				"date": "15 déc. 2011 21:34:36",
+				"tel_id": "504",
+				"cont": "T as plus à trois heures près roh !! Lol franchement j'ai de très forts doutent... jaimerais j'ai une idée mais c'est pas gagné... pas mal de truk à faire et besoin de me reposer un peu aussi... :/",
+				"_id": "93012"
+			},
+			{
+				"date": "15 déc. 2011 21:36:19",
+				"tel_id": "504",
+				"cont": "Et bon courage pour ta longue journée de demain alors :P tu va voir le père noël ?! XD",
+				"_id": "93013"
+			},
+			{
+				"date": "15 déc. 2011 21:49:40",
+				"tel_id": "504",
+				"cont": "Franchement je peux pas te dire là c'est tellement aléatoire aux périodes des fêtes... je suis même pas sur de ce que je vais faire demain ...",
+				"_id": "93014"
+			},
+			{
+				"date": "15 déc. 2011 21:51:50",
+				"tel_id": "10",
+				"cont": "Coucou comment ca va depuis tout a l heure ? L entrainement ?",
+				"_id": "93015"
+			},
+			{
+				"date": "15 déc. 2011 21:53:18",
+				"tel_id": "504",
+				"cont": "Ah trop rigolo !!! Moi qui veux venir au marché de noël en plus ! Ben si je suis un peu plus en forme jessaye de venir samedi :P jte tiendrai au courant tkt :)Je ferai le père noël alors !",
+				"_id": "93016"
+			},
+			{
+				"date": "15 déc. 2011 21:56:18",
+				"tel_id": "349",
+				"cont": "nn nn on passe pas et si je comprends ce que tu veux dire. pttr qu'elle a pas changé mais que moi si, j'en sais rien en tout cas ce que je disais sur elle l'an dernier je le pensais, mais ce que je dis en bien sur ell mtnt je le pense aussi! après ce que je voulais dire quand j'ai dit ça à *** c'est que c'est une pote mais je la considèrerais jamais comme je vous considère vous, c'est pas la mm chose. en fait c'est surtout cette histoire qui nous a pas mal rapprochées et c'est certainement parce que je lui ait dit (plus de place)",
+				"_id": "93017"
+			},
+			{
+				"date": "15 déc. 2011 21:56:47",
+				"tel_id": "349",
+				"cont": "(attend la fin avant de rep)",
+				"_id": "93018"
+			},
+			{
+				"date": "15 déc. 2011 21:59:50",
+				"tel_id": "349",
+				"cont": "(suite: ) plein de choses que j'ai pas dites à toi ou *** ou qqn d'autre du groupe, mais ya des trucs que je peux pas vous dire, c'est comme ça, j'ai trop peur de ce que vous allez penser etc alors qu'elle à la limite je m'en fiche..j'espère que tu vois ce que je veux dire..",
+				"_id": "93019"
+			},
+			{
+				"date": "15 déc. 2011 22:02:59",
+				"tel_id": "504",
+				"cont": "Ce samedi pardis ! :P lol oui, bonne nuit princesse de noël ahah <3 :)",
+				"_id": "93020"
+			},
+			{
+				"date": "15 déc. 2011 22:12:12",
+				"tel_id": "349",
+				"cont": "nn t'as pas compris... je vous compare pas à elle, c'est juste que ya des trucs fallait que j'en parle, mais ya des choses que je peux pas dire à *** *** ou toi. après c'est tombé sur elle mais à la limite ça aurait pus être n'importe qui",
+				"_id": "93021"
+			},
+			{
+				"date": "15 déc. 2011 22:15:14",
+				"tel_id": "349",
+				"cont": "en l'occurence c'est elle, mais je te redis que je la considère pas comme je vous considère vous",
+				"_id": "93022"
+			},
+			{
+				"date": "15 déc. 2011 22:17:36",
+				"tel_id": "504",
+				"cont": "Ouai mais jviendrais te voir en jouer ahah :P lol et après si tu peu ;) c'est qu'à letude pour linstant hein :P",
+				"_id": "93023"
+			},
+			{
+				"date": "15 déc. 2011 22:22:55",
+				"tel_id": "349",
+				"cont": "et j'ai reçu seulement le début de ton mess de tt, juste je voulais te dire que depuis un truc que *** à dit quand on était en 2nde, ya plein de trucs dont j'ai décidé de jamais vous parler, c'est bête mais c'est comme ça. je suis pas rancunière mais ce truc là je crois que c'est le seul mais je pourrais pas l'oublier",
+				"_id": "93024"
+			},
+			{
+				"date": "15 déc. 2011 22:23:30",
+				"tel_id": "10",
+				"cont": "Bon tu veux pas me repondre , je te souhaite une bonne nuit j espere que tu as bien preparer tes affaires n oublie rien en plus pense aussi a prendre ta carte identite et carte banquaire ne les laisse pas la bas . Pense demain matin a bien prendre tout tes draps !!! Bonne nuit gros bisous . Aurai aimer quand meme savour si ca cest bien passer ton entrainement... A demain Bisous",
+				"_id": "93025"
+			},
+			{
+				"date": "15 déc. 2011 22:23:47",
+				"tel_id": "349",
+				"cont": "*** l'a trop mal pris que tu soies au courant avant elle.. :s",
+				"_id": "93026"
+			},
+			{
+				"date": "15 déc. 2011 22:25:16",
+				"tel_id": "349",
+				"cont": "ok bonne philo, à demain",
+				"_id": "93027"
+			},
+			{
+				"date": "15 déc. 2011 22:25:54",
+				"tel_id": "349",
+				"cont": "*** l'a trop mal pris que *** sois au courant avant elle.. :s",
+				"_id": "93028"
+			},
+			{
+				"date": "15 déc. 2011 22:27:19",
+				"tel_id": "349",
+				"cont": "oui à la 1é question et nn à la 2ème, je voulais pas lui déballer ta vie",
+				"_id": "93029"
+			},
+			{
+				"date": "15 déc. 2011 22:30:12",
+				"tel_id": "349",
+				"cont": "oui pttr mais j'aime pas quand elle pète des cables comme ça.. je lui ait envoyé des maxi messages pr essayer de lui expiquer mais elle a pas compris je pense...ça lui reste bien en travers que ça soit *** surtt je crois",
+				"_id": "93030"
+			},
+			{
+				"date": "15 déc. 2011 22:32:28",
+				"tel_id": "349",
+				"cont": "nn je préfère pas lui dire, de tt façon je pense que ça servira à rien, elle a pas compris pk j'en avait parlé à toi et pas à elle alors que je lui ait envoyé des énormes mess pr lui expliquer",
+				"_id": "93031"
+			},
+			{
+				"date": "15 déc. 2011 22:33:39",
+				"tel_id": "349",
+				"cont": "oui tkt je peux comprendre, mais essaie de t'imaginer à ma place aussi...",
+				"_id": "93032"
+			},
+			{
+				"date": "15 déc. 2011 22:35:21",
+				"tel_id": "349",
+				"cont": "oui, je vais attendre que le moment soit passé, et après je vais avoir des grandes discussions inutiles ac elle et ça passera",
+				"_id": "93033"
+			},
+			{
+				"date": "15 déc. 2011 22:36:23",
+				"tel_id": "349",
+				"cont": "merci bichette ;)bonne nuit, à demain bisous",
+				"_id": "93034"
+			},
+			{
+				"date": "15 déc. 2011 22:37:03",
+				"tel_id": "349",
+				"cont": "mdr j'y penserais",
+				"_id": "93035"
+			},
+			{
+				"date": "15 déc. 2011 22:38:42",
+				"tel_id": "349",
+				"cont": "au moins sur moi en tt cas... mais bon je m'en fiche un peu, j'espère juste que ça lui passera vite!",
+				"_id": "93036"
+			},
+			{
+				"date": "15 déc. 2011 22:39:47",
+				"tel_id": "349",
+				"cont": "mdr la clasher changera pas les choses",
+				"_id": "93037"
+			},
+			{
+				"date": "15 déc. 2011 22:41:31",
+				"tel_id": "349",
+				"cont": "oui, ceci dit ça peut durer un moment..bref bref quel état d'esprit pr l'arrivée de ta soeur demain?",
+				"_id": "93038"
+			},
+			{
+				"date": "15 déc. 2011 22:46:10",
+				"tel_id": "349",
+				"cont": "c'est trop cool la tempête!pk bof?",
+				"_id": "93039"
+			},
+			{
+				"date": "15 déc. 2011 22:49:11",
+				"tel_id": "349",
+				"cont": "bah je sais pas, je suis pttr bizarre mais ya des choses que je préfère dire à qqn qui me connait pas qu'à qqn qui me connait trop bien.. et c'était pas une question de le prendre mal",
+				"_id": "93040"
+			},
+			{
+				"date": "15 déc. 2011 22:50:45",
+				"tel_id": "349",
+				"cont": "ahhh ok j'avais pas fait le lien! dslmais la tempête c'est pas juste en dessous des nuages?",
+				"_id": "93041"
+			},
+			{
+				"date": "15 déc. 2011 22:51:46",
+				"tel_id": "508",
+				"cont": "Heu non Dsl pourquoi c'est qui qui lutte contre la gueule de bois? ^^",
+				"_id": "93042"
+			},
+			{
+				"date": "15 déc. 2011 22:54:36",
+				"tel_id": "349",
+				"cont": "ah oui.. :smais ça va bien se passer, ils voleraient pas si c'était trop dangereux",
+				"_id": "93043"
+			},
+			{
+				"date": "15 déc. 2011 22:55:23",
+				"tel_id": "508",
+				"cont": "Ahahaha bien fait mauvais élève!",
+				"_id": "93044"
+			},
+			{
+				"date": "15 déc. 2011 22:56:12",
+				"tel_id": "508",
+				"cont": "Moi demain j'ai la dernière épreuve de mes partiels! :)",
+				"_id": "93045"
+			},
+			{
+				"date": "15 déc. 2011 22:58:03",
+				"tel_id": "508",
+				"cont": "Mdr bonne nuit j'ai eue 4 à mon bac de maths! Merci toi aussi ^^",
+				"_id": "93046"
+			},
+			{
+				"date": "15 déc. 2011 22:58:39",
+				"tel_id": "349",
+				"cont": "nn au début on vous en a pas parlé parce que nous mêmes on n'était pas très surs, et on voulait attendre de savoir si ça allait durer, et après si je te l'ai pas dit c'est tjrs à cause du truc que *** a dit en 2ndeje l:aimais pas avant mais mtnt je l'aime bien, et on se ressemble pas mal en fait",
+				"_id": "93047"
+			},
+			{
+				"date": "15 déc. 2011 22:59:38",
+				"tel_id": "508",
+				"cont": "Mdr les gros cas sos x)",
+				"_id": "93048"
+			},
+			{
+				"date": "15 déc. 2011 22:59:50",
+				"tel_id": "349",
+				"cont": "oui je me doute...mais c'est des gens sur entrainés",
+				"_id": "93049"
+			},
+			{
+				"date": "15 déc. 2011 23:01:13",
+				"tel_id": "508",
+				"cont": "Non mais je parlais de nous deux la tu vois ^^",
+				"_id": "93050"
+			},
+			{
+				"date": "15 déc. 2011 23:03:03",
+				"tel_id": "349",
+				"cont": "nn mais je comprends que tu stresses, mais oublie pas que c'est des gens dont c'est le métier, ils fnt ça tt le temps...",
+				"_id": "93054"
+			},
+			{
+				"date": "15 déc. 2011 23:03:48",
+				"tel_id": "249",
+				"cont": "Ué je sais *** m'a fait tourné le texto ... ;-)",
+				"_id": "93055"
+			},
+			{
+				"date": "15 déc. 2011 23:05:06",
+				"tel_id": "508",
+				"cont": "Mdr j'avoue qu'il est puissant ^^",
+				"_id": "93056"
+			},
+			{
+				"date": "15 déc. 2011 23:05:19",
+				"tel_id": "349",
+				"cont": "mdr tkt il va kiffer ton dm ;)oui c'est vrai que je suis très svt ac elle au lycée, mais t'es presque jamais là dc je vais pas rester tte seule nn plus",
+				"_id": "93057"
+			},
+			{
+				"date": "15 déc. 2011 23:06:09",
+				"tel_id": "508",
+				"cont": "Oh fait ça ma quand meme fait plaiz' d'avoir de \"tes\" nouvelles ^^",
+				"_id": "93058"
+			},
+			{
+				"date": "15 déc. 2011 23:07:49",
+				"tel_id": "508",
+				"cont": "Mdr mais vous etes pire que ce que je croyais lol",
+				"_id": "93059"
+			},
+			{
+				"date": "15 déc. 2011 23:08:27",
+				"tel_id": "349",
+				"cont": "je sais pas, je l'ai pas spécialement remarqué, mais je vais faire attention",
+				"_id": "93060"
+			},
+			{
+				"date": "15 déc. 2011 23:08:34",
+				"tel_id": "508",
+				"cont": "Allé révisé boulet mdr",
+				"_id": "93061"
+			},
+			{
+				"date": "15 déc. 2011 23:10:00",
+				"tel_id": "508",
+				"cont": "^^ fonce alors fonce",
+				"_id": "93062"
+			},
+			{
+				"date": "15 déc. 2011 23:10:14",
+				"tel_id": "349",
+				"cont": "oulah tu t'enflammes peut être un peu là quand mm",
+				"_id": "93063"
+			},
+			{
+				"date": "15 déc. 2011 23:11:00",
+				"tel_id": "508",
+				"cont": "Moi je dors lol",
+				"_id": "93064"
+			},
+			{
+				"date": "15 déc. 2011 23:13:10",
+				"tel_id": "349",
+				"cont": "oui je crois que ça c'est définitif :)le pire c'est qu'en temps que maire de la zone des stressés, je sais absolument pas quoi te dire...",
+				"_id": "93065"
+			},
+			{
+				"date": "15 déc. 2011 23:14:08",
+				"tel_id": "349",
+				"cont": "dsl, par sms c'est plus dur de reconnaitre",
+				"_id": "93066"
+			},
+			{
+				"date": "15 déc. 2011 23:14:13",
+				"tel_id": "508",
+				"cont": "Merci good night ^^",
+				"_id": "93067"
+			},
+			{
+				"date": "15 déc. 2011 23:15:34",
+				"tel_id": "508",
+				"cont": "Bien ? Alors tu as eu quoi au tribunal ?",
+				"_id": "93068"
+			},
+			{
+				"date": "15 déc. 2011 23:16:54",
+				"tel_id": "349",
+				"cont": {
+					"Location": "allemagne",
+					"__text": "je ne crois pas que ça soit d'actualité nn... enfin *** part mais je crois que frère/soeur/mère n'ont pas décidé de faire une escapade en \n..."
+				},
+				"_id": "93069"
+			},
+			{
+				"date": "15 déc. 2011 23:19:42",
+				"tel_id": "349",
+				"cont": "ok...on reverra ça demain alorselle atterit à quelle heure?",
+				"_id": "93071"
+			},
+			{
+				"date": "15 déc. 2011 23:19:54",
+				"tel_id": "194",
+				"cont": "Bien trouve petit sans ferraille",
+				"_id": "93072"
+			},
+			{
+				"date": "15 déc. 2011 23:22:04",
+				"tel_id": "194",
+				"cont": "On reste comme sa",
+				"_id": "93076"
+			},
+			{
+				"date": "15 déc. 2011 23:22:07",
+				"tel_id": "349",
+				"cont": {
+					"Location": "chàteau",
+					"__text": "oh bah ça fait pas avant 18h à"
+				},
+				"_id": "93077"
+			},
+			{
+				"date": "15 déc. 2011 23:22:40",
+				"tel_id": "194",
+				"cont": "О ватаяъ sa gere dercire en russe:-P",
+				"_id": "93078"
+			},
+			{
+				"date": "15 déc. 2011 23:24:37",
+				"tel_id": "349",
+				"cont": "je pense...sur ce je vais aller dormir, et je te conseille d'en faire autant..",
+				"_id": "93079"
+			},
+			{
+				"date": "15 déc. 2011 23:24:45",
+				"tel_id": "194",
+				"cont": "Pfff... Je prends la peine de te repondre juste parcque tu tai fait chier",
+				"_id": "93080"
+			},
+			{
+				"date": "15 déc. 2011 23:26:14",
+				"tel_id": "349",
+				"cont": "ok bonne nuit à demainbisous <3",
+				"_id": "93081"
+			},
+			{
+				"date": "15 déc. 2011 23:28:49",
+				"tel_id": "136",
+				"cont": "Comment tu fais comment le coeur ?",
+				"_id": "93083"
+			},
+			{
+				"date": "15 déc. 2011 23:42:06",
+				"tel_id": "442",
+				"cont": "Pour demain soir je ferai un rizotto biz",
+				"_id": "93084"
+			},
+			{
+				"date": "15 déc. 2011 23:45:25",
+				"tel_id": "157",
+				"cont": "Bon bah tu as oublié de me rappeler! Pas grave j'essaie de t avoir demain entre midi et deux! Bisous bonne nuit",
+				"_id": "93085"
+			}
+		]
+	}
+}

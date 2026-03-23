@@ -1,0 +1,107 @@
+main{
+    display: none;
+ 
+  
+}
+
+body {
+      display: flex;
+    justify-content: center; /* centre horizontal */
+    background-color: rgb(172, 172, 172);
+  display: flex;
+  justify-content: center;  /* centre horizontalement */
+  align-items: center;      /* centre verticalement */
+  height: 100vh;
+  
+}
+    
+
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.rotating {
+  animation: rotating 2s linear infinite;
+}
+
+video {
+  position: fixed;    /* reste derrière et couvre tout */
+  top: 0;
+  left: 0;
+  width: 100vw;       /* couvre la largeur */
+  height: 100vh;      /* couvre la hauteur */
+  object-fit: cover;  /* garde les proportions */
+  z-index: 0;         /* derrière tous les éléments */
+}
+
+
+a {
+  mix-blend-mode: difference;
+    font-family: "HyperScrypt.otf";
+    font-size: 90px;
+    color: white;
+    text-decoration: none;
+     display: inline-block;
+      animation-duration: 5s;
+   animation-iteration-count: infinite;
+  animation-name: grow-shrink;
+  animation-direction: alternate;
+    text-align: center;
+  margin: 0 50px;
+}
+
+@keyframes grow-shrink {
+  25%,
+  75% {
+    scale: 100%;
+  }
+
+  50% {
+    scale: 120%;
+    color: rgba(187, 10, 10, 0.13);
+  }
+}
+
+a:hover {
+
+    font-size: 90px;
+}
+
+/* 
+ul  {
+    font-size: 20px;
+}
+ul li  {
+    list-style: none;
+
+}
+ul li a {
+ 
+    text-decoration: none;
+
+} */
+
+@font-face {
+  font-family: "Fungal-Grow400Thickness500.ttf"; /*choix du mot clef */
+  src: url("../Fungal-Grow400Thickness500.ttf");  /*attention il faut bien ajouter '../' si besoin */
+}
+@font-face {
+  font-family: "Pixelary.otf"; /*choix du mot clef */
+  src: url("../Pixelary.otf");  /*attention il faut bien ajouter '../' si besoin */
+}
+
+
+@font-face {
+  font-family: "lyrics-movement.regular.ttf"; /*choix du mot clef */
+  src: url("../lyrics-movement.regular.ttf");  /*attention il faut bien ajouter '../' si besoin */
+}
+
+@font-face {
+  font-family: "HyperScrypt.otf"; /*choix du mot clef */
+  src: url("../HyperScrypt.otf");  /*attention il faut bien ajouter '../' si besoin */
+}
